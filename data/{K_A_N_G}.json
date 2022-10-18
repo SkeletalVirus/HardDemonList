@@ -1,1 +1,27 @@
-
+{
+    "id": 159,
+    "name": "K A N G",
+    "author": "Kang131",
+    "creators": [Kang131
+    "Creator 1",
+    "Creator 2",
+    "Creator 3"
+],
+    "verifier": "AeonAir",
+    "verification": "https://youtu.be/JvxO3jAmRO8",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Fawxu",
+            "link": "https://www.youtube.com/watch?v=tbQhAA5JtOw",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "Surt",
+            "link": "https://www.youtube.com/watch?v=oDmB44DGFW4",
+            "percent": 100,
+            "hz": Mobile
+        }
+    ]
+}
