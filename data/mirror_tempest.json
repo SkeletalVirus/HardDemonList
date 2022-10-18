@@ -1,0 +1,109 @@
+
+{
+    "id": 30378867,
+    "name": "Mirror Tempest",
+    "author": "Vultra",
+    "creators": [],
+    "verifier": "Vultra",
+    "verification": "https://www.youtube.com/watch?v=uGIqY5UDrkI",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "helvetica",
+            "link": "https://www.youtube.com/watch?v=jy2LDE3TRuQ",
+            "percent": 100,
+            "hz": 120
+        },
+                {
+            "user": "Pizzabote6h",
+            "link": "https://youtu.be/K61OzMJpTRM",
+            "percent": 100,
+            "hz": 280
+        },
+                {
+            "user": "Fawxu",
+            "link": "https://youtu.be/79J09uhBL6o",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=xIomKwOAB6s",
+            "percent": 100,
+            "hz": 120
+        },
+                {
+            "user": "powersplit",
+            "link": "https://youtu.be/POCvMaOWGvE?t=177",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+                {
+            "user": "Willow",
+            "link": "https://youtu.be/8Dtvx7nc0pI",
+            "percent": 100,
+            "hz": 120
+        },
+                {
+            "user": "COOLVlad",
+            "link": "https://www.youtube.com/watch?v=LIOov9siHX8",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "Daxylitz",
+            "link": "https://www.youtube.com/watch?v=7kMiJrboIU4",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=lYC-WgWn2B4",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "Cyclo",
+            "link": "https://www.youtube.com/watch?v=zW800Wv2URw",
+            "percent": 100,
+            "hz": 360
+        },
+                {
+            "user": "KinoKuni",
+            "link": "https://youtu.be/BODEgDMJ_W4",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "IgongDae",
+            "link": "https://youtu.be/mpfXlJLdlT4",
+            "percent": 100,
+            "hz": 360
+        },
+                {
+            "user": "nTimaw",
+            "link": "https://youtu.be/vOgJgQCxy8U",
+            "percent": 100,
+            "hz": 300
+        },
+                {
+            "user": "vasenotchalleng",
+            "link": "https://www.youtube.com/watch?v=3cBXiuI6f94",
+            "percent": 100,
+            "hz": 165
+        },
+                {
+            "user": "DerpingAurasYT",
+            "link": "https://youtu.be/zj70iTdYyEc",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Lightning",
+            "link": "https://www.youtube.com/watch?v=EoffjI7uk20",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
