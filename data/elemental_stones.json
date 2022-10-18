@@ -1,0 +1,69 @@
+{
+    "id": 13249241,
+    "name": "Elemental Stones",
+    "author": "Mazl",
+    "creators": [
+    "Creator 1", Mazl
+    "Creator 2", Electro1507
+],
+    "verifier": "Mazl",
+    "verification": "https://youtu.be/-hQ-0BV10E0",
+    "percentToQualify": 100,
+"password": 245689
+    "records": [
+       {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=hIz_n5Ap5tA",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Daxylitz",
+          "link": "https://www.youtube.com/watch?v=TiQfxm2XmkY",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/l3uxOGDZ7w0",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/824X0knY6n4",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "KinoKuni",
+          "link": "https://youtu.be/oqw7PN1r9dw",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Frogs65",
+          "link": "https://www.youtube.com/watch?v=PuTouzaRXII",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Whacka",
+          "link": "https://youtu.be/-O3CdmJ-u0M",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/cf76rrozkvY",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "helvetica",
+          "link": "https://www.youtube.com/watch?v=kq3csfOctB0",
+          "percent": 100,
+          "hz": 60
+        }
+    ]
+}
