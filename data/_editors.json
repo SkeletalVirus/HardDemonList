@@ -14,15 +14,35 @@
         "name": "B6boy1004",
         "link": ""
     },
+            {
+        "role": "trial",
+        "name": "Whacka",
+        "link": ""
+    },
     {
         "role": "helper",
         "name": "SkeletalVirus",
         "link": "https://www.youtube.com/channel/UCVifLeNLVQe3mYwRW1IiNnA"
     },
-        {
+            {
         "role": "helper",
-        "name": "Whacka",
+        "name": "shenanigans",
+        "link": "https://www.youtube.com/channel/UCHryXzl1WCFeDEkLc77W-Ww"
+    },
+                {
+        "role": "helper",
+        "name": "RoboBear04",
         "link": ""
+    },
+                    {
+        "role": "helper",
+        "name": "Bobbyp02",
+        "link": "https://www.youtube.com/channel/UCG-feF2EXzx_trvHKWDRQfA"
+    },
+                        {
+        "role": "helper",
+        "name": "Vasen-Vasen",
+        "link": "https://www.youtube.com/channel/UCG-feF2EXzx_trvHKWDRQfA"
     },
             {
         "role": "dev",
