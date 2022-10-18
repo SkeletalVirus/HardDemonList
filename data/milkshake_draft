@@ -1,0 +1,84 @@
+{
+    "id": 30597313,
+    "name": "Milkshake Draft",
+    "author": "Evasium622",
+    "creators": [],
+    "verifier": "Evasium622",
+    "verification": "https://youtu.be/usX8B5JZGm0",
+    "percentToQualify": 100,
+    "password": "326159",
+    "records": [
+        {
+          "user": "Qog",
+          "link": "https://youtu.be/gTd2ynW6kKw?list=PLu19KywdCLA9RP2LZEJRKFNipHRog0lFm&t=498",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "CoolVLAD",
+          "link": "https://www.youtube.com/watch?v=pK9nWbjwXN8",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Daxylitz",
+          "link": "https://www.youtube.com/watch?v=Mu2NUirDcns",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "helvetica",
+          "link": "https://www.youtube.com/watch?v=GAUeJEOUHrg",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/0KKBcE5_3tk",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Tornado",
+          "link": "https://www.youtube.com/watch?v=DssUoVmAOfk",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "KinoKuni",
+          "link": "https://www.youtube.com/watch?v=pHyMiByJ2OE",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/XP0BESGkyRY",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/u40O4xlTTpg",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Whacka",
+          "link": "https://youtu.be/eGOoQuL_3Wo",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Oipty",
+          "link": "https://www.youtube.com/watch?v=I8m2XvDepyo",
+          "percent": 100,
+          "hz": 165
+        },
+        {
+          "user": "DerpingAurasYT",
+          "link": "https://youtu.be/FQ-JJI29CvM",
+          "percent": 100,
+          "hz": 60
+        }
+    ]
+ }
