@@ -1,0 +1,24 @@
+{
+    "id": 26172007,
+    "name": "DeltaFunk",
+    "author": "Allan",
+    "creators": [],
+    "verifier": "Allan",
+    "verification": "https://youtu.be/FGNnN1MUbko",
+    "percentToQualify": 100,
+    "password": "314159",
+    "records": [
+      {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/CTrPEj3mKh8",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Redcrystal",
+          "link": "https://www.youtube.com/watch?v=fdTeEC02528",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
