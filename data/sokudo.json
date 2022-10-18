@@ -1,27 +1,66 @@
 {
     "id": 67481654,
-    "name": "Level Name",
-    "author": "Level Publisher",
-    "creators": [
-    "Creator 1",
-    "Creator 2",
-    "Creator 3"
-],
-    "verifier": "Level Verifier",
-    "verification": "Verification Video",
+    "name": "Sokudo",
+    "author": "harris7n",
+    "creators": [],
+    "verifier": "harris7n",
+    "verification": "https://youtu.be/Fu0Bw6TAc2E",
     "percentToQualify": 100,
+    "password": "No Copy"
     "records": [
         {
-            "user": "Record Holder 1",
-            "link": "Record Link",
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=0uocOvKTArI",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Squakk",
+            "link": "https://www.youtube.com/watch?v=ZAvRZRXVbPw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Senna GD",
+            "link": "https://youtu.be/uk_3ZBqIDfU",
+            "percent": 100,
+            "hz": 80
+        },
+        {
+            "user": "Whacka",
+            "link": "https://youtu.be/N62k6H8oUV8",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
+            "user": "Fawxu",
+            "link": "https://youtu.be/D2-WpItAdHI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/JOyC78LzI5o",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "RoboBear04",
+            "link": "https://youtu.be/A3E9kqtsiJI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Lazor",
+            "link": "https://youtu.be/6XunFAMh4Z8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Frogs65",
+            "link": "https://youtu.be/4pA-qe3uTVI",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
