@@ -1,0 +1,91 @@
+{
+    "id": 22143188,
+    "name": "Stereophonic System",
+    "author": "GDSpeed",
+    "creators": [],
+    "verifier": "GDSpeed",
+    "verification": "https://www.youtube.com/watch?v=kIF0Dp2UmT4",
+    "percentToQualify": 100,
+    "password": 655656,
+    "records": [
+        {
+            "user": "LaZoR",
+            "link": "https://youtu.be/gdFyIcRvMns",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=JD7A4QzvXq8",
+            "percent": 100,
+            "hz": 120
+        },
+                {
+            "user": "Daxylitz",
+            "link": "https://www.youtube.com/watch?v=BoA_hnx9sLk",
+            "percent": 100,
+            "hz": 288
+        },
+                {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/9LZl51kHY_E",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "Fawxu",
+            "link": "https://www.youtube.com/watch?v=S4c_wvIzcAA",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "MoReL70",
+            "link": "https://youtu.be/5uBebipwIE4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+                {
+            "user": "KinoKuni",
+            "link": "https://youtu.be/fx3vmS56Z-I",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "IgongDae",
+            "link": "https://youtu.be/rq3_Y9sz8wc",
+            "percent": 100,
+            "hz": 360
+        },
+                {
+            "user": "AlphaXIV",
+            "link": "https://youtu.be/qAm7uYVrono",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "helvetica",
+            "link": "https://www.youtube.com/watch?v=XrFcGUWmIdk",
+            "percent": 100,
+            "hz": 360
+        },
+                {
+            "user": "DerpingAurasYT",
+            "link": "https://youtu.be/KY3NEuDhSwg",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Jacob",
+            "link": "https://youtu.be/axOBRrhGLr8",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Lightning",
+            "link": "https://www.youtube.com/watch?v=n5sG_WzeGQ4",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
