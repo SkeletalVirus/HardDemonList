@@ -1,0 +1,60 @@
+{
+    "id": 65547937,
+    "name": "Advance3",
+    "author": "Loltad",
+    "creators": [],
+    "verifier": "Loltad",
+    "verification": "https://www.youtube.com/watch?v=0XXdQTnX5bY",
+    "percentToQualify": 100,
+    "password": "333333"
+    "records": [
+        {
+            "user": "Pizzabote6h",
+            "link": "https://youtu.be/OD2mAHh04bE",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "Daxylitz",
+            "link": "https://www.youtube.com/watch?v=bX1C63tpS8c",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/bs2oO_iMBnA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Dissmo",
+            "link": "https://www.youtube.com/watch?v=wIrtSvEIwos",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Landet",
+            "link": "https://youtu.be/T3oqjdL_paY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/wdkHw9cjrCg",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/ePeV1xn-3i8",
+            "percent": 100,
+            "hz": 150
+        },
+        {
+            "user": "AlphaXIV",
+            "link": "https://youtu.be/CaGKZvkeSd4",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
