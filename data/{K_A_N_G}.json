@@ -2,11 +2,7 @@
     "id": 35575829,
     "name": "K A N G",
     "author": "Kang131",
-    "creators": [
-    "Kang131",
-    "Creator 2",
-    "Creator 3"
-],
+    "creators": [],
     "verifier": "AeonAir",
     "verification": "https://youtu.be/JvxO3jAmRO8",
     "percentToQualify": 100,
@@ -21,7 +17,8 @@
             "user": "Surt",
             "link": "https://www.youtube.com/watch?v=oDmB44DGFW4",
             "percent": 100,
-            "hz": Mobile
+            "hz": 60
+            "mobile": true
         }
     ]
 }
