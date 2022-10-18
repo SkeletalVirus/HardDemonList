@@ -1,0 +1,95 @@
+{
+    "id": 24595125,
+    "name": "Despair",
+    "author": "ViPriN",
+    "creators": [],
+    "verifier": "ViPriN",
+    "verification": "https://youtu.be/4w2h054oX4I",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "HexagonGD",
+            "link": "https://youtu.be/9guUVF0TO6c",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Helvetica",
+            "link": "https://youtu.be/4pS0UWmq8W8",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Daxylitz",
+            "link": "https://youtu.be/J4YsYij7MvI",
+            "percent": 100,
+            "hz": 288
+        },
+       {
+         "user": "CoolVLAD",
+          "link": "https://youtu.be/99z-RjPfqSY",
+          "percent": 100,
+          "hz": 240
+       },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/HfJyGr-aL9Q",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Zinyth",
+            "link": "https://youtu.be/nlPvnasg_mo",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/1uSc2IE1q0o",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "KinoKuni",
+            "link": "https://www.youtube.com/watch?v=WIP9PXMHk-M",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "vasenotchalleng",
+            "link": "https://youtu.be/OWXYrwvlNho",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Shadowhiskey1374",
+            "link": "https://youtu.be/eIloe8Ql0ag",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/TvsBHSBM87s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Trehoeje",
+            "link": "https://youtu.be/xnMuf0g131Q",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DerpingAurasYT",
+            "link": "https://youtu.be/MJpQLCnIacE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Lightning",
+            "link": "https://youtu.be/-EzgqyunNh8",
+            "percent": 100,
+            "hz": 240
+        },
+    ]
+}
