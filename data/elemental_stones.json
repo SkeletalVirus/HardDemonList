@@ -1,0 +1,66 @@
+{
+    "id": 13249241,
+    "name": "Elemental Stones",
+    "author": "Mazl",
+    "creators": [Electro1507],
+    "verifier": "Mazl",
+    "verification": "https://youtu.be/-hQ-0BV10E0",
+    "percentToQualify": 100,
+    "records": [
+       {
+          "user": "peregrine997",
+          "link": "https://youtu.be/thPIZrYJ6ws",
+          "percent": 100,
+          "hz": 60,
+         "mobile": true
+        },
+        {
+          "user": "bfdiafan5346",
+          "link": "https://youtu.be/CaP2C-COoro",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Pouche",
+          "link": "https://youtu.be/fKn2EogBi_Q",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Melody3",
+          "link": "https://youtu.be/xVhNBprKSa0",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Frogs65",
+          "link": "https://www.youtube.com/watch?v=8wPSM-Q_-Ok",
+          "percent": 100,
+          "hz": 60
+        },
+         {
+          "user": "nTimaw",
+          "link": "https://youtu.be/a-0XdZmlxR0",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "NightEnfur",
+          "link": "https://youtu.be/v1xsYB4Mecc",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://youtu.be/21Q66elFaNI",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "Shadowhisky1374",
+          "link": "https://www.youtube.com/watch?v=wqauWM102FA",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
