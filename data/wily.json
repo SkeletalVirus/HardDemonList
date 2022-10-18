@@ -1,0 +1,41 @@
+{
+    "id": 62026882,
+    "name": "wily",
+    "author": "pg1004",
+    "creators": [],
+    "verifier": "pg1004",
+    "verification": "https://youtu.be/x0OAJtJjcXQ",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=CXT4TStdRfA",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/iUDKgRuawQ4",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "hytklfsq",
+          "link": "https://youtu.be/9Kyzo1S2NFo",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/BrQOrXrXXIg",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "Flood",
+          "link": "https://youtu.be/Y115GoUbFoU",
+          "percent": 100,
+          "hz": 60
+        }
+      ]
+}
