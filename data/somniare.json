@@ -1,0 +1,55 @@
+{
+    "id": 78528225,
+    "name": "Somniare",
+    "author": "oleki",
+    "creators": [],
+    "verifier": "oleki",
+    "verification": "https://youtu.be/dIA6Dhbop5E",
+    "percentToQualify": 100,
+    "password": "777777",
+    "records": [
+       {
+          "user": "Dissmo",
+          "link": "https://www.youtube.com/watch?v=Vfdu3p3C5bI",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/tUXDcGtdbH8",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Jacob",
+          "link": "https://youtu.be/XbkfI3968ww",
+          "percent": 100,
+          "hz": 60
+          "mobile": true
+        },
+        {
+          "user": "Cork",
+          "link": "https://www.youtube.com/watch?v=Cjs2ern6pUs",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://www.youtube.com/watch?v=po-g3TgBKnE",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "kkXgd",
+          "link": "https://youtu.be/9A_e_5nFKaw",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Ropecam23",
+          "link": "https://youtu.be/SO_6Y4qhLx0",
+          "percent": 100,
+          "hz": 60
+        }
+      ]
+}
