@@ -1,0 +1,49 @@
+{
+    "id": 32915142,
+    "name": "Terror Factory",
+    "author": "Korita",
+    "creators": [],
+    "verifier": "Korita",
+    "verification": "https://youtu.be/IzoAHg5lnb4",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=IzoAHg5lnb4",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "helvetica",
+          "link": "https://www.youtube.com/watch?v=q6R06n2Gfnk",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/7svSKId42JI",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Cyclo",
+          "link": "https://www.youtube.com/watch?v=GFgmBKPOiRI",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "hytklfsq",
+          "link": "https://youtu.be/ZWc5dD0jQsM",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/B_e735OUlbY",
+          "percent": 100,
+          "hz": 120
+        }
+      ]
+}
+        
