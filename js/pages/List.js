@@ -76,7 +76,7 @@ export default {
                     </table>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
+                    <p>Someone forgot to add .json to the end of a file name, Ping a Staff Member</p>
                 </div>
             </div>
             <div class="meta-container">
