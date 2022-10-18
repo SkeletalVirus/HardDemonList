@@ -1,27 +1,29 @@
 {
-    "id": 159,
-    "name": "Level Name",
-    "author": "Level Publisher",
-    "creators": [
-    "Creator 1",
-    "Creator 2",
-    "Creator 3"
-],
-    "verifier": "Level Verifier",
-    "verification": "Verification Video",
+    "id": 32008750,
+    "name": "Castle Dedede",
+    "author": "Pl4sma",
+    "creators": [],
+    "verifier": "Pl4sma",
+    "verification": "https://youtu.be/iGgPi56AxB8",
     "percentToQualify": 100,
     "records": [
         {
-            "user": "Record Holder 1",
-            "link": "Record Link",
+            "user": "RoboBear04",
+            "link": "https://youtu.be/DP6fgvveVhg",
             "percent": 100,
             "hz": 360
         },
-                {
-            "user": "Record Holder 2",
-            "link": "Record Link",
+        {
+            "user": "Redcrystal",
+            "link": "https://youtu.be/WTb5UeKbWlw",
             "percent": 100,
-            "hz": 360
-        }
+            "hz": 144
+        },
+        {
+            "user": "Wolvyy",
+            "link": "https://youtu.be/nR3xDbO1TvI",
+            "percent": 100,
+            "hz": 288
+        },
     ]
 }
