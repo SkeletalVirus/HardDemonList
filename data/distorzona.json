@@ -1,0 +1,72 @@
+{
+    "id": 74838946,
+    "name": "Advance3",
+    "author": "Edooox",
+    "creators": [],
+    "verifier": "Mineber",
+    "verification": "https://youtu.be/7tDk8xzr6ac",
+    "percentToQualify": 100,
+    "password": "130203",
+    "records": [
+              {       
+          "user": "Fawxu",
+          "link": "https://youtu.be/azX4zxl8qXU",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Pouche",
+          "link": "https://youtu.be/HzWq4PIrg0Q",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Pvzzz",
+          "link": "https://youtu.be/pJptv_Gkr6c",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "vasenotchalleng",
+          "link": "https://www.youtube.com/watch?v=Z8imP9gJDNk",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Omnin",
+          "link": "https://www.youtube.com/watch?v=oM5A68zc_iA",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "kkXgd",
+          "link": "https://youtu.be/YOcl7JcnDxQ",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "The_Nachorious_Big",
+          "link": "https://youtu.be/8AtUdidndHo",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://youtu.be/iDk65uIQz6M",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "Shadowhisky1374",
+          "link": "https://www.youtube.com/watch?v=T8vnPvo0zqo",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "ItzLoree",
+          "link": "https://youtu.be/tQ1e7QUgOcY",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
