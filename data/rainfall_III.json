@@ -7,7 +7,29 @@
     "verification": "https://youtu.be/1AglBK_Gnzk",
     "percentToQualify": 100,
     "records": [
-      
-      ]
-  
+      {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/xL8xc8vNft0",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Whacka",
+          "link": "https://youtu.be/RYyWBPJjEUE",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "nTimaw",
+          "link": "https://youtu.be/SPtGZybAG-w",
+          "percent": 100,
+          "hz": 150
+        },
+        {
+          "user": "NixHGD",
+          "link": "https://youtu.be/eeL05ePIKPQ",
+          "percent": 100,
+          "hz": 240
+        }
+      ] 
 }
