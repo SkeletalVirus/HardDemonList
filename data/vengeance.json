@@ -1,0 +1,42 @@
+{
+    "id": 15048625,
+    "name": "Vengeance",
+    "author": "Yamma",
+    "creators": ["Yamma","Matterz"],
+    "verifier": "Rlol",
+    "verification": "https://youtu.be/xXKNVqc2ITs",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+      {
+          "user": "Fawxu",
+          "link": "https://youtu.be/xa3OYLnk2qI",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Andorra",
+          "link": "https://youtu.be/sdoTx8yEBoU",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/hOvS-7yOCsM",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Redcrystal",
+          "link": "https://www.youtube.com/watch?v=MZdMfCla_5E",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "powersplit",
+          "link": "https://youtu.be/aBI8Uv4TMkE",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
