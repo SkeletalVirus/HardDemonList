@@ -1,0 +1,48 @@
+{
+    "id": 66154965,
+    "name": "Vitouxic",
+    "author": "BaharTeam",
+    "creators": ["Curxe", "Hadox", "MrClyde", "JustMarcel", "Inokuro", "Zeetoss", "Snarkz", "Tazahuki", "Nanairu", "Zerenity", "Kinokuni", "Lazirfa", "Cerelax", "Nxtion", "GilangRF", "AxelNyan"],
+    "verifier": "Eifl",
+    "verification": "https://youtu.be/KXx1JvkCQHY",
+    "percentToQualify": 100,
+    "password": "000000",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=1P-ngERFVZI",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Omnin",
+          "link": "https://www.youtube.com/watch?v=1cDMrzh5Ti4",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/HtVlzKTWsTk",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Dissmo",
+          "link": "https://www.youtube.com/watch?v=Zf1-6w1-f8U",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/izMhI1JBQWQ",
+          "percent": 100,
+          "hz": 330
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://youtu.be/nvEPEDEi4ic",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
