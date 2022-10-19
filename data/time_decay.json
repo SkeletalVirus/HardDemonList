@@ -1,0 +1,59 @@
+{
+    "id": 61710344,
+    "name": "Time Decay",
+    "author": "Inoculist",
+    "creators": [],
+    "verifier": "Insomn1a",
+    "verification": "https://youtu.be/PcfIoGBo7oA",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Wolvyy",
+          "link": "https://www.youtube.com/watch?v=yp7vPfOidDs",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "Omnin",
+          "link": "https://www.youtube.com/watch?v=kZ70EBm3MLw",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Melody3",
+          "link": "https://youtu.be/0jZuXYrFXMQ",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/pOVUiRtxBWs",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "cryo",
+          "link": "https://youtu.be/l7VY2cDhHzc",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "The_Nachorious_Big",
+          "link": "https://youtu.be/CDgee8QDJPo",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "nTimaw",
+          "link": "https://youtu.be/34H03pYAxeg",
+          "percent": 100,
+          "hz": 150
+        },
+        {
+          "user": "SramTheSham",
+          "link": "https://www.youtube.com/watch?v=njD2TlmsLqs",
+          "percent": 100,
+          "hz": 300
+        }
+      ]
+}
