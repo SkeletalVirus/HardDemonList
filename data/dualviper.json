@@ -1,0 +1,30 @@
+{
+    "id": 42871591,
+    "name": "Dualviper",
+    "author": "Mulpan",
+    "creators": ["Koreaqwer", "Xnail", "Mulpan"],
+    "verifier": "Rainstorm",
+    "verification": "https://youtu.be/kED2XYXh9Zg",
+    "percentToQualify": 100,
+    "password": "551122",
+    "records": [
+      {
+          "user": "Redcrystal",
+          "link": "https://www.youtube.com/watch?v=PZIh7YpNNmI",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "hytklfsq",
+          "link": "https://www.youtube.com/watch?v=DKhb73j18I8",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/VTA3gLEoMYA",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
