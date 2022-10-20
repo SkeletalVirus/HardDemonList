@@ -135,14 +135,14 @@
           "user": "Flame",
           "link": "https://youtu.be/WD8EkYwu_C8",
           "percent": 100,
-          "hz": 60
+          "hz": 60,
           "mobile" : true
         },
         {
           "user": "Frostbite564",
           "link": "https://youtu.be/NZJhQpHQcFQ",
           "percent": 100,
-          "hz": 60
+          "hz": 60,
           "mobile" : true
         },
         {
@@ -161,7 +161,7 @@
           "user": "TinaGD",
           "link": "https://youtu.be/GSMs35w3Wm8",
           "percent": 100,
-          "hz": 60
+          "hz": 60,
           "mobile" : true
         },
         {
