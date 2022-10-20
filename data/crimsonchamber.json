@@ -1,0 +1,34 @@
+    "id": 8692100,
+    "name": "Crimson Chamber",
+    "author": "ZenthicAlpha",
+    "creators": [ZenthicAlpha],
+    "verifier": "ZenthicAlpha",
+    "verification": "https://youtu.be/CeKMvrdzZCI",
+    "percentToQualify": 100,
+    "records": [
+{
+          "user": "LHunter",
+          "link": "https://youtu.be/QGvv3gd5qh8",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Qog",
+          "link": "https://youtu.be/uKVZKdmVtoE?t=448",
+          "percent": 100,
+          "hz": 60
+        },
+         {
+          "user": "Arcturus97",
+          "link": "https://www.youtube.com/watch?v=dqO6ntgCkr0",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://youtu.be/R6NmDi_XyDE",
+          "percent": 100,
+          "hz": 288
+        }
+      ]
+}
