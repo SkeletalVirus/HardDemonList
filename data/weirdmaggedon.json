@@ -1,0 +1,36 @@
+{
+    "id": 16160878,
+    "name": "WeIrDmAgGeDoN",
+    "author": "IHogartI",
+    "creators": [],
+    "verifier": "IHogartI",
+    "verification": "https://youtu.be/WKs3ujZJAmc",
+    "percentToQualify": 100,
+    "password": "01800",
+    "records": [
+      {
+          "user": "Fawxu",
+          "link": "https://youtu.be/e17J9xH-cuw",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Melody3",
+          "link": "https://youtu.be/guyqjXbPpEU",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://www.youtube.com/watch?v=dWO4aygqEHA",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://youtu.be/qylpqfUwVCs",
+          "percent": 100,
+          "hz": 288
+        }
+      ]
+}
