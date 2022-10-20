@@ -1,0 +1,30 @@
+{
+    "id": 48194121,
+    "name": "Beast Mayhem II",
+    "author": "HHyper",
+    "creators": [],
+    "verifier": "HHyper",
+    "verification": "https://www.youtube.com/watch?v=oBSi1AJQztM",
+    "percentToQualify": 100,
+    "password: "No Copy"
+    "records": [
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=yizmOUf2IQA",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "IgongDae",
+            "link": "https://youtu.be/K7m_3NF51UA",
+            "percent": 100,
+            "hz": 144
+        },
+                {
+            "user": "Fawxu",
+            "link": "https://youtu.be/_ge4dLzkgG0",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
