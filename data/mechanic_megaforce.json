@@ -1,0 +1,31 @@
+{
+    "id": 7892386,
+    "name": "Mechanic Megaforce",
+    "author": "TecHNeT",
+    "creators": [],
+    "verifier": "TecHNeT",
+    "verification": "https://youtu.be/HUlYH6zQxUs",
+    "percentToQualify": 100,
+    "password": "007285",
+    "records": [
+       {
+          "user": "SmileBullet",
+          "link": "https://www.youtube.com/watch?v=IYWKZzag9Lo",
+          "percent": 100,
+          "hz": 60,
+          "mobile" : true
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/i5piJCj0qAk",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Omnin",
+          "link": "https://youtu.be/22y_dobNhXE",
+          "percent": 100,
+          "hz": 60
+        }
+      ]
+}
