@@ -1,0 +1,55 @@
+{
+    "id": 13308332,
+    "name": "Chaotic System",
+    "author": "Giron",
+    "creators": [],
+    "verifier": "Giron",
+    "verification": "https://youtu.be/A__BlwbyWQE,
+    "percentToQualify": 100,
+    "password": "251369",
+    "records": [
+  {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=fsY_0GqyVyI",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://www.youtube.com/watch?v=MNRrkxG25QQ",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Omnin",
+          "link": "https://www.youtube.com/watch?v=pp10_nAlVmY",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Frostbite564",
+          "link": "https://www.youtube.com/watch?v=llWACbVx2cA",
+          "percent": 100,
+          "hz": 60,
+          "mobile" : true
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/3vcoOFbKclQ",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://www.youtube.com/watch?v=dJGsCUniYsM",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Plush",
+          "link": "https://youtu.be/JjW3RzflhuQ",
+          "percent": 100,
+          "hz": 120
+        }
+]
+}
