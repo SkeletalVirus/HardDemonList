@@ -1,0 +1,49 @@
+{
+    "id": 26673304,
+    "name": "Impetus",
+    "author": "ViPriN",
+    "creators": [],
+    "verifier": "GDSpeed,
+    "verification": "https://youtu.be/fxKRAjkqsoo",
+    "percentToQualify": 100,
+    "password": "314159",
+    "records": [
+  {
+          "user": "Overgrowth",
+          "link": "https://youtu.be/7Wq0bL8mbCA",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "Electroanimator",
+          "link": "https://youtu.be/wQ1Xc8d4fm4",
+          "percent": 100,
+          "hz": 60,
+          "mobile" : true
+        },
+        {
+          "user": "helvetica",
+          "link": "https://youtu.be/O44RAH8RVq4",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Titan Complex",
+          "link": "https://youtu.be/hHXElyPHBpc",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/T0DvSfEaESc",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+					"user": "NixHGD",
+					"link": "https://youtu.be/Qi2jn3JYnRA",
+					"percent": 100,
+					"hz": 240
+        }
+]
+}
