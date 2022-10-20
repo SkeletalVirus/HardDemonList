@@ -1,0 +1,71 @@
+{
+    "id": 70794278,
+    "name": "SIDEWAYS 8",
+    "author": "Cirtrax",
+    "creators": ["JustJohn","RockWizard","Sley","Cthulu","Abstort","SparksOmega","KrisKing","Moffe","Moosh","Ausk","Cirtrax","Blitzer"],
+    "verifier": "Moosh",
+    "verification": "https://youtu.be/-PseTQ6WJg4",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=7IAs8h9bLQg",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "arcanin",
+          "link": "https://www.youtube.com/watch?v=qDe2vKfN3yw",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Dissmo",
+          "link": "https://www.youtube.com/watch?app=desktop&v=ByZJODZ-Y8A",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Eifl",
+          "link": "https://www.youtube.com/watch?v=sTT-ecO_adE",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "KinoKuni",
+          "link": "https://youtu.be/vjcUdz9r-AU",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+					"user": "nyseoul",
+					"link": "https://youtu.be/gshHuNm0DkY",
+					"percent": 100,
+					"hz": 60
+        },
+        {
+          "user": "Omnin",
+          "link": "https://youtu.be/EdIDuxqw1nc",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "nTimaw",
+          "link": "https://youtu.be/NIU-tVY_O5Y",
+          "percent": 100,
+          "hz": 225
+        },
+        {
+          "user": "bass35",
+          "link": "https://www.youtube.com/watch?v=VpYgxwUw5T4",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://www.youtube.com/watch?v=Yt9JcZDjOAg",
+          "percent": 100,
+          "hz": 288
+        }
+      ]
+}
