@@ -1,0 +1,42 @@
+{
+    "id": 26258633,
+    "name": "Deadbeat",
+    "author": "Darwin",
+    "creators": [],
+    "verifier": "Darwin",
+    "verification": "https://youtu.be/HA_UZ5S_gmU",
+    "percentToQualify": 100,
+    "password": "004250",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=HA_UZ5S_gmU",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Redcrystal",
+          "link": "https://www.youtube.com/watch?v=-ZYuRd7hx7k",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "NixHGD",
+          "link": "https://www.youtube.com/watch?v=ej2oc0bolaE",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+					"user": "Fawxu",
+					"link": "https://youtu.be/YsC43bUiof0",
+					"percent": 100,
+					"hz": 240
+        },
+        {
+          "user": "nTimaw",
+          "link": "https://youtu.be/lo2lYIgXNQg",
+          "percent": 100,
+          "hz": 225
+        }
+      ]
+}
