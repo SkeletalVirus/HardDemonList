@@ -1,0 +1,30 @@
+{
+    "id": 52757208,
+    "name": "Surgeragon",
+    "author": "HHyper",
+    "creators": [],
+    "verifier": "HHyper",
+    "verification": "https://youtu.be/0SuWhuGeLI4",
+    "percentToQualify": 100,
+    "password": "953410",
+    "records": [
+      {
+          "user": "Daxylitz",
+          "link": "https://www.youtube.com/watch?v=zrOyByVQcDg",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/HqK1PiBjhTY",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/IVaeKi5S-KY",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
