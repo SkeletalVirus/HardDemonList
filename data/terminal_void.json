@@ -11,14 +11,14 @@
           "user": "Jenny",
           "link": "https://www.youtube.com/watch?v=NEe5sLBrToQ",
           "percent": 100,
-          "hz": 60
+          "hz": 60,
           "mobile" : true
         },
         {
           "user": "Killa",
           "link": "https://www.youtube.com/watch?v=CJ7ERYncQl0",
           "percent": 100,
-          "hz": 60
+          "hz": 60,
           "mobile" : true
         },
         {
