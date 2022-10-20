@@ -1,0 +1,41 @@
+{
+    "id": 67143294,
+    "name": "Silence",
+    "author": "Neroichi",
+    "creators": [],
+    "verifier": "Neroichi",
+    "verification": "https://youtu.be/MR-YBo8S5pw",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Dissmo",
+          "link": "https://www.youtube.com/watch?v=1xJS4O49OgI",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Hydrogenation",
+          "link": "https://youtu.be/HUA5TCJ1_Ms",
+          "percent": 100,
+          "hz": 75
+        },
+        {
+          "user": "vasenotchalleng",
+          "link": "https://youtu.be/epd4EM6xYqU",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=4wNIwUyS_IQ",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/zBEgWWMmRE0",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
