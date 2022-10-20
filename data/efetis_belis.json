@@ -1,0 +1,49 @@
+{
+    "id": 14187181,
+    "name": "Efetis Belis",
+    "author": "Pennutoh",
+    "creators": [],
+    "verifier": "Pennutoh",
+    "verification": "https://youtu.be/WUHTGllv1nQ",
+    "percentToQualify": 100,
+    "password": "544445",
+    "records": [
+      {
+          "user": "Fawxu",
+          "link": "https://youtu.be/t32qWqoFpnE",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "NolanB4",
+          "link": "https://youtu.be/ZmJqU0uH6vY",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        },
+        {
+          "user": "Pvzzz",
+          "link": "https://youtu.be/ld7ud0mnfqk",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/AhVq4ofj2Cg",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Galaxy4567",
+          "link": "https://www.youtube.com/watch?v=5Ld9rd9i_cM",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Lazor",
+          "link": "https://youtu.be/rg0s5T73Afk",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
