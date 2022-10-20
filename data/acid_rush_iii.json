@@ -1,0 +1,72 @@
+{
+    "id": 57700790,
+    "name": "Acid Rush III",
+    "author": "Henmin",
+    "creators": ["Serponge", "Spu7Nix", "wulz", "Thomartin", "Samoht", "TTP," "ChaSe", "Goose", "Erdyuri", "PotatoBaby", "Sandal", "Sharks", "Codex", "rafer", "Kips"],
+    "verifier": "Nexus",
+    "verification": "https://www.youtube.com/watch?v=xtUS3CmGkXU",
+    "percentToQualify": 100,
+    "records": [
+{
+          "user": "Surt",
+          "link": "https://youtu.be/MfVkUYkopjk",
+          "percent": 100,
+          "hz": 60,
+          "mobile" : true
+        },
+        {
+          "user": "LHunter",
+          "link": "https://youtu.be/uG281VQq5yA",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "AlooxChugs",
+          "link": "https://www.youtube.com/watch?v=170Q-1zXueQ",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Galaxy4567",
+          "link": "https://www.youtube.com/watch?v=7W1wW0FlRFw",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "ExodusGD",
+          "link": "https://www.youtube.com/watch?v=nUhUTL0Jark",
+          "percent": 100,
+          "hz": 60
+          "mobile" : true
+        },
+        {
+					"user": "JonikLindo",
+					"link": "https://youtu.be/NW2g3ZAmmBQ",
+					"percent": 100,
+					"hz": 144
+        },
+        {
+          "user": "rStyx",
+          "link": "https://youtu.be/RLutUq5RgnY",
+          "percent": 100,
+          "hz": 60
+          "mobile" : true
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/8ArPUZ1u5DM",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Arcturus97",
+          "link": "https://www.youtube.com/watch?v=RbX37gZGNJ4",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Frunk",
+          "link": "https://youtu.be/7-Yy70pmZkk",
+          "percent": 100,
+          "hz": 144
+        }
