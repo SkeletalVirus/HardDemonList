@@ -1,0 +1,30 @@
+{
+    "id": 22042993,
+    "name": "Torment",
+    "author": "Vermillion",
+    "creators": [],
+    "verifier": "Vermillion",
+    "verification": "https://youtu.be/VZIKDMuSTQo",
+    "percentToQualify": 100,
+    "password": "488291",
+    "records": [
+      {
+          "user": "Fawxu",
+          "link": "https://youtu.be/WdtWRqQV-Uk",
+          "percent":(100,
+          "hz": 240
+        },
+        {
+          "user": "Royale",
+          "link": "https://youtu.be/EQR7REQbepM",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Frunk",
+          "link": "https://youtu.be/Ddogl3HtBzc",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
