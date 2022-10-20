@@ -1,0 +1,98 @@
+{
+    "id": 34536134,
+    "name": "Apache",
+    "author": "TheJosiahTurner",
+    "creators": ["TheJosiahTurner","Lithifusion"],
+    "verifier": "TheJosiahTurner",
+    "verification": "https://youtu.be/nahlInMUYBA",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "helvetica",
+          "link": "https://youtu.be/TObzDWmpxC0",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://www.youtube.com/watch?v=_DuQDGhyLG4",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/B8lV4gBw03g",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Heater123",
+          "link": "https://youtu.be/Rm1qIgJ-YcM",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Overgrowth",
+          "link": "https://youtu.be/620GjQAEybE",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+					"user": "Pvzzz",
+					"link": "https://youtu.be/jOQ3l-9LrVU",
+					"percent": 100,
+					"hz": 144
+        },
+        {
+					"user": "Flame",
+					"link": "https://youtu.be/jx-XIOjqgXQ",
+					"percent": 100,
+					"hz": 60,
+          "Mobile": true
+        },
+        {
+          "user": "Plamsii",
+          "link": "https://youtu.be/RnR5w7YA90c",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Megu",
+          "link": "https://youtu.be/A_t74kQXG9o",
+          "percent": 100,
+          "hz": 165
+        },
+        {
+          "user": "nTimaw",
+          "link": "",
+          "percent": 100,
+          "hz": 225
+        },
+        {
+          "user": "Bongus",
+          "link": "https://youtu.be/VFuMZeFJPKY",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "OliXor",
+          "link": "https://youtu.be/VE3e2KSHsio",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "rStyx",
+          "link": "https://youtu.be/1z458pomwl8",
+          "percent": 100,
+          "hz": 60,
+          "Mobile": true
+        },
+        {
+          "user": "SirPotatOwO",
+          "link": "https://youtu.be/lv-AbV13fD8",
+          "percent": 100,
+          "hz": 165
+        }
+      ]
+}
