@@ -1,0 +1,48 @@
+{
+    "id": 13796903,
+    "name": "Crackdown",
+    "author": "Iid4sh3riI",
+    "creators": [],
+    "verifier": "Iid4sh3riI",
+    "verification": "https://youtu.be/nfaHGm1DNto",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Titan Complex",
+          "link": "https://youtu.be/a1pA3gnqdc0",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=nGIWDUQhPLo",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "SmileBullet",
+          "link": "https://www.youtube.com/watch?v=sfLtprZ7i9o",
+          "percent": (100),
+          "hz": 60
+          "Mobile": true
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://www.youtube.com/watch?v=AwCvGQwZoCY",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "powersplit",
+          "link": "https://youtu.be/fe_wpGv0bg8",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://youtu.be/Povy2GdveXs",
+          "percent": 100,
+          "hz": 288
+        }
+      ]
+}
