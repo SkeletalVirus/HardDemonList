@@ -1,0 +1,30 @@
+{
+    "id": 13480393,
+    "name": "Crimson Cavern",
+    "author": "Willy5000",
+    "creators": [],
+    "verifier": "Willy5000",
+    "verification": "https://youtu.be/Rw4Uuon8hGg",
+    "percentToQualify": 100,
+    "password": "046792",
+    "records": [
+      {
+          "user": "Royale",
+          "link": "https://youtu.be/X9xi0lQpIdA",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "hytklfsq",
+          "link": "https://youtu.be/ye0CVF-5qZk",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Arcturus97",
+          "link": "https://www.youtube.com/watch?v=dqO6ntgCkr0",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
