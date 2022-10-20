@@ -1,0 +1,53 @@
+{
+    "id": 13965242,
+    "name": "Toxin Lab III",
+    "author": "Xaro",
+    "creators": [],
+    "verifier": "Mazl",
+    "verification": "https://youtu.be/kwa6bI3WXD4",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Pouche",
+          "link": "https://youtu.be/KJl0wXYwzo4",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Melody3",
+          "link": "https://youtu.be/xHN3WLt_byQ",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Royale",
+          "link": "https://youtu.be/ZzJ7l5xomK4",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Veh3mence",
+          "link": "https://youtu.be/HvPXfHqQnsw",
+          "percent": 100,
+          "hz": 165
+        },
+        {
+          "user": "KJ3DRay",
+          "link": "https://youtu.be/HYOIZsxaTtY",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "NightEnfur",
+          "link": "https://youtu.be/4e6rLlHnbh8",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "FaiqMID",
+          "link": "https://youtu.be/4KCzsefHQww",
+          "percent": 100,
+          "hz": 60
+        }
+      ]
+}
