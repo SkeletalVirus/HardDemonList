@@ -1,0 +1,36 @@
+{
+    "id": 17497369,
+    "name": "Xtravagant",
+    "author": "Yamaa",
+    "creators": [],
+    "verifier": "Rlol",
+    "verification": "https://youtu.be/SGoHbHPIMng",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "Robaleg9",
+          "link": "https://www.youtube.com/watch?v=oQK1AwlfKpw",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/aHpxY4t1r0w",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/sqfQsGdeTiE",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "The_Nachorious_Big",
+          "link": "https://youtu.be/0NGjhQKNG_8",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
