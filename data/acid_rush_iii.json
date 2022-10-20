@@ -40,10 +40,10 @@
           "mobile" : true
         },
         {
-					"user": "JonikLindo",
-					"link": "https://youtu.be/NW2g3ZAmmBQ",
-					"percent": 100,
-					"hz": 144
+		  "user": "JonikLindo",
+		  "link": "https://youtu.be/NW2g3ZAmmBQ",
+		  "percent": 100,
+		  "hz": 144
         },
         {
           "user": "rStyx",
