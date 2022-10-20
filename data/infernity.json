@@ -1,0 +1,66 @@
+{
+    "id": 13530154,
+    "name": "Infernity",
+    "author": "Jo2000",
+    "creators": [],
+    "verifier": "Jo2000",
+    "verification": "https://youtu.be/Uw6uKMWRckk",
+    "percentToQualify": 100,
+    "password": "133769",
+    "records": [
+      {
+          "user": "Melody3",
+          "link": "https://youtu.be/TQgvj0RLEzA",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "SkeletalVirus",
+          "link": "https://youtu.be/SxNV6dqKv3w",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://www.youtube.com/watch?v=Hp852tABWB8",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Pvzzz",
+          "link": "https://youtu.be/8Hz2mJ9KMEo",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Pouche",
+          "link": "https://youtu.be/swrN2Grp9NY",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Bonezizdum",
+          "link": "https://youtu.be/jY6O8V6QAEg",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Shadowhisky1374",
+          "link": "https://www.youtube.com/watch?v=p1LaYX3pDlM",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Lightning",
+          "link": "https://www.youtube.com/watch?v=Pwfh-wYDNUM",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://www.youtube.com/watch?v=_xdmCr6xkUc",
+          "percent": 100,
+          "hz": 280
+        }
+      ]
+}
