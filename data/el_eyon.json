@@ -1,0 +1,36 @@
+{
+    "id": 67380414,
+    "name": "El Eyon",
+    "author": "KazVA",
+    "creators": [],
+    "verifier": "Javp",
+    "verification": "https://youtu.be/PDtN0dMVJ_0",
+    "percentToQualify": 100,
+    "password": "777777",
+    "records": [
+      {
+          "user": "Pizzabote6h",
+          "link": "https://www.youtube.com/watch?v=ml_9CvVJBUU",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Bobbyp02",
+          "link": "https://youtu.be/XAhcVARGgSs",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "bongus",
+          "link": "https://youtu.be/cgh5plGiBLY",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "The_Nachorious_Big",
+          "link": "https://youtu.be/loRADsUO-8Y",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
