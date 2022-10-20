@@ -1,0 +1,43 @@
+{
+    "id": 38699394,
+    "name": "Terminal Void",
+    "author": "Aquatias",
+    "creators": [],
+    "verifier": "Aquatias",
+    "verification": "https://www.youtube.com/watch?v=fnxlhChBLe0",
+    "percentToQualify": 100,
+    "records": [
+{
+          "user": "Jenny",
+          "link": "https://www.youtube.com/watch?v=NEe5sLBrToQ",
+          "percent": 100,
+          "hz": 60
+          "mobile" : true
+        },
+        {
+          "user": "Killa",
+          "link": "https://www.youtube.com/watch?v=CJ7ERYncQl0",
+          "percent": 100,
+          "hz": 60
+          "mobile" : true
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/wXQY7dpC0vQ",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "NixHGD",
+          "link": "https://youtu.be/K0xwx5XbGus",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Royale",
+          "link": "https://youtu.be/C_56EglP-WY",
+          "percent": 100,
+          "hz": 60
+        }
+      ]
+}
