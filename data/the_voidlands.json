@@ -1,0 +1,25 @@
+{
+    "id": 60629479,
+    "name": "The Voidlands",
+    "author": "Dolphe",
+    "creators": [],
+    "verifier": "Dolphe",
+    "verification": "https://youtu.be/683rOnNY6aE",
+    "percentToQualify": 100,
+    "password": "159357",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=AuQ0XyNapn4",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "QuickSpeedFX",
+          "link": "https://www.youtube.com/watch?v=HiOE6rbFRbQ",
+          "percent": (100),
+          "hz": 60,
+          "mobile" : true
+        }
+      ]
+}
