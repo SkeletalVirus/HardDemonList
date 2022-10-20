@@ -1,0 +1,18 @@
+{
+    "id": 42096240,
+    "name": "Spacial Rift",
+    "author": "PerkyPenguin",
+    "creators": ["PerkyPenguin", "Zihnt", "Matrixbullet", "Wojnet", "RoseeQ", "Xellion", "MasterZ77", "EthN"],
+    "verifier": "F3lixsram",
+    "verification": "https://www.youtube.com/watch?v=EcqWKooB37o",
+    "percentToQualify": 100,
+    "password": "004567",
+    "records": [
+{
+          "user": "Qog",
+          "link": "https://youtu.be/ezcN4G_BvBM?list=PLu19KywdCLA9RP2LZEJRKFNipHRog0lFm&t=213",
+          "percent": 100,
+          "hz": 120
+        }
+      ]
+}
