@@ -9,94 +9,95 @@
     "password": "696969"
     "records": [
         {
-            "user": "Record Holder 1",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "Dashermachine",
+          "link": "https://youtu.be/g8ZKuBSc1Ms",
+          "percent": 100,
+          "hz": 144
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "Overgrowth",
+          "link": "https://youtu.be/fQ7fel1wjeA",
+          "percent": 100,
+          "hz": 150
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "Electroanimator",
+          "link": "https://www.youtube.com/watch?v=hjedqdepQ8E",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "Cyclo",
+          "link": "https://youtu.be/6MxS9dfB8Ag",
+          "percent": 100,
+          "hz": 288
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "TheUnknownBacon",
+          "link": "https://youtu.be/qi5Z-TsKnOg",
+          "percent": 100,
+          "hz": 144
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "helvetica",
+          "link": "https://www.youtube.com/watch?v=iVjcTChRl6c",
+          "percent": 100,
+          "hz": 120
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "Gabe007",
+          "link": "https://youtu.be/DW71NENB_vs",
+          "percent": 100,
+          "hz": 120
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "hytklfsq",
+          "link": "https://youtu.be/3_KMthYm7qk",
+          "percent": 100,
+          "hz": 300
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "Fawxu",
+          "link": "https://youtu.be/qy1hVy8jhzY",
+          "percent": 100,
+          "hz": 240
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "Titan Complex",
+          "link": "https://youtu.be/-XdoKadkrro",
+          "percent": 100,
+          "hz": 120
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=H0Op8gwVHkU",
+          "percent": 100,
+          "hz": 120
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "Daxylitz",
+          "link": "https://www.youtube.com/watch?v=O2sMHoT6Stk",
+          "percent": 100,
+          "hz": 288
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "Dissmo",
+          "link": "https://youtu.be/RNQeYnIERF4",
+          "percent": 100,
+          "hz": 60
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "IgongDae",
+          "link": "https://youtu.be/ssLh99MiK7o",
+          "percent": 100,
+          "hz": 300
         },
         {
-            "user": "Record Holder 2",
-            "link": "Record Link",
-            "percent": 100,
-            "hz": 360
+          "user": "powersplit",
+          "link": "https://youtu.be/c4J33vHdDWg",
+          "percent": 100,
+          "hz": 120
         }
     ]
 }
