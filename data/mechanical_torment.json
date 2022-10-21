@@ -1,0 +1,23 @@
+{
+    "id": 19134395,
+    "name": "Mechanical Torment",
+    "author": "Aquatias",
+    "creators": [],
+    "verifier": "GDSpeed",
+    "verification": "https://www.youtube.com/watch?v=wQrGGcqiVWA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Flood",
+            "link": "https://youtu.be/7dnI3LN40c4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/BD6MEkO0KKo",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
