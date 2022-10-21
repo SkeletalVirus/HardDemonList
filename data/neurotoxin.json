@@ -1,0 +1,30 @@
+{
+    "id": 67906323,
+    "name": "Neurotoxin",
+    "author": "Britzlar",
+    "creators": ["V9lt", "Koopa", "KhenSiapco", "Krison", "DashyBois", "Alphirox", "Remilia", "GDVulcanus", "ToastLord", "Slipiao", "SirFluffyBeans", "M3mber", "BashfulGoose", "JasonPixelz", "Antidote", "HyperBlastz", "JakiGM", "CreatorLogman", "Endevvor", "Reklaz", "Domi77", "Andhika", "Britzlar"],
+    "verifier": "Britzlar",
+    "verification": "https://www.youtube.com/watch?v=tErN49-v6T0",
+    "percentToQualify": 100,
+    "password": "032621",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=UVxTP3rLDMA",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/n2gmjaAHtYc",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Lazor",
+          "link": "https://www.youtube.com/watch?v=wHKyKXkshrE",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
