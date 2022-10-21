@@ -1,0 +1,49 @@
+{
+    "id": 59139787,
+    "name": "Amethyst Valley",
+    "author": "Fufafac",
+    "creators": [],
+    "verifier": "Fufafac",
+    "verification": "https://www.youtube.com/watch?v=5O7Sk8mlGog",
+    "percentToQualify": 100,
+    "password": "100120",
+    "records": [
+      {
+          "user": "Royale",
+          "link": "https://youtu.be/hMte4W47rFw",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "arcanin",
+          "link": "https://www.youtube.com/watch?v=CMZ-XLjwgos",
+          "percent": 100,
+          "hz": 60,
+          "mobile" : true
+        },
+        {
+          "user": "Binary666",
+          "link": "https://www.youtube.com/watch?v=z8CZwbiqRtM",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Omnin",
+          "link": "https://www.youtube.com/watch?v=68OSTyKgQps",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Bluebarracks",
+          "link": "https://youtu.be/Tu_0KBQ3jnE",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/-QgBiEDrU1Q",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
