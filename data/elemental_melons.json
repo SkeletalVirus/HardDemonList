@@ -1,0 +1,21 @@
+{
+    "id": 13197083,
+    "name": "Elemental Melons",
+    "author": "123Ev4n",
+    "creators": [],
+    "verifier": "123Ev4n",
+    "verification": "https://youtu.be/bd2rxwI2Olo",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=jnjvlEgovs4",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/_s4AbszAMz4",
+          "percent": 100,
+          "hz": 180
+        }
