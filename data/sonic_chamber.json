@@ -1,0 +1,36 @@
+{
+    "id": 10235582,
+    "name": "Sonic Chamber",
+    "author": "GMDElite",
+    "creators": ["GMDElite","Mr.Ginoggers","TopKek","Shocksidian","The Real AD","Mulhm","NickRx"],
+    "verifier": "GMDElite",
+    "verification": "https://www.youtube.com/watch?v=0XXdQTnX5bY",
+    "percentToQualify": 100,
+    "password": "128463",
+    "records": [
+      {
+          "user": "LHunter",
+          "link": "https://www.youtube.com/watch?v=2i53ovdbLHs",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://www.youtube.com/watch?v=ituMg9CH7PE",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "xianlucax",
+          "link": "https://youtu.be/1SY4OMNmrF8",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/RWtaPeR-hps",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
