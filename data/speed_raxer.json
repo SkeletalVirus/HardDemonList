@@ -1,0 +1,72 @@
+{
+    "id": 59035474,
+    "name": "Speed RaXer",
+    "author": "BoyOfTheCones",
+    "creators": ["BoyOfTheCones", "Spark", "Zapper", "DangerKat", "Moosh", "AnubisGD", "Elzeko", "Balli", "Ross", "Ryder", "Tex02", "Chiand"],
+    "verifier": "BoyOfTheCones",
+    "verification": "https://www.youtube.com/watch?v=iwrY_EFXX8U",
+    "percentToQualify": 100,
+    "password": "001987",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=0e0aPA5RPmw",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Redcrystal",
+          "link": "https://www.youtube.com/watch?v=0dSWXtiMxOg",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "luna!",
+          "link": "https://www.youtube.com/watch?v=KplAxgK3FfQ",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "L1GHTNING",
+          "link": "https://www.youtube.com/watch?v=RFlkgyt2vrs",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "vasenotchalleng",
+          "link": "https://www.youtube.com/watch?v=L2qvRgTkv-4",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "hytklfsq",
+          "link": "https://www.youtube.com/watch?v=u73MXOAHLKc",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/duTN8h2m4h4",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/G8Mlh_XS95c",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "powersplit",
+          "link": "https://youtu.be/-AJf77AIa0E",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Moosh",
+          "link": "https://www.youtube.com/watch?v=T4mRgO_xnXo",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
