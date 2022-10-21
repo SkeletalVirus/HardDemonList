@@ -1,0 +1,60 @@
+{
+    "id": 6515632,
+    "name": "Carbon Faze",
+    "author": "Rob Buck",
+    "creators": [],
+    "verifier": "Rob Buck",
+    "verification": "https://youtu.be/9UAkP-7N8kI",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "helvetica",
+          "link": "https://youtu.be/I5AMxi9C238",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Royale",
+          "link": "https://youtu.be/HbbJfPe-9zA",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "LaZoR",
+          "link": "https://www.youtube.com/watch?v=JdTB22sfq7c",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "LHunter",
+          "link": "https://www.youtube.com/watch?v=GddYle738l0",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "NixHGD",
+          "link": "https://www.youtube.com/watch?v=vbUDwvyzZ64",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://www.youtube.com/watch?v=qk_4g0RrasA",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/SsCnQ5fIo4U",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/XRvB9JSKJTM",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
