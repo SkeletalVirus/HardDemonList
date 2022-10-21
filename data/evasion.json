@@ -1,0 +1,17 @@
+{
+    "id": 37154410,
+    "name": "Evasion",
+    "author": "Spectex",
+    "creators": [],
+    "verifier": "Spectex",
+    "verification": "https://www.youtube.com/watch?v=0LEJ7w_6iiA",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/AwzL19PA0qY",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
