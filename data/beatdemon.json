@@ -1,0 +1,77 @@
+{
+    "id": 66858068,
+    "name": "BEATDEMON",
+    "author": "YoReid",
+    "creators": [],
+    "verifier": "YoReid",
+    "verification": "https://youtu.be/vp8BjfeERvE",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Fawxu",
+          "link": "https://youtu.be/vA3RJBAW3-w",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Pouche",
+          "link": "https://youtu.be/TGZWi3OXKfA",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Dissmo",
+          "link": "https://www.youtube.com/watch?v=9Bxqg5uyo1M",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/3Auv18_Ubgk",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "SkeletalVirus",
+          "link": "https://www.youtube.com/watch?v=sy2lZjErv6A",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://www.youtube.com/watch?v=QixdisEa8rY",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Seic",
+          "link": "https://youtu.be/WQvbwxhw1DU",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Eifl",
+          "link": "https://www.youtube.com/watch?v=xNMa4DSJPAQ",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "JoacoPe",
+          "link": "https://www.youtube.com/watch?v=GLE3AVCqZjQ",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "ItsLejoGD",
+          "link": "https://www.youtube.com/watch?v=abyg-alyd3M",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://www.youtube.com/watch?v=FR3Tun1bdk0",
+          "percent": 100,
+          "hz": 280
+        }
+      ]
+}
