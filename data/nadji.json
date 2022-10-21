@@ -1,0 +1,53 @@
+{
+    "id": 47839782,
+    "name": " Nadji",
+    "author": "Zephirox",
+    "creators": [],
+    "verifier": "F3lixram",
+    "verification": "https://youtu.be/cccltd2wTJs",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=MYzeoHxYA2I",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/LvVLWNz3IY4",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Andorra",
+          "link": "https://youtu.be/Nz5M5AR4fQc",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "vasenotchalleng",
+          "link": "https://www.youtube.com/watch?v=Hic2hXZ6O7s",
+          "percent": 100,
+          "hz": 165/240
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/mFz-VhYsOjc",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://youtu.be/8LiHjzjk_uc",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "The_Nachorious_Big",
+          "link": "https://youtu.be/gys8bLeTgPs",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
