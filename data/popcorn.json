@@ -1,0 +1,41 @@
+{
+    "id": 28418019,
+    "name": "Popcorn",
+    "author": "Superopi",
+    "creators": ["JaffyTaffy", "Desticy", "ChaSe", "Superopi", "Noriega", "Goose"],
+    "verifier": "ChaSe",
+    "verification": "https://youtu.be/c0KiQ8lvCnE",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=JNONLy4RYlU",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Shrixy",
+          "link": "https://www.youtube.com/watch?v=fqVleJYdWoE",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "Redcrystal",
+          "link": "https://www.youtube.com/watch?v=X3d4aTsmyHw",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/CnOFxcEdLOE",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/g4Wb6qRPYYY",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
