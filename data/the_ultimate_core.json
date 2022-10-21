@@ -1,0 +1,30 @@
+{
+    "id": 26209433,
+    "name": "The Ultimate Core",
+    "author": "RadiationV2",
+    "creators": [],
+    "verifier": "RadiationV2",
+    "verification": "https://youtu.be/YEuIwNWHPZE",
+    "percentToQualify": 100,
+    "password": "555889",
+    "records": [
+       {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=Icoo8afnHFo",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "nTimaw",
+          "link": "",
+          "percent": 100,
+          "hz": 225
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/uGdwuFS-ktU",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
