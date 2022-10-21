@@ -1,0 +1,46 @@
+{
+    "id": 12941126,
+    "name": "Nexus",
+    "author": "Stardust1971",
+    "creators": [],
+    "verifier": "Giron",
+    "verification": "https://youtu.be/NUqVRQRY47w",
+    "percentToQualify": 100,
+    "password": "354839",
+    "records": [
+       {
+          "user": "Pizzabote6h",
+          "link": "https://www.youtube.com/watch?v=R9lK5Z2D06g",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Titan Complex",
+          "link": "https://youtu.be/gL4S6FqVUZc?t=87",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=OcA9GcHkXlU",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "AbraXas96",
+          "link": "https://www.youtube.com/watch?v=4Hp-XLUG-Ls",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Pvzzz",
+          "link": "https://www.youtube.com/watch?v=Kv5expfEgHU",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Seic",
+          "link": "https://youtu.be/Xsid8ogKsC0",
+          "percent": 100,
+          "hz": 240
+        }
