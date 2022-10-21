@@ -1,0 +1,79 @@
+{
+    "id": 9603387,
+    "name": "sharp",
+    "author": "kaval",
+    "creators": [],
+    "verifier": "kaval",
+    "verification": "https://youtu.be/ROVtzzsEl2g",
+    "percentToQualify": 100,
+    "password": "696969",
+    "records": [
+      {
+          "user": "Andorra",
+          "link": "https://youtu.be/kOYgOtKrR70",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://youtu.be/ponRoy_CD_Q",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/MQ1wrCMW8H4",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=aNODAL9raDw",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Frunk",
+          "link": "https://youtu.be/LVSffcMY2PI?t=181",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "RazZley",
+          "link": "https://www.youtube.com/watch?app=desktop&v=el3oGPS5ZB0",
+          "percent": 100,
+          "hz": 60,
+          "mobile" : true
+        },
+        {
+          "user": "Daxylitz",
+          "link": "https://youtu.be/EJvuZ4kFguk",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Blathers",
+          "link": "https://youtu.be/Wc8eXbw6Jg0",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Pouche",
+          "link": "https://youtu.be/3ZSPypi5dIM",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "LammyTheSexyLamb",
+          "link": "https://youtu.be/WI52YtWPYDI",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/sTRQjhCNVZQ",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
