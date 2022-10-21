@@ -1,0 +1,30 @@
+{
+    "id": 36226561,
+    "name": "Eden Decision",
+    "author": "Stamina",
+    "creators": ["Stamina", "AngryBoy"],
+    "verifier": "Stamina",
+    "verification": "https://youtu.be/MDWZ8a23Hr0",
+    "percentToQualify": 100,
+    "password": "561712",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://youtu.be/TIQOadN3Zuo?t=39",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Flood",
+          "link": "https://youtu.be/Tj0-9UZboNk",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://youtu.be/EwmyBYKR_lI",
+          "percent": 100,
+          "hz": 288
+        }
+      ]
+}
