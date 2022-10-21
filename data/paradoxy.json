@@ -1,0 +1,30 @@
+{
+    "id": 20778936,
+    "name": "Paradoxy",
+    "author": "Kaito",
+    "creators": [],
+    "verifier": "Kaito",
+    "verification": "https://www.youtube.com/watch?v=l4Le1C1tfgU",
+    "percentToQualify": 100,
+    "password": "333333",
+    "records": [
+        {
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=v50BetZANoc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Qog",
+            "link": "https://youtu.be/uKVZKdmVtoE?list=PLu19KywdCLA9RP2LZEJRKFNipHRog0lFm&t=190",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Wolvvy",
+            "link": "https://www.youtube.com/watch?v=A4EeWUNtxIs",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
