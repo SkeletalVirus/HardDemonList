@@ -1,0 +1,78 @@
+{
+    "id": 57700744,
+    "name": "Magnolia",
+    "author": "Tolstyh",
+    "creators": ["Tolstyh","EndLevel"],
+    "verifier": "Tolstyh",
+    "verification": "https://www.youtube.com/watch?v=0XXdQTnX5bY",
+    "percentToQualify": 100,
+    "password": "012589",
+    "records": [
+      {
+          "user": "Overgrowth",
+          "link": "https://youtu.be/FkjHJlpSKAE",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "helvetica",
+          "link": "https://youtu.be/BJT2-b48UXw",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/f6C6ALb-w-k",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Pvzzz",
+          "link": "https://www.youtube.com/watch?v=JOtbY0NV33o",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "hytklfsq",
+          "link": "https://www.youtube.com/watch?v=CSMpHN0rkog",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "nTimaw",
+          "link": "https://youtu.be/9L1ueZ2MfbA",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "Shadowhisky1374",
+          "link": "https://youtu.be/JX9jfAaA3SQ",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "NixHGD",
+          "link": "https://youtu.be/CQQHIWxKJVg",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "SramTheSham",
+          "link": "https://www.youtube.com/watch?v=r5dM-29hNBY",
+          "percent": 100,
+          "hz": 300
+        },
+        {
+          "user": "Moosh",
+          "link": "https://www.youtube.com/watch?v=PcmZFgmVH-s",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "The_Nachorious_Big",
+          "link": "https://youtu.be/EG-jicfGyrc",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
