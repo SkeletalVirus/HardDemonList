@@ -1,0 +1,23 @@
+{
+    "id": 34084435,
+    "name": "Switchblade",
+    "author": "RyanAB",
+    "creators": [],
+    "verifier": "RyanAB",
+    "verification": "https://youtu.be/Aa2_2UOQZTU",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=7Iwe_-CNk6g",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/N2BpoH-MVUU",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
