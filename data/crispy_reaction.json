@@ -1,0 +1,30 @@
+{
+    "id": 14051742,
+    "name": "Crispy Reaction",
+    "author": "CrisPy Dash",
+    "creators": [],
+    "verifier": "CrisPy Dash",
+    "verification": "https://youtu.be/dqZ5SPDMSo0",
+    "percentToQualify": 100,
+    "password": "012589",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=5G2Yh3DXxrQ",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Omnin",
+          "link": "https://www.youtube.com/watch?v=idWm02aDxVU",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/ThM0mCuwwZs",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
