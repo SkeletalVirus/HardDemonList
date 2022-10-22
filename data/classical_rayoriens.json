@@ -1,0 +1,49 @@
+{
+    "id": 7294616,
+    "name": "Classical",
+    "author": "RayOriens",
+    "creators": [],
+    "verifier": "RayOriens",
+    "verification": "https://youtu.be/hOQ2nQLAUYg",
+    "percentToQualify": 100,
+    "password": "085213",
+    "records": [
+       {
+          "user": "SmileBullet",
+          "link": "https://www.youtube.com/watch?v=QE6zg-YXkUw",
+          "percent": 100,
+          "hz": 60,
+          "mobile" : true
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://www.youtube.com/watch?v=pWRCkR1JGGY",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "LHunterr",
+          "link": "https://youtu.be/u8HxpIdLzmo",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Arcturus97",
+          "link": "https://www.youtube.com/watch?v=hQQ4kLaeSD0",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/Ugl6gcGE_YE",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Oipty",
+          "link": "https://www.youtube.com/watch?v=rCscwIwmxO4",
+          "percent": 100,
+          "hz": 165
+        }
+      ]
+}
