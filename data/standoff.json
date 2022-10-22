@@ -1,0 +1,30 @@
+{
+    "id": 9947368,
+    "name": "StandOff",
+    "author": "XTHANEX",
+    "creators": [],
+    "verifier": "XTHANEX",
+    "verification": "https://youtu.be/4-BO7ah2r3E",
+    "percentToQualify": 100,
+    "password": "613942",
+    "records": [
+      {
+          "user": "LHunter",
+          "link": "https://youtu.be/HD7C6xv_AKc",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/S5G0CmirOLo",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Bmlrocks",
+          "link": "https://youtu.be/Di80wPdkOj8",
+          "percent": 100,
+          "hz": 60
+        }
+      ]
+}
