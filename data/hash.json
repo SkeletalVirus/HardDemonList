@@ -1,0 +1,53 @@
+{
+    "id": 59413155,
+    "name": "HASH",
+    "author": "Flash",
+    "creators": [],
+    "verifier": "Flash",
+    "verification": "https://www.youtube.com/watch?v=7xxSQ6rPHDY",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=V-asLdgls-4",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Eifl",
+          "link": "https://www.youtube.com/watch?v=rmV8M3b4EsM",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Omnin",
+          "link": "https://www.youtube.com/watch?v=FPsvzpeyGJw",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Dissmo",
+          "link": "https://youtu.be/1kk9IJgURkE",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "vasenotchalleng",
+          "link": "https://youtu.be/SU2SDqufb1A",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Ropecam23",
+          "link": "https://youtu.be/jUJzvYbwlSI",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "bfdiafan5346",
+          "link": "https://youtu.be/2MVEqD18uGY",
+          "percent": 100,
+          "hz": 60
+        }
+      ]
+}
