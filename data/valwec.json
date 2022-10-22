@@ -1,0 +1,23 @@
+{
+    "id": 73118535,
+    "name": "Valwec",
+    "author": "Shrympo",
+    "creators": ["Shrympo", "Onvil"],
+    "verifier": "CheemMan",
+    "verification": "https://youtu.be/Hx-YkTp1V-M
+    "percentToQualify": 100,
+    "records": [
+  {
+          "user": "Omnin",
+          "link": "https://m.youtube.com/watch?v=nzC63cxth4g",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Dissmo",
+          "link": "https://www.youtube.com/watch?v=ucELlrzdOJY",
+          "percent": 100,
+          "hz": 60
+        }
+]
+}
