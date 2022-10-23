@@ -1,0 +1,48 @@
+{
+    "id": 78990485,
+    "name": " Nano Lights",
+    "author": "NateFH",
+    "creators": [],
+    "verifier": "NateFH",
+    "verification": "https://youtu.be/Oa2h5EZ8dM0",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Bonezizdum",
+          "link": "https://www.youtube.com/watch?v=EKtBo5xTHoE",
+          "percent": 100,
+          "hz": 60,
+        "mobile": true
+        },
+        {
+          "user": "NateFH",
+          "link": "https://www.youtube.com/watch?v=Oa2h5EZ8dM0&t=21s",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Dissmo",
+          "link": "https://www.youtube.com/watch?v=xU3OfS_INl8",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Melody3",
+          "link": "https://youtu.be/UZwv04f6Jqk",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Frogs65",
+          "link": "https://www.youtube.com/watch?v=BR3EDdIfWIA",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/OZnj1ByuUqI",
+          "percent": 100,
+          "hz": 360
+        }
+      ]
+}
