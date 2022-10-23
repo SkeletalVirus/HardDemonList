@@ -1,0 +1,62 @@
+{
+    "id": 62661780,
+    "name": "Nana",
+    "author": "Kirzok",
+    "creators": ["Hyp3rlink","Elvii","SirZaiss","Enrix","Maitnary","Andr1x","Jamscone","Chaeyeon","Zuku","FjScope","Teddy","Rynoxious","ORte","Zipixbox","Flosia","IvanPercie"],
+    "verifier": "Mix991",
+    "verification": "https://youtu.be/LBJzBlfUmJ8",
+    "percentToQualify": 100,
+    "password": "551122",
+    "records": [
+    {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=AESKTK7aYoU",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "NixHGD",
+          "link": "https://www.youtube.com/watch?v=RDexSQyDIxQ",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Omnin",
+          "link": "https://www.youtube.com/watch?v=niFNiVPkBd0",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "AlphaXIV",
+          "link": "https://youtu.be/_Rm-ATlJYjA",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        },
+        {
+          "user": "Frostbite564",
+          "link": "https://www.youtube.com/watch?v=iRUhbBV_s1Q",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        },
+        {
+          "user": "Hydrogenation",
+          "link": "https://youtu.be/V77LgzofZy4",
+          "percent": 100,
+          "hz": 75
+        },
+        {
+          "user": "SaveTheMarsh",
+          "link": "https://youtu.be/6DigWZ_3fYc",
+          "percent": 100,
+          "hz": 165
+        },
+        {
+          "user": "aespha",
+          "link": "https://youtu.be/yjpBVeooJIg",
+          "percent": 100,
+          "hz": 144
+        }
+    ]
+ }
