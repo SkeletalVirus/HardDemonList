@@ -1,0 +1,72 @@
+{
+    "id": 59273823,
+    "name": "Slime",
+    "author": "Sillow",
+    "creators": [],
+    "verifier": "Sillow",
+    "verification": "https://youtu.be/nbcM99KugQM",
+    "percentToQualify": 100,
+    "password": "556488",
+    "records": [
+       {
+          "user": "Fawxu",
+          "link": "https://youtu.be/hwt4k2aFPpQ",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "vasenotchalleng",
+          "link": "https://www.youtube.com/watch?v=3z5JZhXCnus",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "nyseoul",
+          "link": "https://www.youtube.com/watch?v=EiCtFS4i3XM",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "hytklfsq",
+          "link": "https://www.youtube.com/watch?v=G9b4zj4pcZs",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=oS1TUWM9ihQ",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Senna GD",
+          "link": "https://youtu.be/rAGXx1r9sxg",
+          "percent": 100,
+          "hz": 80
+        },
+        {
+          "user": "Whacka",
+          "link": "https://youtu.be/4AZdsoPWjdw",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/jj1-tKoru2Q",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "bfdiafan5346",
+          "link": "https://www.youtube.com/watch?v=9a-4B67uG9g&ab_channel=BFDIAFan_5346",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "JoacoPe",
+          "link": "https://www.youtube.com/watch?v=3hyX6_5X0Ns",
+          "percent": 100,
+          "hz": 60
+        }
+      ]
+}
