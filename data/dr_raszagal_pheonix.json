@@ -1,0 +1,61 @@
+{
+    "id": 4869516,
+    "name": "Dr Raszagal Pheonix",
+    "author": "Raszagal",
+    "creators": [],
+    "verifier": "Raszagal",
+    "verification": "https://youtu.be/o0zPqqqElZA",
+    "percentToQualify": 100,
+    "password": "123612",
+    "records": [
+      {
+          "user": "Melody3",
+          "link": "https://youtu.be/ENgNR0jM9m0",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Pouche",
+          "link": "https://youtu.be/KOGS5Ygxgec",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "SmileBullet",
+          "link": "https://youtu.be/-cTw54tSyPg",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/XDLu_GUHyUo",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Seic",
+          "link": "https://youtu.be/Rb38NqvAnaw",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Frogs65",
+          "link": "https://www.youtube.com/watch?v=ZixZq0B5Kgs",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Arcturus97",
+          "link": "https://youtu.be/BhvJZAUmEEw",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Moosh",
+          "link": "https://www.youtube.com/watch?v=x_8A9MTErec&feature=youtu.be",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
