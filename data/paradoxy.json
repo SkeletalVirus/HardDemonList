@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=A4EeWUNtxIs",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Dissmo",
+            "link": "https://www.youtube.com/watch?v=RrnxaLZYqfY",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
