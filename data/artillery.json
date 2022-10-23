@@ -1,0 +1,66 @@
+{
+    "id": 12984132,
+    "name": "Artillery",
+    "author": "RyanAB",
+    "creators": [],
+    "verifier": "RyanAB",
+    "verification": "https://youtu.be/DaRJyvZgi7Y",
+    "percentToQualify": 100,
+    "password": "555555",
+    "records": [
+      {
+          "user": "Titan Complex",
+          "link": "https://youtu.be/yFTAFagNx98",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=Ni79Qq9LH3g",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Qog",
+          "link": "https://youtu.be/MMbwCiZaeNA?t=277",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/8LeQy02JPEU",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Megaman9",
+          "link": "https://www.youtube.com/watch?v=_M0ASiZ0Cts",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Royale",
+          "link": "https://youtu.be/WJFTCzeZK-c",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://www.youtube.com/watch?v=ApD59D3dXo0",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/CXO09ToREAg",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "powersplit",
+          "link": "https://youtu.be/Yc-jmFmMaPQ",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
