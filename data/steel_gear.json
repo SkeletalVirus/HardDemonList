@@ -1,0 +1,66 @@
+{
+    "id": 41753055,
+    "name": "Steel Gear",
+    "author": "Krmal",
+    "creators": ["S1l3nce","Krmal","Pasiblitz","Aquatias","Vlacc","Shocksidian"],
+    "verifier": "Krmal",
+    "verification": "https://youtu.be/tphJGrEg1P8",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Killa",
+          "link": "https://www.youtube.com/watch?v=JFisFNYKsVk",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Frostbite564",
+          "link": "https://www.youtube.com/watch?v=cydKL-QX-Xs",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        },
+        {
+          "user": "Chloe2012",
+          "link": "https://youtu.be/Jcb9jBVtGvY",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/BPBiAzNRjlg",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "hytklfsq",
+          "link": "https://youtu.be/WxeUEflrvdg",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/5Y228QjUrQc",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Pouche",
+          "link": "https://youtu.be/pAj1GFbOCU4",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/dwf1yRg8vTg",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Galaxy4567",
+          "link": "https://www.youtube.com/watch?v=7QuZSKj1bCw",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
