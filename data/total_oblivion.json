@@ -1,0 +1,49 @@
+{
+    "id": 9657822,
+    "name": "Total Oblivion",
+    "author": "Nox",
+    "creators": [],
+    "verifier": "Surv",
+    "verification": "https://youtu.be/A4uI4rLMsZs",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+      {
+          "user": "Fawxu",
+          "link": "https://youtu.be/dJKeEfCTUy0",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/5pza5JUgroU",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "LHunterr",
+          "link": "https://youtu.be/4-5C788b4pU",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Arcturus97",
+          "link": "https://youtu.be/_XFkfz6mAUE",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/eBZWO7mNv2s",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "SmileBullet",
+          "link": "https://youtu.be/Yd8xXsi57Mc",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        }
+      ]
+}
