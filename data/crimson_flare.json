@@ -1,0 +1,36 @@
+{
+    "id": 7880934,
+    "name": "Crimson Flare",
+    "author": "Toxic",
+    "creators": ["ChaSe", "Norcda", "Temper", "Hammerhead", "Princeps", "Flux", "Drak", "Toxic"],
+    "verifier": "Toxic,
+    "verification": "https://youtu.be/jbUjGKD59zs",
+    "percentToQualify": 100,
+    "password": "222333",
+    "records": [
+  {
+          "user": "LHunter",
+          "link": "https://youtu.be/VScdncbQNw0",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Royale",
+          "link": "https://youtu.be/qVg4jJKikUM",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Cyclo",
+          "link": "https://www.youtube.com/watch?v=KuJXAANFy2s",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Arcturus97",
+          "link": "https://www.youtube.com/watch?v=dqO6ntgCkr0",
+          "percent": 100,
+          "hz": 144
+        }
+]
+}
