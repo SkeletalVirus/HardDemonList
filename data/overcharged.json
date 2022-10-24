@@ -1,0 +1,36 @@
+{
+    "id": 34288763,
+    "name": "Overcharged",
+    "author": "RadiationV2",
+    "creators": ["BadKlatt","Axils","Codex","Skitten","Stamina","Droo79","Ferdefunky","Stel4rium","LTGS","Shady","Fillipsmen","Stubbypinata","Kips","Thomartin","Jackr360","Lemons","SirHadoken","Darwin","Jiaze","Nitro451","Bloodstorm","Enlex"],
+    "verifier": "ToastyLeaf",
+    "verification": "https://youtu.be/W2G2jasAqhI",
+    "percentToQualify": 100,
+    "password": "862405",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=J6mVVKv2uIU",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://www.youtube.com/watch?v=0sKSVzTW1Cg",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://www.youtube.com/watch?v=Hj5NScollkY",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://www.twitch.tv/stundenabrechnung",
+          "percent": 100,
+          "hz": 280
+        }
+      ]
+}
