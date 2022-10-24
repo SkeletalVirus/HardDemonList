@@ -123,6 +123,12 @@
             "link": "https://www.youtube.com/watch?v=2Nmv3d563O0&t=37s",
             "percent": 100,
             "hz": 240
-        }
+        },
+         {
+            "user": "ItsLejoGD",
+            "link": "https://youtu.be/jBUQtpjLa7I",
+            "percent": 100,
+            "hz": 60
+         }
     ]
 }
