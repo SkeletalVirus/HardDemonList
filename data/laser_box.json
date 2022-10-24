@@ -1,0 +1,36 @@
+{
+    "id": 11382238,
+    "name": "Laser Box",
+    "author": "Pennutoh",
+    "creators": [],
+    "verifier": "Pennutoh",
+    "verification": "https://youtu.be/bxmKuWynWM8",
+    "percentToQualify": 100,
+    "password": "745390",
+    "records": [
+      {
+          "user": "Robaleg9",
+          "link": "https://www.youtube.com/watch?v=du3b10382xY",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://www.youtube.com/watch?v=9wafNgTmqL8",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "hytklfsq",
+          "link": "https://youtu.be/dYCHULuNsJc",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://www.youtube.com/watch?v=n7mDvcgQx00",
+          "percent": 100,
+          "hz": 280
+        }
+      ]
+}
