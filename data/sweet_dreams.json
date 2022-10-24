@@ -1,0 +1,89 @@
+{
+    "id": 10807587,
+    "name": "Sweet Dreams",
+    "author": "Zeus9",
+    "creators": [],
+    "verifier": "Zeus9",
+    "verification": "https://youtu.be/MkPgS0TTwm4",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Pizzabote6h",
+          "link": "https://youtu.be/YggYNBxvZnk",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Fawxu",
+          "link": "https://youtu.be/_JsTWaFLgvk",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Heater123",
+          "link": "https://youtu.be/X0hBXdXywjA",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "HexagonGD",
+          "link": "https://youtu.be/MkPgS0TTwm4",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Shrixy",
+          "link": "https://youtu.be/leah19Wo8Ik",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "Qog",
+          "link": "https://youtu.be/MMbwCiZaeNA?t=99",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "redracer",
+          "link": "https://www.youtube.com/watch?v=uDLUJNHfvO4",
+          "percent": 100,
+          "hz": 288
+        },
+        {
+          "user": "Frunk",
+          "link": "https://www.youtube.com/watch?v=7r-joA0AqSY",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "AbraXas96",
+          "link": "https://www.youtube.com/watch?v=jKGX3Is82ho",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "Activels",
+          "link": "https://youtu.be/iFNpzcydVYM",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Aespha",
+          "link": "https://www.youtube.com/watch?v=-OHPN0M_NKI",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "BeckettGamer",
+          "link": "https://www.youtube.com/watch?v=oOvHF84j7DM",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://www.youtube.com/watch?v=iBXZ7spBcME",
+          "percent": 100,
+          "hz": 240
+        }
+      ]
+}
