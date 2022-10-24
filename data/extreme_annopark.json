@@ -1,0 +1,48 @@
+{
+    "id": 68984570,
+    "name": "Extreme AnnoPark",
+    "author": "Annon",
+    "creators": [],
+    "verifier": "Annon",
+    "verification": "https://youtu.be/vhUl9qpt6uA",
+    "percentToQualify": 100,
+    "password": "127845",
+    "records": [
+      {
+          "user": "HexagonGD",
+          "link": "https://youtu.be/ZCN1MMHtihA",
+          "percent": 100,
+          "hz": 120
+        },
+        {
+          "user": "NixHGD",
+          "link": "https://www.youtube.com/watch?v=20Ok5xvzGX0",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Zinyth",
+          "link": "https://youtu.be/Fbm9JxHu3DQ",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://youtu.be/TWYljM8RDyQ",
+          "percent": 100,
+          "hz": 280
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/2z5IeJkZXKw",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Redcrystal",
+          "link": "https://youtu.be/GmEEVr2U3m0",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
