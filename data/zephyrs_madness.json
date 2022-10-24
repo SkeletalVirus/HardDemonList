@@ -1,0 +1,96 @@
+{
+    "id": 14974711,
+    "name": "Zephyrs Madness",
+    "author": "Zephyr",
+    "creators": [],
+    "verifier": "Zephyr",
+    "verification": "https://www.youtube.com/watch?v=_wWJ-zNY3Dw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/37WrzNlt_y8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Pizzabote6h",
+            "link": "https://www.youtube.com/watch?v=6KJuBsQwi4U",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "helvetica",
+            "link": "https://youtu.be/wpRoAIKJP7w",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "CoolVLAD",
+            "link": "https://www.youtube.com/watch?v=z5SAVY3FY5w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Viperexx",
+            "link": "https://www.youtube.com/watch?v=WHU5_DpD-1g",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Daxylitz",
+            "link": "https://www.youtube.com/watch?v=ytBw6b9pTZ0",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "BeckettGamer",
+            "link": "https://www.youtube.com/watch?v=ncc6E9PhnGg",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/Qq9e8S7JSCQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "powersplit,
+            "link": "https://youtu.be/EjaA7w7zyD4?t=137",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "vasenotchalleng",
+            "link": "https://youtu.be/QeoZFE3NZ6s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Heater123",
+            "link": "https://www.youtube.com/watch?v=k7A7pUoENcA",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "hytklfsq",
+            "link": "https://www.youtube.com/watch?v=xtpgNESbgo4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "KebabHD",
+            "link": "https://youtu.be/QF_nvR_94MM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Kotorem",
+            "link": "https://www.youtube.com/watch?v=KtWiP8Byokw",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
