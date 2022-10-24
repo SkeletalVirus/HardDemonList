@@ -1,0 +1,42 @@
+{
+    "id": 35814213,
+    "name": "Primal Knight",
+    "author": "Nico99",
+    "creators": ["Nico99","Sxap","Altin","Corkscrew","DiscJoker","Poccottini","Pennutoh","Zanna83","LaxHDz","Vortex","Psynapse","Usermatt18","Hydre","Borto","Enlex","Qventiam","Loogiah","W0lf3","SeS","Pavyzone","BarXzuz","MrLorenzo","Rocky27","DreamEater"],
+    "verifier": "Nico99",
+    "verification": "https://youtu.be/ufzE6N9ZF2I",
+    "percentToQualify": 100,
+    "password": "201099",
+    "records": [
+      {
+          "user": "Royale",
+          "link": "https://www.youtube.com/watch?v=vKHlj9VBNfU",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "HexagonGD",
+          "link": "https://www.youtube.com/watch?v=hqXB7-q5bOU",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "L1GHTNING",
+          "link": "https://www.youtube.com/watch?v=SIuTWqwmu8o",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/cxxbG1MPkFI",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://www.youtube.com/watch?v=f597Kd4ruYg",
+          "percent": 100,
+          "hz": 280
+        }
+      ]
+}
