@@ -54,14 +54,7 @@
             "link": "https://youtu.be/Qq9e8S7JSCQ",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "powersplit,
-            "link": "https://youtu.be/EjaA7w7zyD4?t=137",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
+        }
         {
             "user": "vasenotchalleng",
             "link": "https://youtu.be/QeoZFE3NZ6s",
@@ -83,6 +76,12 @@
         {
             "user": "KebabHD",
             "link": "https://youtu.be/QF_nvR_94MM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Kotorem",
+            "link": "https://www.youtube.com/watch?v=KtWiP8Byokw",
             "percent": 100,
             "hz": 144
         }
