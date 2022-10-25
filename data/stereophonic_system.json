@@ -79,7 +79,8 @@
             "user": "Jacob",
             "link": "https://youtu.be/axOBRrhGLr8",
             "percent": 100,
-            "hz": 60
+            "hz": 120,
+            "mobile": true
         },
                 {
             "user": "L1GHTNING",
