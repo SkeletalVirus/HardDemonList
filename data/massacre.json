@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/zveHpF7Jf5Q",
     "percentToQualify": 100,
     "records": [
+         {
+          "user": "Royale",
+          "link": "https://youtu.be/hqptB1ik2tM,
+          "percent": 100,
+          "hz": 60
+        }
       ]
 }
