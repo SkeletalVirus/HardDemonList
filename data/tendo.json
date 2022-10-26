@@ -385,6 +385,12 @@
           "link": "https://youtu.be/F7tQc1cGbxU",
           "percent": 100,
           "hz": 60
+        },
+                {
+          "user": "KuzzK",
+          "link": "https://www.youtube.com/watch?v=mfqE5sxTIEk",
+          "percent": 100,
+          "hz": 300
         }
       ]
 }
