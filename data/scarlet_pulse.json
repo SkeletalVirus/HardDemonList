@@ -135,6 +135,12 @@
             "link": "https://youtu.be/32JQHSddYE4",
             "percent": 100,
             "hz": 60
-         }
+         },
+        {
+            "user": "nTimaw",
+            "link": "https://www.youtube.com/watch?v=MPezRkT0XhE",
+            "percent": 100,
+            "hz": 300
+        }
     ]
 }
