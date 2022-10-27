@@ -386,11 +386,17 @@
           "percent": 100,
           "hz": 60
         },
-                {
+        {
           "user": "KuzzKron5",
           "link": "https://www.youtube.com/watch?v=mfqE5sxTIEk",
           "percent": 100,
           "hz": 300
+        },
+        {
+          "user": "Dozenth YTB",
+          "link": "https://youtu.be/05K6uwJKGkQ",
+          "percent": 100,
+          "hz": 71
         }
       ]
 }
