@@ -141,6 +141,12 @@
             "link": "https://www.youtube.com/watch?v=MPezRkT0XhE",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "ItsBig",
+            "link": "https://www.youtube.com/watch?v=YpU0vi68Yxo",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
