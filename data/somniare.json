@@ -68,6 +68,24 @@
           "link": "https://www.youtube.com/watch?v=8ROnZqUUaf0",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "bfdiafan5346",
+          "link": "https://www.youtube.com/watch?v=FAg1lFvJQiM&ab_channel=BFDIAFan_5346",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "The_Nachorious_Big",
+          "link": "https://youtu.be/OddHoDuZZBM",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Colizzion",
+          "link": "https://www.youtube.com/watch?v=ZIKc8XOr-nI",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
