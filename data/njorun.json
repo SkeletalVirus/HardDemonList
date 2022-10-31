@@ -124,6 +124,12 @@
           "percent": 100,
           "hz": 60,
           "mobile" : true
+        },
+        {
+          "user": "Dozenth YTB",
+          "link": "https://www.youtube.com/watch?v=3hvs21Bflx0&t=23s",
+          "percent": 100,
+          "hz": 71
         }
       ]
 }
