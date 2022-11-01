@@ -60,6 +60,12 @@
           "link": "https://youtu.be/V2t3FfrIidc",
           "percent": 100,
           "hz": 165
-        }
+        },
+         {
+            "user": "ItsBig",
+            "link": "https://www.youtube.com/watch?v=zwnRSA23mj8",
+            "percent": 100,
+            "hz": 144
+        },
       ]
 }
