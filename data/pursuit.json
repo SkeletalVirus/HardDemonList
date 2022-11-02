@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "369357",
     "records": [
+         {
+          "user": "prproj",
+          "link": "https://www.youtube.com/watch?v=qgikPkkS5CI",
+          "percent": 100,
+          "hz": 144
+          }
       ]
 }
