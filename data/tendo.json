@@ -403,6 +403,12 @@
           "link": "https://youtu.be/cj6a8bE_sqQ?t=123",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "szamle",
+          "link": "https://www.youtube.com/watch?v=rdn5ZQFtF5g",
+          "percent": 100,
+          "hz": 360
         }
       ]
 }
