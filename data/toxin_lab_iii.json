@@ -55,6 +55,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "TheRealWeenside",
+          "link": "https://youtu.be/3VJ131ghDek",
+          "percent": 100,
+          "hz": 60
         }
       ]
 }
