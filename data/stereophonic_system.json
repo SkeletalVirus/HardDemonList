@@ -93,6 +93,12 @@
             "link": "https://www.twitch.tv/videos/1635436777",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "https://youtu.be/ulCwWnGRi2I",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
