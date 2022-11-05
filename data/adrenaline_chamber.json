@@ -8,13 +8,19 @@
     "percentToQualify": 100,
     "password": "352146",
     "records": [
-                        {
+         {
             "user": "Melody3",
             "link": "https://www.youtube.com/watch?v=oOA9-zB2DR8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Zinyth",
+            "link": "https://www.youtube.com/watch?v=A6lvuqnN76g",
+            "percent": 100,
+            "hz": 60
         }
-            ]
+    ]
 }
            
 
