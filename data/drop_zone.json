@@ -126,6 +126,13 @@
             "link": "https://www.twitch.tv/videos/1635660532",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "WhiteEmerald",
+            "link": "https://youtu.be/I10ctOb6xWs",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
