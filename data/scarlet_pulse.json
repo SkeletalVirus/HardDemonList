@@ -154,11 +154,18 @@
             "percent": 100,
             "hz": 144
         },
-         {
+        {
             "user": "bass35",
             "link": "https://youtu.be/YMyLhWt_4CI",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "WhiteEmerald",
+            "link": "https://youtu.be/RShtuJ4Z73o",
+            "percent": 100,
+            "hz": 60
+            "mobile": true
         }
     ]
 }
