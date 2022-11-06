@@ -30,6 +30,13 @@
           "link": "https://www.youtube.com/watch?v=YYqz6B_jfG4",
           "percent": 100,
           "hz": 360
+        },
+        {
+            "user": "WhiteEmerald",
+            "link": "https://youtu.be/GGmGC-v4nNA",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
-]
+    ]
 }
