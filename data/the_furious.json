@@ -296,6 +296,12 @@
           "link": "https://youtu.be/8K6LLWzCXRc",
           "percent": 100,
           "hz": 60
+        },
+        {
+            "user": "phenya",
+            "link": "https://youtu.be/lVIRP1ugdbI?list=PLLCmK-FiNYBu3IJcTZIOYmt05YSKHwwT7",
+            "percent": 100,
+            "hz": 144
          }
      ]
 }
