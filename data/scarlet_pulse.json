@@ -166,6 +166,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Whacka",
+            "link": "https://youtu.be/cvjQ7TVmPkU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
