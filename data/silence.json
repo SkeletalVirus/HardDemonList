@@ -42,6 +42,12 @@
             "link": "https://www.twitch.tv/videos/1644941427",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=fZO3jNv0aIk",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
