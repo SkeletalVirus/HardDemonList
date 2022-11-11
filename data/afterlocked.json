@@ -18,6 +18,12 @@
             "link": "https://www.youtube.com/watch?v=i6BdzU8YeKs",
             "percent": 100,
             "hz": 360
+         },
+        {
+            "user": "1named",
+            "link": "https://www.youtube.com/watch?v=N8wRyWF8sy4",
+            "percent": 100,
+            "hz": 144
          }
     ]
 }
