@@ -76,6 +76,12 @@
           "link": "https://www.twitch.tv/videos/1648265545",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "Tygore",
+          "link": "https://youtu.be/E2xSfYYWLWA",
+          "percent": 100,
+          "hz": 288
         }
     ]
 }
