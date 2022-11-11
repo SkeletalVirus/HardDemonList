@@ -106,6 +106,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+         {
+            "user": "vasenotchalleng",
+            "link": "https://youtu.be/tlI-Yn9Mtlc",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
