@@ -221,9 +221,15 @@
         },
         {
           "user": "Willow",
-          "link": "https://youtu.be/fPMBam_rXoA ",
+          "link": "https://youtu.be/fPMBam_rXoA",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "KillerWasKilled",
+          "link": "https://www.youtube.com/watch?v=lkj1wQqaGBE",
+          "percent": 100,
+          "hz": 60
         }
 ]
 }
