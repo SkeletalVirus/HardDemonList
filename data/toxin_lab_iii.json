@@ -61,6 +61,12 @@
           "link": "https://youtu.be/3VJ131ghDek",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "Blathers",
+          "link": "https://www.twitch.tv/videos/336016034",
+          "percent": 100,
+          "hz": 144
         }
       ]
 }
