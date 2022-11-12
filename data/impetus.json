@@ -40,14 +40,20 @@
           "hz": 240
         },
         {
-					"user": "NixHGD",
-					"link": "https://youtu.be/Qi2jn3JYnRA",
-					"percent": 100,
-					"hz": 240
+			"user": "NixHGD",
+			"link": "https://youtu.be/Qi2jn3JYnRA",
+			"percent": 100,
+			"hz": 240
         },
         {
             "user": "prproj",
             "link": "https://www.youtube.com/watch?v=xP5ETcRI6a8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=zENMPO6cCq0",
             "percent": 100,
             "hz": 144
         }
