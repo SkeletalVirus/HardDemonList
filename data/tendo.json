@@ -434,6 +434,12 @@
           "link": "https://www.youtube.com/watch?v=QSM5bspkFR4",
           "percent": 100,
           "hz": 200
+        },
+        {
+          "user": "Cyclo",
+          "link": "https://youtu.be/79GhSAvLt4M",
+          "percent": 100,
+          "hz": 360
         }
     ]
 }
