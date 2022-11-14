@@ -431,9 +431,33 @@
         },
         {
           "user": "SafeSpace",
-          "link": "https://www.youtube.com/watch?v=PeqVWDi2824&ab_channel=SafeSpace ",
+          "link": "https://www.youtube.com/watch?v=PeqVWDi2824&ab_channel=SafeSpace",
           "percent": 100,
           "hz": 120
+        },
+        {
+          "user": "nTimaw",
+          "link": "https://youtu.be/4djiZXaE0Ug",
+          "percent": 100,
+          "hz": 150
+        },
+        {
+          "user": "bfdiafan5346",
+          "link": "https://youtu.be/x5WHsBCcvAs",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "7N",
+          "link": "https://youtu.be/BNZWYCV5cuc",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://youtu.be/XTeelrOXWfo",
+          "percent": 100,
+          "hz": 280
         }
       ]
 }
