@@ -37,6 +37,12 @@
           "link": "https://youtu.be/om7DLw-hiEs",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "prproj",
+          "link": "https://www.twitch.tv/videos/1651223735",
+          "percent": 100,
+          "hz": 144
         }
     ]
 }
