@@ -43,6 +43,12 @@
           "link": "https://www.twitch.tv/videos/1651223735",
           "percent": 100,
           "hz": 144
+        },
+         {
+          "user": "YraX",
+          "link": "https://www.youtube.com/watch?v=yS7_F2Vhvk8",
+          "percent": 100,
+          "hz": 200
         }
     ]
 }
