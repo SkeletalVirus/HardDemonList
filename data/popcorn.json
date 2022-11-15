@@ -48,6 +48,12 @@
           "link": "https://www.youtube.com/watch?v=EorT2kL41PU",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "Identity",
+          "link": "https://youtu.be/aA83qfj-mXQ",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
