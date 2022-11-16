@@ -74,6 +74,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+          "user": "prproj",
+          "link": "https://www.twitch.tv/videos/1653163205",
+          "percent": 100,
+          "hz": 144
         }
     ]
 }
