@@ -85,6 +85,13 @@
           "link": "https://www.youtube.com/watch?v=Ld-XYJ7723E",
           "percent": 100,
           "hz": 120
+         },
+        {
+          "user": "Robaleg9",
+          "link": "https://youtu.be/Bji3J_GOLF0",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
          }
       ]
 }
