@@ -37,6 +37,13 @@
             "link": "https://www.youtube.com/watch?v=boDcZb-Fjcs&ab_channel=BFDIAFan_5346",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Qwertypo",
+            "link": "https://youtu.be/oV9WT_kTt9c",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
