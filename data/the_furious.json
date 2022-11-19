@@ -333,6 +333,12 @@
             "percent": 100,
             "hz": 60,
             "mobile" : true
+         },
+        {
+            "user": "KSol72",
+            "link": "https://youtu.be/Jxb62tgu8kc",
+            "percent": 100,
+            "hz": 240
          }
      ]
 }
