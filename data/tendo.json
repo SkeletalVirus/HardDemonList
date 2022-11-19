@@ -70,10 +70,10 @@
           "hz": 288
         },
         {
-					"user": "Pizzabote6h",
-					"link": "https://www.youtube.com/watch?v=FpHoYYrq7Mk",
-					"percent": 100,
-					"hz": 280
+		  "user": "Pizzabote6h",
+		  "link": "https://www.youtube.com/watch?v=FpHoYYrq7Mk",
+		  "percent": 100,
+		  "hz": 280
         },
         {
           "user": "AutismIntensifies",
@@ -456,6 +456,12 @@
         {
           "user": "Jeremyiscool",
           "link": "https://www.youtube.com/watch?v=y0SpHF_OBh4",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "KSol72",
+          "link": "https://youtu.be/qtyqtWivNRs",
           "percent": 100,
           "hz": 360
         }
