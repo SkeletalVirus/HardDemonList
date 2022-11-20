@@ -25,6 +25,12 @@
           "link": "https://youtu.be/VTA3gLEoMYA",
           "percent": 100,
           "hz": 360
+        },
+        {
+            "user": "Record Holder 2",
+            "link": "Record Link",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
