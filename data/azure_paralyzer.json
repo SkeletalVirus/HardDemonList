@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=ybA1bkz8RLI",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "RoboBear04",
+            "link": "https://youtu.be/EoWTV1wyJXk",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
