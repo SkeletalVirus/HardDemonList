@@ -92,7 +92,12 @@
           "link": "https://www.youtube.com/watch?v=GCxSfxdeK1Q",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "thexxuser",
+          "link": "https://youtu.be/jBdF0n55StY",
+          "percent": 100,
+          "hz": 144
         }
-        
     ]
 }
