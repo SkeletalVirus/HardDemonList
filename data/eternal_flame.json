@@ -49,6 +49,24 @@
             "link": "https://youtu.be/Ggliv_2pcpg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Wolvyy",
+            "link": "https://www.youtube.com/watch?v=4QgQFgL4xqo",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "AlphaXIV",
+            "link": "https://youtu.be/jwn65cnxMo0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/tF8dKe94dVo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
