@@ -48,6 +48,12 @@
           "link": "https://www.twitch.tv/videos/1657850437",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "Jeremyiscool",
+          "link": "https://youtu.be/dE5rXsBwRT0",
+          "percent": 100,
+          "hz": 144
         }
       ] 
 }
