@@ -159,6 +159,12 @@
           "link": "https://www.twitch.tv/videos/1647675838",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "soupbloop",
+          "link": "https://youtu.be/DBiyLFpmyes",
+          "percent": 100,
+          "hz": 360
         }
     ]
 }
