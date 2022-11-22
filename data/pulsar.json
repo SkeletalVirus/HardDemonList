@@ -68,6 +68,12 @@
             "link": "https://www.twitch.tv/videos/1652924009",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "cryo",
+            "link": "https://youtu.be/6SGjZJBnkRo",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
