@@ -520,6 +520,12 @@
           "link": "https://www.youtube.com/watch?v=nxN9GcUndNY&t=5s&ab_channel=WindyBee",
           "percent": 100,
           "hz": 180
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/jDFCpjkhSFQ",
+          "percent": 100,
+          "hz": 180
         }
       ]
 }
