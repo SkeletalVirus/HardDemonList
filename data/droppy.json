@@ -143,6 +143,12 @@
             "link": "https://www.youtube.com/watch?v=6Ymz15wHTxA",
             "percent": 100,
             "hz": 150
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=dn-NNTmvwUM&ab_channel=Robaleg9",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
