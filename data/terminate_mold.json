@@ -19,6 +19,12 @@
             "link": "https://www.twitch.tv/videos/1658726203",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=EB3ej1Fwkeo&ab_channel=Robaleg9",
+            "percent": 100,
+            "hz": 144
         }
         ]
 }
