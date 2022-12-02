@@ -24,6 +24,12 @@
           "link": "https://www.youtube.com/watch?v=a9yl2kOR764&ab_channel=Robaleg9",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "prproj",
+          "link": "https://www.twitch.tv/videos/1666401653",
+          "percent": 100,
+          "hz": 144
         }
       ]
 }
