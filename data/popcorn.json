@@ -60,6 +60,12 @@
           "link": "https://www.youtube.com/watch?v=YnSx35Og5vo",
           "percent": 100,
           "hz": 288
+        },
+        {
+          "user": "prproj",
+          "link": "https://www.twitch.tv/videos/1667326705",
+          "percent": 100,
+          "hz": 90
         }
       ]
 }
