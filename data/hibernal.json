@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "101193",
     "records": [
+          {
+            "user": "RoboBear04",
+            "link": "https://youtu.be/nEzOvCKTsdE",
+            "percent": 100,
+            "hz": 120
+        }
       ]
 }
