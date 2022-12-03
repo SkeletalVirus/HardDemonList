@@ -8,11 +8,29 @@
     "percentToQualify": 100,
     "password": "101193",
     "records": [
-          {
+        {
             "user": "RoboBear04",
             "link": "https://youtu.be/nEzOvCKTsdE",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "AlphaXIV",
+            "link": "https://youtu.be/XvaAl4ZYGPQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Melody3",
+            "link": "https://youtu.be/wJns-MgCHIA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Jeremyiscool",
+            "link": "https://www.youtube.com/watch?v=dZSGaDsc0fY&t=1s",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
