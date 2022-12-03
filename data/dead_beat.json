@@ -24,6 +24,12 @@
           "link": "https://www.twitch.tv/videos/1642093105",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "SoftMuffin76",
+          "link": "https://www.youtube.com/watch?v=EbhUHZ4yHEo",
+          "percent": 100,
+          "hz": 144
         }
       ]
 }
