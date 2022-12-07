@@ -551,6 +551,13 @@
             "link": "https://youtu.be/Ug6xZW2bG54",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Globron",
+            "link": "https://youtu.be/ZYXtN4b-byg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
