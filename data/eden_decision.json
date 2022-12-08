@@ -37,6 +37,12 @@
           "link": "https://www.twitch.tv/videos/1668896649",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/FDerFYVCHgA",
+          "percent": 100,
+          "hz": 120
         }
       ]
 }
