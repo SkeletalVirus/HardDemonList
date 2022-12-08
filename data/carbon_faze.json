@@ -68,6 +68,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/8K8jf92tthY",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
