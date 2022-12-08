@@ -43,6 +43,12 @@
           "link": "https://www.twitch.tv/videos/1657783966",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "DenyZr",
+          "link": "https://youtu.be/VlDeWuymrPo",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
