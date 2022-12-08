@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=6G8X3b6y4oc",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "DenyZr",
+            "link": "https://youtu.be/a3Ca3QSy7uc",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
