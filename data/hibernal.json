@@ -57,11 +57,17 @@
             "hz": 60,
             "mobile": true
         },
-                {
+        {
             "user": "FaiqMID",
             "link": "https://youtu.be/4lKl8Z1zwY0",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/ea56p-5OLp4",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
