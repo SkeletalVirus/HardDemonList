@@ -7,5 +7,29 @@
     "verification": "https://www.youtube.com/watch?v=M_-jnCyhbG8",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "Melody3",
+            "link": "https://youtu.be/uTNGS2XiqMQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "AlphaXIV",
+            "link": "https://youtu.be/Gbhrq22-kNA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "RoboBear04",
+            "link": "https://youtu.be/dPkd3OWpI0I",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "https://youtu.be/54wgz7TypCg",
+            "percent": 100,
+            "hz": 144
+        }
       ]
 }
