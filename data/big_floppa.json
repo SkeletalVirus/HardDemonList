@@ -42,6 +42,30 @@
             "link": "https://www.youtube.com/watch?v=fe5iRDchrOg",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "prproj",
+            "link": "https://www.twitch.tv/videos/1674964242",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Mishaza",
+            "link": "https://www.youtube.com/watch?v=yZaUKdvU5bc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "FaiqMID",
+            "link": "https://youtu.be/jkIX3Y8Um5c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "FuZeBomB",
+            "link": "https://youtu.be/4AsmoslfvFQ",
+            "percent": 100,
+            "hz": 165
         }
       ]
 }
