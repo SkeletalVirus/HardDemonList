@@ -85,6 +85,12 @@
             "link": "https://youtu.be/aYHtKZxvRAQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Tenu",
+            "link": "https://www.youtube.com/watch?v=VbzjPoAkqwY",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
