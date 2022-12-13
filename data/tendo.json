@@ -472,11 +472,11 @@
           "hz": 144
         },
         {
-          "user": "peregrine997",
-          "link": "https://youtu.be/KWmlDhptEj8",
-          "percent": 100,
-          "hz": 60
-          "mobile": true
+            "user": "peregrine997",
+            "link": "https://youtu.be/KWmlDhptEj8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
