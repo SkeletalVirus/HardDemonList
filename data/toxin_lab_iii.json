@@ -93,6 +93,13 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "ruAPple",
+          "link": "https://youtu.be/DrHo1s4oyCE",
+          "percent": 100,
+          "hz": 90,
+          "mobile": true
         }
       ]
 }
