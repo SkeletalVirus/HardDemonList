@@ -154,6 +154,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "bass35",
+            "link": "https://youtu.be/hlXfc5-P-F4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
