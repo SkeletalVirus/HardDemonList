@@ -141,6 +141,19 @@
             "link": "https://youtu.be/oz2LlfH9K4Y?t=661",
             "percent": 100,
             "hz": 280
+        },
+        {
+            "user": "ItsBig",
+            "link": "https://www.youtube.com/watch?v=ZejP8Gi4KTs",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Jacob",
+            "link": "https://youtu.be/PIHv2docoQs",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
