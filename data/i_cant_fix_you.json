@@ -171,6 +171,13 @@
           "link": "https://youtu.be/ntKm8NMr1xE",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "Spyro196",
+          "link": "https://youtu.be/OiipL6qjgFc",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }
