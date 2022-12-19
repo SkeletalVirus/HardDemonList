@@ -7,5 +7,67 @@
     "verification": "https://www.youtube.com/watch?v=TESTrdxfXR8",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "SportsCarz11",
+            "link": "https://youtu.be/sq457WoxzTc",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=wyA88i0dTNI",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/y2MsBHIQjbc",
+            "percent": 100,
+            "hz": 150
+        },
+        {
+            "user": "RoboBear04",
+            "link": "https://youtu.be/0LPlD2p1ddM",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Melody3",
+            "link": "https://youtu.be/UlSvlnOzo8M",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Dissmo",
+            "link": "https://www.youtube.com/watch?v=vmNDYLMAIZQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Jacob",
+            "link": "https://youtu.be/dJ8mlaghFOs",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+        },
+        {
+            "user": "Whacka",
+            "link": "https://youtu.be/lvWDRHtKCBA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Wolvyy",
+            "link": "https://www.youtube.com/watch?v=eEq6gmXR4hg",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "OliXor",
+            "link": "https://youtu.be/42IjgVqVGxk",
+            "percent": 100,
+            "hz": 144
+        }
 ]
 }
