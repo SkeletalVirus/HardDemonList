@@ -78,6 +78,13 @@
             "link": "https://youtu.be/t14N4xJe3SU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "SportsCarz11",
+            "link": "https://youtu.be/Le63W1l-1mE",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
