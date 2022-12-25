@@ -7,7 +7,6 @@
     "elemental_stones",
     "blrpl_lghts",
     "milkshake_draft",
-    "drop_zone",
     "deltafunk",
     "somniare",
     "advance3",
@@ -139,5 +138,6 @@
     "nana",
     "terror_factory",
     "wily",
-    "mirror_tempest"
+    "mirror_tempest",
+    "drop_zone"
 ]
