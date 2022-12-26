@@ -74,6 +74,13 @@
             "link": "https://www.twitch.tv/videos/1674964243",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Will Toledo",
+            "link": "https://www.youtube.com/watch?v=eYnxYdAUXvw&ab_channel=WillToledoGD",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
 ]
 }
