@@ -116,6 +116,13 @@
             "link": "https://youtu.be/bM8t1a8ptJc",
             "percent": 100,
             "hz": 360
+        },
+        {
+          "user": "Will Toledo",
+          "link": "https://www.youtube.com/watch?v=asvFxrqxrgw&ab_channel=WillToledoGD",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
      ]
 }
