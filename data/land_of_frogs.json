@@ -81,6 +81,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://www.youtube.com/watch?v=GuB1cO5-xvM",
+            "percent": 100,
+            "hz": 60
         }
 ]
 }
