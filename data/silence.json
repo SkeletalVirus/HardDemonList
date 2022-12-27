@@ -85,6 +85,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "MP3141",
+            "link": "https://youtu.be/TBN3ZLoB3SU",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
