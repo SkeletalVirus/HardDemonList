@@ -370,6 +370,12 @@
             "percent": 100,
             "hz": 60,
             "mobile" : true
+         },
+        {
+            "user": "Landet",
+            "link": "https://youtu.be/-eyv8efmwoY",
+            "percent": 100,
+            "hz": 288
          }
      ]
 }
