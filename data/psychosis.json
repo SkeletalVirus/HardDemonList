@@ -613,6 +613,24 @@
           "link": "https://www.youtube.com/watch?v=c7JtzxFyTFQ",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "clncrvl",
+          "link": "https://youtu.be/Sf9iPR0SIao?t=736",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "faulheitsmensch",
+          "link": "https://youtu.be/khmWE6PnkkU?t=57",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "SEDTHEPRODIGY",
+          "link": "https://youtu.be/FH9EN369imE?t=120",
+          "percent": 100,
+          "hz": 120
         }
       ]
 }
