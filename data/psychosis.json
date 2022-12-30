@@ -631,6 +631,30 @@
           "link": "https://youtu.be/FH9EN369imE?t=120",
           "percent": 100,
           "hz": 120
+        },
+        {
+          "user": "kenny_yo",
+          "link": "https://www.youtube.com/watch?v=QSy85vNB2CU",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "BuzzTV",
+          "link": "https://youtu.be/wOJ4rZkHK34",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "SpookyGh0st",
+          "link": "https://youtu.be/PWCKnwgy8PA",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "NotJelly",
+          "link": "https://youtu.be/Q19vQIcqoB0?t=63",
+          "percent": 100,
+          "hz": 360
         }
       ]
 }
