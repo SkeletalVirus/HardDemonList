@@ -269,6 +269,12 @@
             "link": "https://www.youtube.com/watch?v=SZKAPQGyTqM",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "AVRG",
+            "link": "https://youtu.be/7U2JQEfqWxg",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
