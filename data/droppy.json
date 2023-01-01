@@ -191,6 +191,13 @@
             "link": "https://www.youtube.com/watch?v=Qam8WVgHIY8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Volt",
+            "link": "https://youtu.be/Wtje_tnsQ44",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
