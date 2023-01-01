@@ -501,6 +501,12 @@
           "link": "https://www.youtube.com/watch?v=VOA_DPboD00",
           "percent": 100,
           "hz": 165
+        },
+        {
+          "user": "Jimbaro",
+          "link": "https://youtu.be/XZwPAN3rb2E",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
