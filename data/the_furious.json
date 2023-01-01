@@ -396,5 +396,11 @@
             "hz": 60,
             "mobile" : true
          },
+        {
+            "user": "zDarkHTR",
+            "link": "https://youtu.be/FCRiAgaWCUg",
+            "percent": 100,
+            "hz": 360
+         }
      ]
 }
