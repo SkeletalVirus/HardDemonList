@@ -388,6 +388,13 @@
             "link": "https://youtu.be/t2hDURvBZcs",
             "percent": 100,
             "hz": 360
-         }
+         },
+        {
+            "user": "DJmaster07",
+            "link": "https://m.youtube.com/watch?v=ArbbfKotWZc",
+            "percent": 100,
+            "hz": 60,
+            "mobile" : true
+         },
      ]
 }
