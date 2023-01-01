@@ -186,6 +186,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "jimbaro",
+          "link": "https://youtu.be/94H2wA_RgoI",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
