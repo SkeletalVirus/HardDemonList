@@ -384,6 +384,12 @@
             "link": "https://www.youtube.com/watch?v=4Wv4_1buaMQ",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "clncrvl",
+            "link": "https://www.youtube.com/watch?v=yUEvRQL6XMU",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
