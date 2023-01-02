@@ -390,6 +390,12 @@
             "link": "https://www.youtube.com/watch?v=yUEvRQL6XMU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "nix",
+            "link": "https://youtu.be/Qn7gKqwHJbw",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
