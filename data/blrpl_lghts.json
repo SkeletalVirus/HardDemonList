@@ -122,6 +122,12 @@
             "link": "https://www.youtube.com/watch?v=XPJ1vpmPQD4",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "copc",
+            "link": "https://youtu.be/L1M_duNWPM4",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
