@@ -96,6 +96,12 @@
             "link": "https://www.youtube.com/watch?v=Lt_rTiH_UHA",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "qKitti",
+            "link": "https://www.youtube.com/watch?v=GAqPp7Dj-aU",
+            "percent": 100,
+            "hz": 120
         }
       ]
 }
