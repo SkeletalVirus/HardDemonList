@@ -104,6 +104,13 @@
           "link": "https://youtu.be/Qt3OfryoSwE",
           "percent": 100,
           "hz": 60
+         },
+        {
+          "user": "TurtleAsthma",
+          "link": "https://youtu.be/h-WljZT2r38",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
          }
       ]
 }
