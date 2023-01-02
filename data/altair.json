@@ -175,6 +175,12 @@
             "link": "https://www.youtube.com/watch?v=tth5IE1jGHU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "czodi",
+            "link": "https://youtu.be/dpsUOcGQxoI",
+            "percent": 100,
+            "hz": 280
         }
       ]
 }
