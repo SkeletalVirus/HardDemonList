@@ -14,11 +14,17 @@
             "percent": 100,
             "hz": 120
       },
-        {
+      {
             "user": "bass35",
             "link": "https://youtu.be/hWnClIsPVSo",
             "percent": 100,
             "hz": 150
+      },
+        {
+            "user": "SafeSpace",
+            "link": "https://m.youtube.com/watch?v=xGfbq7CorTI",
+            "percent": 100,
+            "hz": 120
       }
     ]
 }
