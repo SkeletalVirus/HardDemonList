@@ -20,11 +20,17 @@
             "percent": 100,
             "hz": 150
       },
-        {
+      {
             "user": "SafeSpace",
             "link": "https://m.youtube.com/watch?v=xGfbq7CorTI",
             "percent": 100,
             "hz": 120
+      },
+      {
+            "user": "Melody3",
+            "link": "https://www.youtube.com/watch?v=Q-p6Vsreg4Q",
+            "percent": 100,
+            "hz": 360
       }
     ]
 }
