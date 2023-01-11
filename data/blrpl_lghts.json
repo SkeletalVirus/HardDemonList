@@ -134,6 +134,12 @@
             "link": "https://www.youtube.com/watch?v=VXqaD3GWEMQ&ab_channel=HenryKim",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "SheolGMD",
+            "link": "https://youtu.be/xfcoszOV3fQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
