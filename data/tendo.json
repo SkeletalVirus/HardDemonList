@@ -543,6 +543,12 @@
           "link": "https://www.youtube.com/watch?v=SEoWLSn_QHQ&ab_channel=NotJelly",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "Madelinee",
+          "link": "https://youtu.be/vQ2DyeUy8JM",
+          "percent": 100,
+          "hz": 288
         }
     ]
 }
