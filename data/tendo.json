@@ -537,6 +537,12 @@
           "link": "https://www.youtube.com/watch?v=hASwpB2mTRk&t=682s",
           "percent": 100,
           "hz": 120
+        },
+        {
+          "user": "NotAJelly",
+          "link": "https://www.youtube.com/watch?v=SEoWLSn_QHQ&ab_channel=NotJelly",
+          "percent": 100,
+          "hz": 360
         }
     ]
 }
