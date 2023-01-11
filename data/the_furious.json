@@ -431,6 +431,12 @@
             "link": "https://www.youtube.com/watch?v=o8cnlePnbGk",
             "percent": 100,
             "hz": 240
+         },
+        {
+            "user": "Rystent",
+            "link": "https://youtu.be/34NFFUUsUd8",
+            "percent": 100,
+            "hz": 144
          }
      ]
 }
