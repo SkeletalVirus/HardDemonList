@@ -425,6 +425,12 @@
             "link": "https://m.youtube.com/watch?v=vcFylXMeMTk",
             "percent": 100,
             "hz": 170
+         },
+        {
+            "user": "Weavy",
+            "link": "https://www.youtube.com/watch?v=o8cnlePnbGk",
+            "percent": 100,
+            "hz": 240
          }
      ]
 }
