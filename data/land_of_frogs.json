@@ -105,6 +105,25 @@
             "link": "https://youtu.be/IxFpBnJ8EDs",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Lightning",
+            "link": "https://www.youtube.com/watch?v=Dnh7lhwFqUY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "PatoA",
+            "link": "https://youtu.be/tSVz06FNySk",
+            "percent": 100,
+            "hz": 144
+        },
+{
+            "user": "buzzore",
+            "link": "https://www.youtube.com/watch?v=IHm7KBD_tBw",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
 ]
 }
