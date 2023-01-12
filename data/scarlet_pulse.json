@@ -293,6 +293,12 @@
             "link": "https://www.youtube.com/watch?v=CqwUrXgczo4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "kenny_yo",
+            "link": "https://www.youtube.com/watch?v=N75W1WuwO3o",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
