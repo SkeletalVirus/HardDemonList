@@ -55,6 +55,12 @@
           "link": "https://www.twitch.tv/videos/1685209215",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "nTimaw",
+          "link": "https://youtu.be/Nl-wfxcqljM",
+          "percent": 100,
+          "hz": 150
         }
       ]
 }
