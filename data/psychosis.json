@@ -771,6 +771,13 @@
           "link": "https://youtu.be/SwJ8OXZYYgQ",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "mrprawn123",
+          "link": "https://www.youtube.com/watch?v=KUhheSks2JA&feature=youtu.be",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
