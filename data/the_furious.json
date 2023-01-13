@@ -461,6 +461,13 @@
             "link": "https://youtu.be/Eae8wqBe0Qc",
             "percent": 100,
             "hz": 144
+         },
+        {
+            "user": "AlphaVeyta ",
+            "link": "https://youtu.be/154uAE16Ii4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
          }
      ]
 }
