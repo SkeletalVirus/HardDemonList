@@ -187,6 +187,13 @@
             "link": "https://youtu.be/KkQApdheKt0",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Aluminum ",
+            "link": "https://youtu.be/PqDIPjXdqng",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
