@@ -79,6 +79,12 @@
           "link": "https://www.twitch.tv/videos/1651432100",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "SnappiestOrange",
+          "link": "https://www.youtube.com/watch?v=j6T5bA_G8kg",
+          "percent": 100,
+          "hz": 120
         }
       ]
 }
