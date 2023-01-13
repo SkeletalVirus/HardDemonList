@@ -317,6 +317,12 @@
             "link": "https://www.youtube.com/watch?v=I0DAguB3MrQ&ab_channel=Avtra",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "Electro325",
+            "link": "https://youtu.be/AUqXi0hrpZg",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
