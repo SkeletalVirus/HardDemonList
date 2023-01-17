@@ -118,6 +118,13 @@
           "link": "https://www.youtube.com/watch?v=kw65_KgeniE",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "ipickyourpocket",
+          "link": "https://www.youtube.com/watch?v=5_PSuDX6gc8",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
