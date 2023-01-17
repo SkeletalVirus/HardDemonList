@@ -189,8 +189,15 @@
             "hz": 144
         },
         {
-            "user": "Aluminum ",
+            "user": "Aluminum",
             "link": "https://youtu.be/PqDIPjXdqng",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "lemonattax",
+            "link": "https://www.youtube.com/watch?v=1oH04gJNJv0",
             "percent": 100,
             "hz": 60,
             "mobile": true
