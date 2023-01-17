@@ -43,6 +43,13 @@
             "link": "https://youtu.be/tCG1JjFR8QA",
             "percent": 100,
             "hz": 150
+      },
+      {
+            "user": "SmileBullet",
+            "link": "https://youtu.be/ZsrIHbqS_N8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
       }
     ]
 }
