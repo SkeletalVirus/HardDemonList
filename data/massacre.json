@@ -24,6 +24,12 @@
           "link": "https://www.twitch.tv/videos/1669885805",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "diggity",
+          "link": "https://youtu.be/EWoOa0rwOKc",
+          "percent": 100,
+          "hz": 144
         }
       ]
 }
