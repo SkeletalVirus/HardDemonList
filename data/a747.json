@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=aJBCeUbHjBU&ab_channel=Robaleg9",
             "percent": 100,
             "hz": 144
+         },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/pRbyf1S7INE",
+            "percent": 100,
+            "hz": 300
          }
     ]
 }
