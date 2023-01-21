@@ -166,6 +166,12 @@
             "link": "https://youtu.be/ep4T8wUyWzQ",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Lightning",
+            "link": "https://www.youtube.com/watch?v=PIaXDGW4rCA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
