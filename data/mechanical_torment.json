@@ -30,6 +30,12 @@
             "link": "https://www.twitch.tv/videos/1668896651",
             "percent": 100,
             "hz": 100
+        },
+        {
+            "user": "MiniMioda",
+            "link": "https://www.youtube.com/watch?v=Tb7PNIEbEY0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
