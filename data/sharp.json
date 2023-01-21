@@ -122,6 +122,12 @@
           "link": "https://youtube.com/watch?v=LY0IMwinwkw&si=EnSIkaIECMiOmarE",
           "percent": 100,
           "hz": 288
+        },
+        {
+          "user": "Lightning",
+          "link": "https://www.youtube.com/watch?v=2HipV7JZw3Q",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
