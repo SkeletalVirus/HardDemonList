@@ -113,7 +113,14 @@
             "user": "Ballzach",
             "link": "https://www.youtube.com/watch?v=Jtm2vRWdcHQ&t=29s",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "FoxxR3MK5",
+            "link": "https://www.youtube.com/watch?v=rT4jIxCxfvs",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
