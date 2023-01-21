@@ -573,6 +573,12 @@
             "link": "https://youtu.be/tiGfSCs2p7Q",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "pcklkng",
+            "link": "https://www.youtube.com/watch?v=u-8E5ZT00sg&ab_channel=pcklkng",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
