@@ -201,6 +201,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "PMDerek",
+            "link": "https://www.youtube.com/watch?v=FZop6GphN6Y",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
