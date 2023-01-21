@@ -70,6 +70,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+            "user": "MatirBluGD",
+            "link": "https://www.youtube.com/watch?v=lL2vkWJIhnM",
+            "percent": 100,
+            "hz": 165
         }
       ]
 }
