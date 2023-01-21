@@ -784,6 +784,12 @@
           "link": "https://youtu.be/GaBJAZWaGCA",
           "percent": 100,
           "hz": 165
+        },
+        {
+          "user": "canadianflyer",
+          "link": "https://www.youtube.com/watch?v=ni_wqGykLv8&ab_channel=canadianflyer",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
