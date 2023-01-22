@@ -796,6 +796,12 @@
           "link": "https://youtube.com/watch?v=M3Q3GvWtOJw&si=EnSIkaIECMiOmarE",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "pcklkng",
+          "link": "https://www.youtube.com/watch?v=mtXAvD5dktY&ab_channel=pcklkng",
+          "percent": 100,
+          "hz": 144
         }
       ]
 }
