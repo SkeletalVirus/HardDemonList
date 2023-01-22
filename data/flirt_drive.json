@@ -56,6 +56,12 @@
             "link": "https://www.youtube.com/watch?v=iGUsIhPcSW0",
             "percent": 100,
             "hz": 240
+      },
+        {
+            "user": "Greeny",
+            "link": "https://www.youtube.com/watch?v=i171BO5HDVk",
+            "percent": 100,
+            "hz": 360
       }
     ]
 }
