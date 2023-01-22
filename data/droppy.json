@@ -224,6 +224,12 @@
             "link": "https://youtu.be/tiGfSCs2p7Q",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Bibox",
+            "link": "https://www.youtube.com/watch?v=MMFbRSqyQsw",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
