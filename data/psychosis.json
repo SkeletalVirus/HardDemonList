@@ -802,6 +802,12 @@
           "link": "https://www.youtube.com/watch?v=mtXAvD5dktY&ab_channel=pcklkng",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "Centura",
+          "link": "https://youtu.be/ndiAuoQXt2U",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
