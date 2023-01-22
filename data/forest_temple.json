@@ -7,6 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=-q8krsWKrwI",
     "percentToQualify": 100,
     "records": [
+         {
+          "user": "vasenotchalleng",
+          "link": "https://www.youtube.com/watch?v=irMMsjxxcN4&t",
+          "percent": 100,
+          "hz": 60
+        }
       ]
 }
     
