@@ -821,6 +821,13 @@
           "link": "https://youtu.be/pkXDy5z28QE",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "Deltablu",
+          "link": "https://youtu.be/gULlileqpjE",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
