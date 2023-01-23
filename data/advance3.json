@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=82HD0ndA4bk",
             "percent": 100,
             "hz": 60
+        },
+        {
+          "user": "Electro325",
+          "link": "https://youtu.be/LAeUo0_eVOs",
+          "percent": 100,
+          "hz": 360
         }
     ]
 }
