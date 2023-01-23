@@ -49,6 +49,13 @@
             "link": "https://www.youtube.com/watch?v=nJrw0xooF6A&ab_channel=Robaleg9",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "lemonattax",
+            "link": "https://youtu.be/mAbEb0Ezg60",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
