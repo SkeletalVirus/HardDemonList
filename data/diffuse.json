@@ -444,6 +444,13 @@
           "link": "https://youtu.be/CU_cYDi-DXk?t=2792",
           "percent": 100,
           "hz": 165
+        },
+        {
+          "user": "Chubby",
+          "link": "https://www.youtube.com/watch?v=yb1tJnxrkSE",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
