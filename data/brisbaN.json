@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=r8ZJsb4LMFc",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "DenyZr",
+            "link": "https://youtu.be/rUajUh4fO4k",
+            "percent": 100,
+            "hz": 240
+        }
       ]
 }
