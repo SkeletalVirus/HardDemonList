@@ -828,6 +828,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "DevSpectrum",
+          "link": "https://youtu.be/Ap3GrrnZoIU",
+          "percent": 100,
+          "hz": 60
         }
       ]
 }
