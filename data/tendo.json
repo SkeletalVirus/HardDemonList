@@ -610,6 +610,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "Bobbyp02",
+          "link": "https://youtu.be/BTrlIMySMss",
+          "percent": 100,
+          "hz": 288
         }
     ]
 }
