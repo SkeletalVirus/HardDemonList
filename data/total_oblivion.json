@@ -74,6 +74,13 @@
             "link": "https://www.youtube.com/watch?v=L4kbst2H5E8",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "funkyfridaygamer (gmd)",
+            "link": "https://youtu.be/pl_0YyekSHA",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
      ]
 }
