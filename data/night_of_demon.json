@@ -13,6 +13,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "Melody3",
+          "link": "https://youtu.be/ufgH2zvE8_I",
+          "percent": 100,
+          "hz": 360
         }
       ]
 }
