@@ -341,6 +341,13 @@
             "link": "https://youtu.be/TSs0VxARYHY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "PabloCast",
+            "link": "https://youtu.be/yOozAi-9cKg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
