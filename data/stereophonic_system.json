@@ -141,6 +141,12 @@
             "link": "https://www.youtube.com/watch?v=OdI1t6vsLc4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Sloudy",
+            "link": "https://youtu.be/2X5ErSGVmbM",
+            "percent": 100,
+            "hz": 288
         }
     ]    
 }
