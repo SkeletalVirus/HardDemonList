@@ -72,6 +72,12 @@
           "link": "https://www.youtube.com/watch?v=rpvvciSNU6I",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "kenny_yo",
+          "link": "https://www.youtube.com/watch?v=XaUQUmbJ0wM",
+          "percent": 100,
+          "hz": 144
         }
       ] 
 }
