@@ -67,6 +67,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/fNpGUhb2lHE",
+          "percent": 100,
+          "hz": 120
         }
       ]
 }
