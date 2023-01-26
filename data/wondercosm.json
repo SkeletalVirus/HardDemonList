@@ -1,1 +1,16 @@
-
+{
+    "id": 12253959,
+    "name": "Wonder Cosm",
+    "author": "Rob Buck",
+    "creators": [],
+    "verifier": "Rob Buck",
+    "verification": "https://youtu.be/HI1W6SGtwF4",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Willow",
+            "link": "https://youtu.be/PmXXPFH8ZxQ",
+            "percent": 100,
+            "hz": 240
+        }
