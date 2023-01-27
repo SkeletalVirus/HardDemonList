@@ -80,6 +80,12 @@
           "link": "https://www.youtube.com/watch?v=DAfOsi1dI4Q",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Valhallas",
+          "link": "https://www.youtube.com/watch?v=F97NPO-uTPk",
+          "percent": 100,
+          "hz": 120
         }
       ]
 }
