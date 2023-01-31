@@ -44,6 +44,12 @@
           "link": "https://www.twitch.tv/videos/1642200620",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "Chubby",
+          "link": "https://www.youtube.com/watch?v=73_E8hBr-MQ&t=208s",
+          "percent": 100,
+          "hz": 330
         }
       ]
 }
