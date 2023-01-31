@@ -121,6 +121,12 @@
             "link": "https://www.youtube.com/watch?v=rT4jIxCxfvs",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Chubby",
+            "link": "https://www.youtube.com/watch?v=73_E8hBr-MQ&t=13s",
+            "percent": 100,
+            "hz": 330
         }
       ]
 }
