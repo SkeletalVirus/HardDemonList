@@ -463,6 +463,12 @@
           "link": "https://youtu.be/NR2_LYrRwYw",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "phenya",
+          "link": "https://www.youtube.com/watch?v=65IfCw0FPAM&list=PLLCmK-FiNYBsDBuiX2MLUgOOjmu_oFLj5&index=36",
+          "percent": 100,
+          "hz": 200
         }
       ]
 }
