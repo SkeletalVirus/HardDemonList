@@ -2,6 +2,7 @@
  * Numbers of decimal digits to round to
  (-0.909091 * (rank - 1) + 100.909091)
  100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50
+ ((percent - (minPercent - 1)) / (100 - (minPercent - 1))
  */
 const scale = 3;
 
@@ -17,8 +18,7 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
-    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
-        );
+    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50));
 
     score = Math.max(0, score);
 
