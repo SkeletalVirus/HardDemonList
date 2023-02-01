@@ -1,5 +1,6 @@
 /**
  * Numbers of decimal digits to round to
+ -0.909091x+100.909091
  */
 const scale = 3;
 
