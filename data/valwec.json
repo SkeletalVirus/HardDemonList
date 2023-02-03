@@ -62,6 +62,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "Wolvyy",
+          "link": "https://www.youtube.com/watch?v=8eUR5QJm80w",
+          "percent": 100,
+          "hz": 280
         }
     ]
 }
