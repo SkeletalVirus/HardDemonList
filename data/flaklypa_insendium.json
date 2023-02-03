@@ -9,12 +9,10 @@
     "password": "111255",
     "records": [
         {
-            {
             "user": "Willow",
             "link": "https://youtu.be/LDT8gaduQok",
             "percent": 100,
             "hz": 360
-            }
         }
     ]
 }
