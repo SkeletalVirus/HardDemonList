@@ -160,6 +160,12 @@
             "link": "https://www.youtube.com/watch?v=tJ6czvMMNAA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "MinicMioda",
+            "link": "https://www.youtube.com/watch?v=e15a7AkVXMo",
+            "percent": 100,
+            "hz": 165
         }
 ]
 }
