@@ -37,7 +37,7 @@
             "link": "https://www.youtube.com/watch?v=0XMRXHP99Xo",
             "percent": 100,
             "hz": 60,
-            "mobile"=true
+            "mobile" : true
         },
         {
             "user": "Royale",
