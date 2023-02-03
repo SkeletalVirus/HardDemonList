@@ -38,6 +38,12 @@
             "percent": 100,
             "hz": 60,
             "mobile"=true
+        },
+        {
+            "user": "Royale",
+            "link": "https://youtu.be/7ktaEUOICvg",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
