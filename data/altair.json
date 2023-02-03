@@ -213,6 +213,13 @@
             "link": "https://youtu.be/QHpNxPj5UU4?t=113",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "MrMarksman",
+            "link": "https://youtu.be/jInRJUOap7U",
+            "percent": 100,
+            "hz": 360,
+            "mobile": true
         }
       ]
 }
