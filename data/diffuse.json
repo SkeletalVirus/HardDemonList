@@ -469,6 +469,13 @@
           "link": "https://www.youtube.com/watch?v=65IfCw0FPAM&list=PLLCmK-FiNYBsDBuiX2MLUgOOjmu_oFLj5&index=36",
           "percent": 100,
           "hz": 200
-        }
+        },
+        {
+          "user": "EpicEver",
+          "link": "https://youtu.be/QUDVBY-WjGo",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        },
       ]
 }
