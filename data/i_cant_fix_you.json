@@ -232,6 +232,13 @@
           "link": "https://youtu.be/IbY7Genm3Xg",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "gr8ness",
+          "link": "https://youtu.be/-h7rFAOTWEk",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }
