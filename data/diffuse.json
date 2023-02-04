@@ -476,6 +476,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "Aloox",
+          "link": "https://youtu.be/7qapv_3LqDI",
+          "percent": 100,
+          "hz": 60
         }
       ]
 }
