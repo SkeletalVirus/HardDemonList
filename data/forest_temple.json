@@ -160,6 +160,13 @@
           "link": "https://youtu.be/PUO2iRJKYxk",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "EpicEver",
+          "link": "https://youtu.be/ga_hQyzORPI",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
