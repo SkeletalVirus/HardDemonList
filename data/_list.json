@@ -70,7 +70,6 @@
     "the_eschaton",
     "hash",
     "pressure_chamber",
-    "total_oblivion",
     "adrenaline_chamber",
     "flaklypa_insendium",
     "nano_lights",
@@ -145,5 +144,6 @@
     "nana",
     "terror_factory",
     "wily",
-    "drop_zone"
+    "drop_zone",
+    "total_oblivion"
 ]
