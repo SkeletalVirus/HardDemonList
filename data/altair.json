@@ -218,6 +218,13 @@
             "user": "MrMarksman",
             "link": "https://youtu.be/jInRJUOap7U",
             "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "SmileBullet",
+            "link": "https://youtu.be/zZ_mMwMm5Eo",
+            "percent": 100,
             "hz": 360,
             "mobile": true
         }
