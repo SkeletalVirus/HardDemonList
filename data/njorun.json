@@ -218,6 +218,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "MeowMasterer",
+          "link": "https://youtu.be/z82-wVmugl4?t=2410",
+          "percent": 100,
+          "hz": 75
         }
     ]
 }
