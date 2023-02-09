@@ -103,6 +103,13 @@
           "link": "https://youtu.be/kIEGICsjK5o",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Jacob",
+          "link": "https://youtu.be/3MzaaNjROKo",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
         }
       ]
 }
