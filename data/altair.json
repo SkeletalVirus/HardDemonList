@@ -227,6 +227,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Pleb727",
+            "link": "https://www.twitch.tv/videos/1733054587",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
