@@ -49,6 +49,13 @@
             "link": "https://youtu.be/ByPPGMvqodo",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Idkwhattobeeee",
+            "link": "https://youtu.be/zK2L_0E7LrQ",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
      ]
 }
