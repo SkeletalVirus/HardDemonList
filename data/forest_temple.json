@@ -167,6 +167,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "DIUS3D",
+          "link": "https://youtu.be/ZUnk6nK8an4",
+          "percent": 100,
+          "hz": 120
         }
       ]
 }
