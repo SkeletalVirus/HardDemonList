@@ -9,6 +9,10 @@
     "password": "800000",
     "records": [
         {
+          "user": "RoboBear04",
+          "link": "https://youtu.be/jvAYaU2iF9E",
+          "percent": 100,
+          "hz": 120
         }
     ]
 }
