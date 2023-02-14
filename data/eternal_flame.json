@@ -91,6 +91,12 @@
             "link": "https://youtu.be/h1gFa4QK110",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Wu",
+            "link": "https://www.youtube.com/watch?v=5CrlTPdc8Fw",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
