@@ -371,6 +371,13 @@
             "link": "https://www.youtube.com/watch?v=QXRqpXYsS2k&ab_channel=Trycic",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Idkwhattobeeee",
+            "link": "https://youtu.be/FXdOzmy4SGA",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
     ]
 }
