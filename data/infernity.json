@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=bRe29a-IjK8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Mishaza",
+            "link": "https://www.youtube.com/watch?v=PYtYiUqhmlg",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
