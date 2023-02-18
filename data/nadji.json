@@ -120,6 +120,13 @@
           "link": "https://youtu.be/0BgzEN50eaA",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Jacob",
+          "link": "https://youtu.be/tCFXuoRnymQ",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
         }
       ]
 }
