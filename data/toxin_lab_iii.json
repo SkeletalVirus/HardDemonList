@@ -155,6 +155,13 @@
             "link": "https://youtu.be/eEmA5gNcjLw",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "NewDark",
+            "link": "https://youtu.be/3CNs-L1e5k8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
