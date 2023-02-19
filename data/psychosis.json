@@ -945,6 +945,12 @@
           "link": "https://www.youtube.com/watch?v=OvQibDj0CLc",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "NewDark",
+          "link": "https://youtu.be/Ae11r_sFmT0",
+          "percent": 100,
+          "hz": 60
         }
       ]
 }
