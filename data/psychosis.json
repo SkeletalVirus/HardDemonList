@@ -951,6 +951,13 @@
           "link": "https://youtu.be/Ae11r_sFmT0",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "lemonattax",
+          "link": "https://www.youtube.com/watch?v=2fX8XRuxR0Y",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
