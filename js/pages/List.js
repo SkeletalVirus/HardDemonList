@@ -108,7 +108,7 @@ export default {
                         Clicks or Taps are preferred, however, they are not necessary for a record to be accepted
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless you're using cheat indicator or the completion is on the first attempt. Everyplay records are exempt from this
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless you're using cheat indicator, have clicks or the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
                         The recording must also show the player hit the endwall, or the completion will be invalidated.
