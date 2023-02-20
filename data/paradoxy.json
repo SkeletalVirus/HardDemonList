@@ -40,9 +40,15 @@
         },
         {
             "user": "nTimaw",
-            "link": "https://www.twitch.tv/videos/1651447470",
+            "link": "https://www.youtube.com/watch?v=5cZlM_skNhY",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/ayNt02ZX1Ww",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
