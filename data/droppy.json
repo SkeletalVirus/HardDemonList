@@ -272,6 +272,13 @@
           "link": "https://youtu.be/gMXOtVimQrE",
           "percent": 100,
           "hz": 60
+        },
+        {
+            "user": "Jacob",
+            "link": "https://youtu.be/rVaQ2KEFaK4",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
