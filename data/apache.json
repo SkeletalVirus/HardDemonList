@@ -160,7 +160,7 @@
             "link": "https://youtu.be/0422NrHIXQA",
             "percent": 100,
             "hz": 120,
-            "nobile": true
+            "mobile": true
         },
         {
           "user": "NightEnfur",
@@ -179,6 +179,13 @@
             "link": "https://youtu.be/GzcanSg8I6Y",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/GzcanSg8I6Y",
+            "percent": 100,
+            "hz": 120
+            "mobile": true
         }
     ]
 }
