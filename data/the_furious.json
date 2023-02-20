@@ -553,6 +553,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Patrick61804",
+            "link": "https://www.youtube.com/watch?v=ZfRbEfGVj3c",
+            "percent": 100,
+            "hz": 360
         }
      ]
 }
