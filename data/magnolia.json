@@ -133,6 +133,12 @@
             "link": "https://youtu.be/vWcogylhYgU",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Haiku",
+            "link": "https://www.youtube.com/watch?v=1rUzSvRFPbw",
+            "percent": 100,
+            "hz": 180
         }
       ]
 }
