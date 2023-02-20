@@ -5,14 +5,24 @@
         "link": "https://twitter.com/PoweredByElectr"
     },
     {
+        "role": "owner",
+        "name": "Whacka",
+        "link": "https://www.youtube.com/channel/UCqtuzqYLx1UpO8bQ3bblBTw"
+    },
+    {
         "role": "admin",
         "name": "B6boy1004",
         "link": ""
     },
-            {
-        "role": "owner",
-        "name": "Whacka",
-        "link": "https://www.youtube.com/channel/UCqtuzqYLx1UpO8bQ3bblBTw"
+    {
+        "role": "trial",
+        "name": "RoboBear04",
+        "link": "https://www.youtube.com/channel/UC5j8pK5dZZGYYRmJenPsKtA"
+    },
+    {
+        "role": "trial",
+        "name": "Vasen-Vasen",
+        "link": "https://www.youtube.com/channel/UCJVvPofEG04LteDyj8QxLOQ"
     },
     {
         "role": "helper",
@@ -24,20 +34,11 @@
         "name": "shenanigans",
         "link": "https://www.youtube.com/channel/UCHryXzl1WCFeDEkLc77W-Ww"
     },
-                {
-        "role": "mod",
-        "name": "RoboBear04",
-        "link": "https://www.youtube.com/channel/UC5j8pK5dZZGYYRmJenPsKtA"
-    },
+    
                     {
         "role": "helper",
         "name": "Bobbyp02",
         "link": "https://www.youtube.com/channel/UCZQWL17sRXpZ5jYTW_HEZng"
-    },
-                        {
-        "role": "mod",
-        "name": "Vasen-Vasen",
-        "link": "https://www.youtube.com/channel/UCJVvPofEG04LteDyj8QxLOQ"
     },
                         {
         "role": "helper",
