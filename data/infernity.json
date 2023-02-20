@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=PYtYiUqhmlg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Bluestar",
+            "link": "https://www.youtube.com/watch?v=mWQgRGKYQQo",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
