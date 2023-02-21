@@ -9,7 +9,11 @@
     "password": "123987",
     "records": [
         {
-          
+            "user": "SmileBullet",
+            "link": "https://youtu.be/umrPXj_pfDY",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
