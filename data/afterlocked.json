@@ -105,9 +105,15 @@
         },
         {
            "user": "nTimaw",
-           "link": "https://youtu.be/ek5zlpBzplE",
+           "link": "https://www.youtube.com/watch?v=ek5zlpBzplE",
            "percent": 100,
            "hz": 150
+        },
+        {
+           "user": "Fawxu",
+           "link": "https://www.youtube.com/watch?v=JBtAWjO-LEY",
+           "percent": 100,
+           "hz": 240
         }
     ]
 }
