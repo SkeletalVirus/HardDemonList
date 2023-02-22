@@ -162,6 +162,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Arcturus97",
+            "link": "https://www.youtube.com/watch?v=jSO06VS5MmI",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
