@@ -60,7 +60,13 @@
           "user": "NightEnfur",
           "link": "https://youtu.be/j1LB4xSauEo",
           "percent": 100,
-          "hz":240
+          "hz": 240
+        },
+        {
+          "user": "JoacoPe",
+          "link": "https://www.youtube.com/watch?v=YjCSPryPJQ4",
+          "percent": 100,
+          "hz": 120
         }
       ]
 }
