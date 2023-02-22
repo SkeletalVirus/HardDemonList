@@ -186,6 +186,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "DenyZr",
+          "link": "https://www.youtube.com/watch?v=kziMF7K8NvQ",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
