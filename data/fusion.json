@@ -38,6 +38,19 @@
             "link": "https://www.youtube.com/watch?v=21Puz3UY62Y",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Nicoolat",
+            "link": "https://www.youtube.com/watch?v=0Khi86OYD-E",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://www.youtube.com/watch?v=3NiaE6iO3Kw",
+            "percent": 100,
+            "hz": 150
         }
       ]
 }
