@@ -10,10 +10,34 @@
     "records": [
         {
             "user": "SmileBullet",
-            "link": "https://youtu.be/umrPXj_pfDY",
+            "link": "https://www.youtube.com/watch?v=umrPXj_pfDY",
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "SafeSpace",
+            "link": "https://www.youtube.com/watch?v=i9_-txlrKjU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Melody3",
+            "link": "https://www.youtube.com/watch?v=THpw1t7LSdY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Royale",
+            "link": "https://www.youtube.com/watch?v=W1oTmbw7Kbw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "https://www.youtube.com/watch?v=21Puz3UY62Y",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
