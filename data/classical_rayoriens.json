@@ -110,6 +110,12 @@
           "link": "https://www.youtube.com/watch?v=gKY_NlOK_Lc&ab_channel=IIIpeachesIII",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "DenyZr",
+          "link": "https://www.youtube.com/watch?v=jRJHx4Geob4",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
