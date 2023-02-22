@@ -210,7 +210,7 @@
             "user": "Nicoolat",
             "link": "https://youtu.be/wxcGG4nqCoU",
             "percent": 100,
-            "hz": 60,
+            "hz": 120,
             "mobile": true
         },
         {
@@ -236,12 +236,6 @@
           "link": "https://youtu.be/pqNUL15VumY",
           "percent": 100,
           "hz": 240
-        },
-        {
-          "user": "Nicoolat",
-          "link": "https://youtu.be/wxcGG4nqCoU",
-          "percent": 100,
-          "hz": 120
         },
         {
           "user": "FaiqMID",
