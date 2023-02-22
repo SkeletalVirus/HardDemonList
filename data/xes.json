@@ -170,6 +170,12 @@
             "link": "https://www.youtube.com/watch?v=sgPYiSHpPzg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Mishaza",
+            "link": "https://www.youtube.com/watch?v=8wMDy_5HwQo",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
