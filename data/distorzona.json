@@ -202,6 +202,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "LoveSpectral",
+            "link": "https://www.youtube.com/watch?v=o2zqYtxrdsE",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
