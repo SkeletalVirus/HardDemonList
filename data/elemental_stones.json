@@ -142,6 +142,12 @@
           "link": "https://www.youtube.com/watch?v=yIZ21_1lxQU&ab_channel=Galaxy4567",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "Abeginner",
+          "link": "https://youtu.be/14ahEmkPNC4",
+          "percent": 100,
+          "hz": 240
         }
     ]
 }
