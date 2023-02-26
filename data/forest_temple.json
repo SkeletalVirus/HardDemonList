@@ -192,6 +192,12 @@
           "link": "https://www.youtube.com/watch?v=kziMF7K8NvQ",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Noob_Ian",
+          "link": "https://www.youtube.com/watch?v=dUfPTpF6fKY&t=1s",
+          "percent": 100,
+          "hz": 60
         }
       ]
 }
