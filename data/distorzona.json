@@ -214,6 +214,13 @@
             "link": "https://www.youtube.com/watch?v=GNGUey5WFAE&ab_channel=BlKoolai",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Dissmo",
+            "link": "https://www.youtube.com/watch?v=K4kNeOFq-eA",
+            "percent": 100,
+            "hz": 60
+            "mobile": true
         }
       ]
 }
