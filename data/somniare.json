@@ -171,6 +171,12 @@
            "link": "https://www.youtube.com/watch?v=YWMoISgFdhE&ab_channel=BlKoolaid",
            "percent": 100,
            "hz": 144
+        },
+        {  
+           "user": "LoveSpectral",
+           "link": "https://youtu.be/3DDHuq76qmk",
+           "percent": 100,
+           "hz": 240
         }
      ]
 }
