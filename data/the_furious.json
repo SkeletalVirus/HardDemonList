@@ -583,6 +583,13 @@
             "link": "https://www.youtube.com/watch?v=ZEVrEP2XgO8",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "ThatClassySheep124",
+            "link": "https://www.youtube.com/watch?v=85LrZ85ISq8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
      ]
 }
