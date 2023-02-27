@@ -77,9 +77,15 @@
         },
         {
             "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=veRdjRxNap4&ab_channel=Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=veRdjRxNap4",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Domesz",
+            "link": "https://www.youtube.com/watch?v=PuscuRrHGtE",
+            "percent": 100,
+            "hz": 360
         }
      ]
 }
