@@ -158,6 +158,12 @@
             "link": "https://www.youtube.com/watch?v=GCpC7AAUuzM",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/IjSsZ91jDWY",
+            "percent": 100,
+            "hz": 60
         }
    ]
 }
