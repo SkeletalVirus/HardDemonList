@@ -198,6 +198,12 @@
           "link": "https://www.youtube.com/watch?v=dUfPTpF6fKY&t=1s",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://youtu.be/lJtJLgr-LAQ",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
