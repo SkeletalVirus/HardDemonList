@@ -221,6 +221,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Domesz",
+            "link": "https://www.youtube.com/watch?v=bK_o8HnfS2U",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
