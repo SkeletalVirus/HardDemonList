@@ -80,6 +80,13 @@
             "link": "https://youtu.be/XC_HAKGOx_o",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "swarm",
+            "link": "https://www.youtube.com/watch?v=_MFE4NqWoEU",
+            "percent": 100,
+            "hz": 60 
+            "mobile" : true
         }
     ]
 }
