@@ -204,7 +204,14 @@
           "link": "https://youtu.be/lJtJLgr-LAQ",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "zNickGD",
+          "link": "https://youtu.be/2b-XqUEJgUk",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
-      ]
+    ]
 }
     
