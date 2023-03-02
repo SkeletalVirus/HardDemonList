@@ -186,6 +186,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Elevenhazen",
+            "link": "https://youtu.be/fSABGnpKkqc",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
