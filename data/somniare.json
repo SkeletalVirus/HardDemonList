@@ -177,6 +177,12 @@
            "link": "https://www.youtube.com/watch?v=nvWpISoCGBg&ab_channel=Galaxy4567",
            "percent": 100,
            "hz": 144
+        },
+        {
+           "user": "NewDark",
+           "link": "https://youtu.be/FYCq732DDyU",
+           "percent": 100,
+           "hz": 60
         }
      ]
 }
