@@ -164,6 +164,12 @@
             "link": "https://youtu.be/IjSsZ91jDWY",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Hyperbeat",
+            "link": "https://www.youtube.com/watch?v=whIwgmhw96U",
+            "percent": 100,
+            "hz": 240
         }
    ]
 }
