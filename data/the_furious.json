@@ -590,6 +590,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Zupreme",
+            "link": "https://youtu.be/lWxUp5JHQ8U",
+            "percent": 100,
+            "hz": 240
         }
-     ]
+    ]
 }
