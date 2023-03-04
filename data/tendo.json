@@ -672,6 +672,12 @@
             "link": "https://www.youtube.com/watch?v=pDQ8XrAZKuQ",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Hyperbeat",
+            "link": "https://youtu.be/Chme2WVV1uQ?t=830",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
