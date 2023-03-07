@@ -242,6 +242,12 @@
           "link": "https://www.youtube.com/watch?v=SidWlFd1v34",
           "percent": 100,
           "hz": 144
+        },
+        {       
+            "user": "clncrvl",
+            "link": "https://www.twitch.tv/videos/1725418667?t=02h27m21s",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
