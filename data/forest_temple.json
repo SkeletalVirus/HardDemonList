@@ -235,6 +235,12 @@
           "link": "https://www.youtube.com/watch?v=BoNx1Dpzx2w",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Ravenhardt",
+          "link": "https://www.youtube.com/watch?v=KbpXI91eSuk",
+          "percent": 100,
+          "hz": 144
         }
     ]
 }
