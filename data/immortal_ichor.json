@@ -85,6 +85,12 @@
           "link": "https://www.youtube.com/watch?v=rimXcA4KM5s",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "AeonAir",
+          "link": "https://youtu.be/FIDYlc7MCEE?t=350",
+          "percent": 100,
+          "hz": 280
         }
-      ]
+    ]
 }
