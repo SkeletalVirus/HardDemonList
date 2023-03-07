@@ -211,6 +211,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "AeonAir",
+          "link": "https://youtu.be/Sz7y5nHlgNc?t=907",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
