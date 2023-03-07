@@ -239,6 +239,12 @@
             "link": "https://www.youtube.com/watch?v=p9v2vri2v4w&ab_channel=IIIpeachesIII",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/jocn7FsZaXE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
