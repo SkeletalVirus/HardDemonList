@@ -8,6 +8,11 @@
     "percentToQualify": 100,
     "password": "No Copy",
     "records": [
-      
-      ]
+      {
+            "user": "RoboBear04",
+            "link": "https://youtu.be/tWSxn4i2-D8",
+            "percent": 100,
+            "hz": 120
+      }
+  ]
 }
