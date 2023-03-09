@@ -44,6 +44,12 @@
             "link": "https://www.youtube.com/watch?v=nFoprwc3h-A",
             "percent": 100,
             "hz": 165 
+        },
+        {
+            "user": "Melody3",
+            "link": "https://youtu.be/pyWBV7YEyX0",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
