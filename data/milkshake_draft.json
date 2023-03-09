@@ -135,11 +135,11 @@
           "hz": 165
          },
         {
-          "user": "Jacob",
-          "link": "https://youtu.be/-6iy4p9jgXU",
-          "percent": 100,
-          "hz": 120
-          "mobile:" true
+           "user": "Jacob",
+           "link": "https://youtu.be/-6iy4p9jgXU",
+           "percent": 100,
+           "hz": 120,
+           "mobile": true
         }
     ]
  }
