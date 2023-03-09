@@ -14,10 +14,15 @@
             "percent": 100,
             "hz": 120
         },
-        {
-          
+        {   
             "user": "IgongDae",
             "link": "https://youtu.be/ZqdxqWTIgXQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Royale",
+            "link": "https://youtu.be/prPRbXxGRGI",
             "percent": 100,
             "hz": 60
         }
