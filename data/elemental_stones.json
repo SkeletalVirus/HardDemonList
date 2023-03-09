@@ -148,6 +148,12 @@
           "link": "https://youtu.be/14ahEmkPNC4",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "SafeSpace",
+          "link": "https://www.youtube.com/watch?v=KWwAAhZ0gBk&list=PLnAjn67OBop9OFUlBj6nqisiNMdLsJq10&index=5",
+          "percent": 100,
+          "hz": 120
         }
     ]
 }
