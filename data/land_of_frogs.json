@@ -245,6 +245,12 @@
             "link": "https://www.youtube.com/watch?v=bGVtiEdwMB8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "MioMaoGD",
+            "link": "https://youtu.be/VKyxF76fiHg",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
