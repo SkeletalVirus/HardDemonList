@@ -684,6 +684,13 @@
            "link": "https://www.youtube.com/watch?v=CGPFQb1NAiM",
            "percent": 100,
            "hz": 240
+        },
+        {
+            "user": "Hayden123nice",
+            "link": "https://youtu.be/Y_3dYkOq93M",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
