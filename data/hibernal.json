@@ -116,7 +116,13 @@
             "user": "Leckylecks",
             "link": "https://youtu.be/3i6G1o_d7F4",
             "percent": 100,
-            "hz": 360  
+            "hz": 360 
+        },
+        {   
+            "user": "Whacka",
+            "link": "https://youtu.be/7vUBIDBr6C4",
+            "percent": 100,
+            "hz": 360 
         }
     ]
 }
