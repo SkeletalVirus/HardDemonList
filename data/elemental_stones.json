@@ -151,9 +151,16 @@
         },
         {
           "user": "SafeSpace",
-          "link": "https://www.youtube.com/watch?v=KWwAAhZ0gBk&list=PLnAjn67OBop9OFUlBj6nqisiNMdLsJq10&index=5",
+          "link": "https://www.youtube.com/watch?v=KWwAAhZ0gBk",
           "percent": 100,
           "hz": 120
+        },
+        {
+          "user": "Jacob",
+          "link": "https://www.youtube.com/watch?v=KWbLhwoXpjc",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
         }
     ]
 }
