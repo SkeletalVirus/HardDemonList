@@ -697,6 +697,12 @@
            "link": "https://www.youtube.com/watch?v=iL0wGwgDElI",
            "percent": 100,
            "hz": 144
+        },
+        {
+           "user": "HaxQL",
+           "link": "https://www.youtube.com/watch?v=W-3W1700R8s",
+           "percent": 100,
+           "hz": 60
         }
     ]
 }
