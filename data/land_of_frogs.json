@@ -257,6 +257,13 @@
             "link": "https://youtu.be/PC6uQIyY3Uo",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Hayden123nice",
+            "link": "https://youtu.be/EpYjOsTmXF8",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
