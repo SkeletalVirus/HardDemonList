@@ -128,6 +128,12 @@
             "link": "https://youtube.com/watch?v=gvuJh0WvhVY&si=EnSIkaIECMiOmarE",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=0k7_u4-NMC4",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
