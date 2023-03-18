@@ -1042,6 +1042,12 @@
           "link": "https://www.youtube.com/watch?v=cj_ahf_aFl8",
           "percent": 100,
           "hz": 360   
+        },
+        {
+          "user": "JoseRicoTacoNachoQuesadillaMandilaJones",
+          "link": "https://www.youtube.com/watch?v=HVZ0RdDuc9Q",
+          "percent": 100,
+          "hz": 144
         }
     ]
 }
