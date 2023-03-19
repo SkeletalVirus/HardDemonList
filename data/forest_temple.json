@@ -265,6 +265,12 @@
           "link": "https://youtu.be/WoeKTqkzOpA",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "mainlevel",
+          "link": "https://www.youtube.com/watch?v=_4zy3dxl6Bo",
+          "percent": 100,
+          "hz": 240
         }
     ]
 }
