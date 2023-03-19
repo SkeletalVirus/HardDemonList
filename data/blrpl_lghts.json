@@ -248,6 +248,12 @@
             "link": "https://www.twitch.tv/videos/1725418667?t=02h27m21s",
             "percent": 100,
             "hz": 240
+        },
+        {       
+            "user": "AnnihilationGD",
+            "link": "https://youtu.be/5fnaMWZnU5o",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
