@@ -55,6 +55,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "Pizzabote6h",
+          "link": "https://youtu.be/cRueIK4P3PQ",
+          "percent": 100,
+          "hz": 360
         }
         ]
 }
