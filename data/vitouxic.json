@@ -244,6 +244,13 @@
             "link": "https://youtu.be/DzqEnLJmMjM",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "HanoCrux",
+            "link": "https://youtu.be/oBwxdFq_7bI",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
