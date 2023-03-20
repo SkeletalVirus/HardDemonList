@@ -133,6 +133,13 @@
             "link": "https://youtu.be/PALmvmQ4Sao?t=266",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Jacob",
+            "link": "https://youtu.be/YsVZ1OVVdzs",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
