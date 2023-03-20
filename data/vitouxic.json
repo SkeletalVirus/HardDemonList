@@ -251,6 +251,13 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "harzzz",
+            "link": "https://youtu.be/Wm4cJeLV9J0",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
