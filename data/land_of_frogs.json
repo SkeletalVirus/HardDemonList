@@ -276,6 +276,13 @@
             "link": "https://www.youtube.com/watch?v=bSf-n9wrF1M",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Geomaster",
+            "link": "https://www.youtube.com/watch?v=f8Er4nrD7YE&list=PPSV",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
