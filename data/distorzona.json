@@ -251,6 +251,13 @@
             "link": "https://youtu.be/S0Yxb9lNsKI",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Stvla",
+            "link": "https://youtu.be/nbLYrGOUN9w",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
