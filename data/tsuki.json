@@ -2,7 +2,7 @@
     "id": 73228381,
     "name": "Tsuki",
     "author": "PokeChatt",
-    "creators": ["para, PokeChatt, Polli, Licen00, Duffz, hiavl, ZeiThex, Convie, NeoGamer, scrumpy, ZeroSR"],
+    "creators": ["PokeChatt, Para, Polli, Licen00 Duffz, Hiavl, Convie, Zeithex, Neogamer, Scrumpy, ZeroSR, GeoGamer"],
     "verifier": "PokeChatt",
     "verification": "https://youtu.be/g_B7DQ41SC0",
     "percentToQualify": 100,
@@ -11,6 +11,12 @@
          {
             "user": "loveSpectral",
             "link": "https://youtu.be/RMmptx42wmc",
+            "percent": 100,
+            "hz": 240
+         },
+         {
+            "user": "Fawxu",
+            "link": "https://youtu.be/d-6JYkwDcHw",
             "percent": 100,
             "hz": 240
          }
