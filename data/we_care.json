@@ -20,6 +20,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Dissmo",
+            "link": "https://www.youtube.com/watch?v=llW3Y9TFoUQ,
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
