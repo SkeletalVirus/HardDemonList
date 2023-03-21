@@ -259,7 +259,8 @@
             "user": "HanoCrux",
             "link": "https://youtu.be/t2v23RXYZ0Q",
             "percent": 100,
-            "hz": 120
+            "hz": 120,
+             "mobile": true
         }
     ]
 }
