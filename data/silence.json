@@ -140,6 +140,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Trehoeje",
+            "link": "https://youtu.be/esYDMiK6L-4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
