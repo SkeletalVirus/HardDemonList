@@ -204,6 +204,12 @@
             "link": "https://www.youtube.com/watch?v=EHbso9gYs7A",
             "percent": 100,
             "hz": 144
+        },
+         {
+            "user": "loveSpectral",
+            "link": "https://www.youtube.com/watch?v=g1EOK3zwVs0&list=PLSZLUa5mnMJn625MipcFmCAhoNFwAJQPl&index=22",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
