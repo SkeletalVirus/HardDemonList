@@ -439,6 +439,12 @@
             "percent": 100,
             "hz": 120,
              "mobile": true
+        },
+        {
+            "user": "SirDiablo",
+            "link": "https://youtu.be/rF-u0VV8pio",
+            "percent": 100,
+            "hz": 240
         }
         
     ]
