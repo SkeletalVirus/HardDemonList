@@ -1079,6 +1079,12 @@
           "link": "https://youtu.be/Q7ae3P5cg64",
           "percent": 100,
           "hz": 240
+        },
+         {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=EL9_G00Swss",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
