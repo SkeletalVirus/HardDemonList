@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "270121",
     "records": [
+        {
+            "user": "loveSpectral",
+            "link": "https://youtu.be/_ram7hd7flM",
+            "percent": 100,
+            "hz": 240
+        }
       ]
 }
