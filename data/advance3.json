@@ -145,6 +145,13 @@
           "link": "https://www.youtube.com/watch?v=7hkcKv7qnsM&list=PLnAjn67OBop9OFUlBj6nqisiNMdLsJq10&index=12",
           "percent": 100,
           "hz": 120
+        },
+        {
+          "user": "HanoCrux",
+          "link": "https://youtu.be/-xr0Dih5L_U",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
         }
     ]
 }
