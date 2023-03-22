@@ -78,19 +78,6 @@
             "link": "https://youtu.be/lyAneoUHjtU",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "ItsBig",
-            "link": "https://www.youtube.com/watch?v=Pg5_a8ETwMs",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "cheolbonge",
-            "link": "https://youtu.be/eG-X5exldBg",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
         }
     ]
 }
