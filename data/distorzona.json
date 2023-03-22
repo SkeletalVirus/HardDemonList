@@ -264,6 +264,12 @@
             "link": "https://www.youtube.com/watch?v=mI5_odcpQS4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "HanoCrux",
+            "link": "https://youtu.be/Vtw7_p6rEsE",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
