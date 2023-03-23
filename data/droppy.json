@@ -286,6 +286,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {       
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=e42nD0wFz1A",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
