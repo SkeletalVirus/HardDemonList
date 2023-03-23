@@ -44,6 +44,13 @@
             "link": "https://youtu.be/2byXB9s9Aog",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Bonezizdum",
+            "link": "https://www.youtube.com/watch?v=XM-_7-CtoS0",
+            "percent": 100,
+            "hz": 60
+            "mobile": true
         }
       ]
 }
