@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=BSQBc2jenKk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Elevenhazen",
+            "link": "https://youtu.be/hZG3wjgMWlc",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
