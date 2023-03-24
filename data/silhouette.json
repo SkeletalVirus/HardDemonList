@@ -8,5 +8,23 @@
     "percentToQualify": 100,
     "password": "No Copy",
     "records": [
+        {
+            "user": "Trehoeje",
+            "link": "https://youtu.be/9LaP2OgZDn0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Royale",
+            "link": "https://youtu.be/JHrkdxeggmU",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Mishaza",
+            "link": "https://www.youtube.com/watch?v=abq3Pt7Afbw",
+            "percent": 100,
+            "hz": 60
+        }
       ]
 }
