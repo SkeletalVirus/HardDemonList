@@ -233,6 +233,12 @@
             "link": "https://www.twitch.tv/videos/1733054587",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Zupreme",
+            "link": "https://youtu.be/PSpmzzBxJ9I",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
