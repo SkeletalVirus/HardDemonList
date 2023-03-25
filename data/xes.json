@@ -188,6 +188,12 @@
            "link": "https://www.youtube.com/watch?v=6Yqqh2SMZ24&list=PLSZLUa5mnMJn625MipcFmCAhoNFwAJQPl&index=19",
            "percent": 100,
            "hz": 240
+        },
+        {
+           "user": "Jacob",
+           "link": "https://youtu.be/0ALd9WGjxqA",
+           "percent": 100,
+           "hz": 120
         }
     ]
 }
