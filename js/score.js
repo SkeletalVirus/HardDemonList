@@ -3,6 +3,7 @@
  (-0.909091 * (rank - 1) + 100.909091)
  100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50
  ((percent - (minPercent - 1)) / (100 - (minPercent - 1))
+ -0.939597 * (rank)) + 150.939597
  */
 const scale = 3;
 
@@ -18,7 +19,7 @@ export function score(rank, percent, minPercent) {
         return 0;
     }
 
-    let score = ((-0.939597 * (rank)) + 150.939597) * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    let score = ((-0.909091 * (rank)) + 100.909091) * ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
 
