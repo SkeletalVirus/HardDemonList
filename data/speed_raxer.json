@@ -128,6 +128,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/ng-_HYQCfVA",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
