@@ -97,6 +97,13 @@
           "link": "https://youtu.be/oCiP9mH7HFA",
           "percent": 100,
           "hz": 120
+        },
+        {
+          "user": "Andorra",
+          "link": "https://www.youtube.com/watch?v=mxWZ79DYdPo",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
