@@ -81,6 +81,13 @@
             "link": "https://youtu.be/6ADxyBm8L7Q",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "loveSpectral",
+            "link": "https://youtu.be/QiMH0Q-ey7s",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
