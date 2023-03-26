@@ -727,6 +727,13 @@
             "link": "https://youtu.be/cKrZ2cMT5Hw",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Kuzdavo",
+            "link": "https://youtu.be/rtIufxysCmM",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
