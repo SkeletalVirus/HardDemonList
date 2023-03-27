@@ -192,6 +192,13 @@
             "link": "https://www.youtube.com/watch?v=CB7mHo-Gu6M&ab_channel=Oipty",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "lemonattax",
+            "link": "https://youtu.be/96Ox0Ql-KeY",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
