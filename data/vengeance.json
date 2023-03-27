@@ -103,6 +103,12 @@
             "link": "https://youtu.be/Bb2nhSpukYE",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Domesz",
+            "link": "https://www.youtube.com/watch?v=kQCkmRHDozM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
