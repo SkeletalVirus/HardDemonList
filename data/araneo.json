@@ -339,6 +339,13 @@
           "link": "https://youtu.be/W_u4sa4wsls",
           "percent": 100,
           "hz": 240
+        },
+        {
+            "user": "NewDark",
+            "link": "https://youtu.be/N4TS7AA0QkI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
    ]
 }
