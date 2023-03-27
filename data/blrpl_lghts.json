@@ -261,6 +261,12 @@
             "percent": 100,
             "hz": 120,
              "mobile": true
+        },
+        {       
+            "user": "Leckylecks",
+            "link": "https://youtu.be/lrlA-6gOnr8",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
