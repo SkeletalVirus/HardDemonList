@@ -82,6 +82,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+            "user": "DenyZr",
+            "link": "https://youtu.be/AcYPmMV2Hq8",
+            "percent": 100,
+            "hz": 240
         }
 ]
 }
