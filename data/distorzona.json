@@ -300,6 +300,12 @@
             "link": "https://www.youtube.com/watch?v=vyHAdXKmQxs",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "setsi",
+            "link": "https://www.youtube.com/watch?v=AjzGS21tT-Q",
+            "percent": 100,
+            "hz": 120
         }
         ]
 }
