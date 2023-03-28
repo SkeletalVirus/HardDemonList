@@ -19,7 +19,6 @@
     "elemental_stones",
     "steel_gear",
     "mirror_tempest",
-    "despair",
     "pulsar",
     "action_lyal",
     "time_decay",
@@ -157,4 +156,5 @@
     "drop_zone",
     "total_oblivion",
     "land_of_frogs"
+    "despair"
 ]
