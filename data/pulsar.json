@@ -1,9 +1,9 @@
 {
     "id": 40656500,
     "name": "Pulsar",
-    "author": "Nestarboy",
-    "creators": [],
-    "verifier": "Nestarboy",
+    "author": "nestorboy",
+    "creators": ["nestorboy, ChocolateKittie, MrLorenzo"],
+    "verifier": "nestorboy",
     "verification": "https://www.youtube.com/watch?v=AzHvLkHq2W0",
     "percentToQualify": 100,
     "password": "000000",
