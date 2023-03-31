@@ -93,6 +93,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Windy Bee",
+            "link": "https://www.youtube.com/watch?v=v_sQ8omOFlg&ab_channel=WindyBee",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
