@@ -67,6 +67,12 @@
           "link": "https://www.youtube.com/watch?v=9u_N0IbJHWY",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Windy Bee",
+          "link": "https://www.youtube.com/watch?v=voFgbYfUejc&ab_channel=WindyBee",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
