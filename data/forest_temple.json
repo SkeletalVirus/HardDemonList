@@ -301,6 +301,12 @@
           "link": "https://www.youtube.com/watch?v=RSawDWVKijc&ab_channel=Galaxy4567",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "Windy Bee",
+          "link": "https://www.youtube.com/watch?v=m62CpJ4REO4&ab_channel=WindyBee",
+          "percent": 100,
+          "hz": 144
         }
     ]
 }
