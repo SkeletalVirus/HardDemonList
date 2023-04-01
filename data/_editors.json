@@ -1,6 +1,11 @@
 [
     {
         "role": "owner",
+        "name": "Havok",
+        "link": "https://www.youtube.com/@HavokGeometryDash"
+    },
+    {
+        "role": "owner",
         "name": "Electro",
         "link": "https://twitter.com/PoweredByElectr"
     },
