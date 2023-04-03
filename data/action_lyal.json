@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=zKpzOpUjOto&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "SkeletalVirus",
+            "link": "https://youtu.be/0nHUBCaiheQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
