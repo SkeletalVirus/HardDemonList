@@ -184,6 +184,13 @@
             "link": "https://youtu.be/_WHp2s0Ch4s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "IIIpeachesIII",
+            "link": "https://youtu.be/ubytOEqP1f4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
