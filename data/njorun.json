@@ -292,6 +292,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://www.youtube.com/watch?v=_0SCx_N8R64",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
