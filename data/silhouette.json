@@ -113,9 +113,15 @@
         },
         {
           "user": "Moley768",
-          "link": "https://www.youtube.com/watch?v=TDGh9D5eCgw&t=450s=s",
+          "link": "https://www.youtube.com/watch?v=TDGh9D5eCgw&t=450s",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "MrMarksman",
+          "link": "https://youtu.be/brCMnALiRBs",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
