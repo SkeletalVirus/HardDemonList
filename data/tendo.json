@@ -741,6 +741,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "dorszlol20",
+            "link": "https://youtu.be/jYv6Cu_ZrmI",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
