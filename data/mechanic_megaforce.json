@@ -81,6 +81,12 @@
           "percent": 100,
           "hz": 120
           "mobile" : true
-        }
+        },
+         {
+          "user": "Rub1x",
+          "link": "https://youtu.be/gJkOlMVR7CQ",
+          "percent": 100,
+          "hz": 360
+         }
       ]
 }
