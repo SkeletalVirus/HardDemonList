@@ -44,6 +44,12 @@
             "link": "https://www.youtube.com/watch?v=bhzDNUWZ-To",
             "percent": 100,
             "hz": 280
+        },
+         {
+            "user": "FarAwayLand",
+            "link": "https://www.youtube.com/watch?v=hwjxd9IF_1o&t=1618s",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
