@@ -118,6 +118,13 @@
           "link": "https://youtu.be/HKjKTHgVOxI",
           "percent": 100,
           "hz": 60
+        },
+        {
+            "user": "Nicoolat",
+            "link": "https://youtu.be/72yxUQHNKTI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
