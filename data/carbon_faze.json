@@ -92,6 +92,12 @@
           "link": "https://youtu.be/wCVCr0vg3TA",
           "percent": 100,
           "hz": 240
-        }
+        },
+         {
+            "user": "jordan853",
+            "link": "https://www.youtube.com/watch?v=ymsOe6OiZIY",
+            "percent": 100,
+            "hz": 60
+         }
       ]
 }
