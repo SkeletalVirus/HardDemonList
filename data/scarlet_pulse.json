@@ -457,7 +457,12 @@
             "link": "https://youtu.be/ZZyKRWuck84",
             "percent": 100,
             "hz": 240
-        }
-        
+        },
+        {
+          "user": "Rub1x",
+          "link": "https://youtu.be/dr19hYokVXc",
+          "percent": 100,
+          "hz": 360
+         }   
     ]
 }
