@@ -88,10 +88,16 @@
             "hz": 120
         },
         {
-            "user": "Moley768 ",
+            "user": "Moley768",
             "link": "https://www.youtube.com/watch?v=TDGh9D5eCgw&t=284s",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Thelli",
+            "link": "https://youtu.be/yNhdVf9F_ZI",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
