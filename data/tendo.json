@@ -753,6 +753,12 @@
             "link": "https://www.youtube.com/watch?v=PCIRYQE6dOU",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "StoneCD",
+            "link": "https://youtu.be/alujCMVznjI",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
