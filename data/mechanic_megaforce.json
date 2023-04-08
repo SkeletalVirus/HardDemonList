@@ -79,14 +79,8 @@
           "user": "RobR10",
           "link": "https://www.youtube.com/watch?v=5SQtmUrMvYA",
           "percent": 100,
-          "hz": 120
+          "hz": 120,
           "mobile" : true
-        },
-         {
-          "user": "Rub1x",
-          "link": "https://youtu.be/gJkOlMVR7CQ",
-          "percent": 100,
-          "hz": 360
-         }
+        }
       ]
 }
