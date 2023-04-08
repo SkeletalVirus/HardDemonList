@@ -193,7 +193,8 @@
            "user": "Jacob",
            "link": "https://youtu.be/0ALd9WGjxqA",
            "percent": 100,
-           "hz": 120
+           "hz": 120,
+           "mobile": true
         },
         {
            "user": "JoseRicoTacoNachoQuesadillaMandilaJones",
