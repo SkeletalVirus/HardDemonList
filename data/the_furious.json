@@ -632,6 +632,12 @@
             "link": "https://www.youtube.com/watch?v=AMnLoq2KNrM",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=negfBTbb9Jo",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
