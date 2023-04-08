@@ -318,6 +318,12 @@
             "link": "https://youtu.be/StHLOJAV2y0",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Darklan",
+            "link": "https://www.youtube.com/watch?v=76lfxm_QOcY&ab_channel=Darklanclips",
+            "percent": 100,
+            "hz": 360
         }
-        ]
+      ]
 }
