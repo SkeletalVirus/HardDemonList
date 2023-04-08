@@ -214,6 +214,13 @@
           "link": "https://youtu.be/a7USR-i5Gzg",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "Sanctum",
+          "link": "https://youtu.be/cjSE7dBcsTM",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
         }
     ]
 }
