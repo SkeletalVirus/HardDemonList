@@ -137,6 +137,13 @@
           "link": "https://www.youtube.com/watch?v=3dTQOQmBm4Y",
           "percent": 100,
           "hz": 280
+        },
+        {
+          "user": "Landet",
+          "link": "https://youtu.be/_vZNErJN3EE",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
