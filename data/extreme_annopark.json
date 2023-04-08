@@ -91,13 +91,20 @@
           "user": "DankDrew",
           "link": "https://www.youtube.com/watch?v=SRaEaRLeKuA",
           "percent": 100,
-          "hz":360
+          "hz": 360
         },
         {
           "user": "KJ3DRay",
           "link": "https://youtu.be/oo6vFq95aS0",
           "percent": 100,
-          "hz":60
+          "hz": 60
+        },
+        {
+          "user": "Landet",
+          "link": "https://youtu.be/2rvGHnit8LA",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
