@@ -8,6 +8,13 @@
     "percentToQualify": 100,
     "password": "No Copy",
     "records": [
+        {
+            "user": "SkeletalVirus",
+            "link": "https://www.youtube.com/watch?v=nq4gJuUeSss",
+            "percent": 100,
+            "hz": "-4",
+            "mobile": true
+        }, 
      {
             "user": "loveSpectral",
             "link": "https://youtu.be/9kD2bD3A0XM",
