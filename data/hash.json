@@ -149,7 +149,8 @@
           "user": "JAYTHEGOAT",
           "link": "https://youtu.be/omavTx3BQTw",
           "percent": 100,
-          "hz": 60
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
