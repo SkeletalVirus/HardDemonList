@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "552058",
     "records": [ 
+        {
+            "user": "AnnihilationGD",
+            "link": "https://youtu.be/s_ir-lTBZR4",
+            "percent": 100,
+            "hz": 60
+         }
       ]
 }
