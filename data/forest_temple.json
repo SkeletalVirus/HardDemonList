@@ -338,6 +338,13 @@
           "link": "https://youtu.be/T6BrJ63mFzk",
           "percent": 100,
           "hz": 144
+         },
+         {
+          "user": "nKroniX",
+          "link": "https://youtu.be/RVHkEp6jvc8",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
          }
     ]
 }
