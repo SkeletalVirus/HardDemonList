@@ -345,6 +345,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+         },
+         {
+          "user": "TheGanGes",
+          "link": "https://youtu.be/7yRydeI-cKI",
+          "percent": 100,
+          "hz": 120
          }
     ]
 }
