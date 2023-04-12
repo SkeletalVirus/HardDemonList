@@ -469,6 +469,12 @@
           "link": "https://www.youtube.com/watch?v=vXmV1xwJk3w",
           "percent": 100,
           "hz": 120
+        },
+        {
+          "user": "JohnTBH",
+          "link": "https://www.youtube.com/watch?v=7_e1qfbgaGg&ab_channel=JohnTBH",
+          "percent": 100,
+          "hz": 288
         }
     ]
 }
