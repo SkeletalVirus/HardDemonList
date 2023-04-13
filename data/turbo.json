@@ -101,6 +101,12 @@
             "link": "https://www.youtube.com/watch?v=FPdwi59uR8o",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Welon",
+            "link": "https://www.youtube.com/watch?v=FPdwi59uR8o",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
