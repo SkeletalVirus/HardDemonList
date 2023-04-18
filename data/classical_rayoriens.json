@@ -140,6 +140,12 @@
           "link": "https://www.youtube.com/watch?v=TDGh9D5eCgw",
           "percent": 100,
           "hz": 360
+         },
+        {
+          "user": "Welon",
+          "link": "https://www.twitch.tv/videos/493692805",
+          "percent": 100,
+          "hz": 60
          }
       ]
 }
