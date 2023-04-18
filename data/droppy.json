@@ -292,6 +292,12 @@
             "link": "https://www.youtube.com/watch?v=e42nD0wFz1A",
             "percent": 100,
             "hz": 120
+        },
+        {       
+            "user": "Welon",
+            "link": "https://youtu.be/YYhkJSF_XwI",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
