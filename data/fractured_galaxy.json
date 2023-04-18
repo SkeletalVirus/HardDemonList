@@ -137,6 +137,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Welon",
+            "link": "https://youtu.be/dCKkM1ufb5Q",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
