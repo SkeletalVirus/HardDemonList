@@ -217,6 +217,12 @@
           "link": "https://www.youtube.com/watch?v=tBlgJdZU2f0",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "Trehoeje",
+          "link": "https://youtu.be/qCmq36fvdDQ",
+          "percent": 100,
+          "hz": 360
         }
       ]
 }
