@@ -104,6 +104,12 @@
             "link": "https://youtu.be/5HT-7NQee5Q",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "DankDrew",
+            "link": "https://youtube.com/watch?v=cLZHpGmIB_M",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
