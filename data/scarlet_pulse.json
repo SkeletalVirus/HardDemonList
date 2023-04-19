@@ -481,6 +481,12 @@
           "link": "https://www.youtube.com/watch?v=j2aMlgzdw18",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "GMDElite",
+          "link": "https://www.youtube.com/watch?v=eYvrGOHz_eM",
+          "percent": 100,
+          "hz": 300
         }
     ]
 }
