@@ -208,6 +208,12 @@
             "link": "https://www.youtube.com/watch?v=jtyYUPppaj8",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Domesz",
+            "link": "https://www.youtube.com/watch?v=DrFHC2vMquE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
