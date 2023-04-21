@@ -80,7 +80,12 @@
           "percent": 100,
           "hz": 60,
             "mobile": true
+        },
+        {
+          "user": "Electro325",
+          "link": "https://youtu.be/LP8hly7wxVA?t=329",
+          "percent": 100,
+          "hz": 120
         }
-        
       ]
 }
