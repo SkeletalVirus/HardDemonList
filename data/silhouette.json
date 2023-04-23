@@ -159,6 +159,13 @@
           "link": "https://youtu.be/_j9QDG1ZzNk",
           "percent": 100,
           "hz": 144
+         },
+        {
+          "user": "LilPizzaRQ",
+          "link": "https://youtu.be/f4wkPv8z58A",
+          "percent": 100,
+          "hz": 90,
+          "mobile": true
          }
       ]
 }
