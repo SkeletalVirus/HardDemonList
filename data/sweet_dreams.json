@@ -180,6 +180,12 @@
           "link": "https://www.twitch.tv/videos/421445452",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "Sloudy",
+          "link": "https://youtu.be/npKKLZ3hqT4",
+          "percent": 100,
+          "hz": 288
         }
       ]
 }
