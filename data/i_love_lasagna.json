@@ -7,5 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=MV7Ul6GQeMU",
     "percentToQualify": 100,
     "password": "004273",
-    "records": []
+    "records": [
+               {
+            "user": "Igongdae",
+            "link": "https://www.youtube.com/watch?v=QFyI3bvKYsg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "loveSpectral",
+            "link": "https://www.youtube.com/watch?v=7Is_JXVgUmY&list=PLSZLUa5mnMJn625MipcFmCAhoNFwAJQPl&index=49",
+            "percent": 100,
+            "hz": 180
+        }
+    ]
 }
