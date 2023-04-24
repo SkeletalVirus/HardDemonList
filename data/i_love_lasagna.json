@@ -8,6 +8,13 @@
     "percentToQualify": 100,
     "password": "004273",
     "records": [
+,
+        {
+            "user": "Dissmo",
+            "link": "https://www.youtube.com/watch?v=b4nbgwXfFKc&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
                {
             "user": "Igongdae",
             "link": "https://www.youtube.com/watch?v=QFyI3bvKYsg",
