@@ -8,11 +8,17 @@
     "percentToQualify": 100,
     "password": "159357",
     "records": [
-    {
+        {
             "user": "Trehoeje",
             "link": "https://youtu.be/1w03QqnfgIY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "SafeSpace",
+            "link": "https://youtu.be/wO-fHfw_9bo",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
