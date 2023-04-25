@@ -221,6 +221,13 @@
             "link": "https://www.youtube.com/watch?v=OAWxRFyFFQE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "JAYTHEGOAT",
+            "link": "https://youtu.be/vYjbOJLCaDU",
+            "percent": 100,
+            "hz": 60,
+            "mobile" : true
         }
     ]
 }
