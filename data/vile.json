@@ -81,6 +81,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+          "user": "Willow",
+          "link": "https://youtu.be/iYx5Tpogx34",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
