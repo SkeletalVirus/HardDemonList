@@ -144,6 +144,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "AnnihilationGD",
+          "link": "https://youtu.be/OiexQFgcC3U",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
