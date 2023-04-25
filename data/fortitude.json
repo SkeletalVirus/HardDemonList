@@ -146,6 +146,12 @@
             "link": "https://www.youtube.com/watch?v=ZNqqt9m-QL4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Nicoolat",
+            "link": "https://www.youtube.com/watch?v=pprT9spfuIs",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
