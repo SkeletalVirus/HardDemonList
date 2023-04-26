@@ -183,6 +183,12 @@
            "percent": 100,
            "hz": 120,
            "mobile": true
+        },
+        {
+           "user": "Thelli",
+           "link": "https://youtu.be/v35B59NAWFo",
+           "percent": 100,
+           "hz": 60
         }
     ]
  }
