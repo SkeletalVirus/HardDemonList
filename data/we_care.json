@@ -9,12 +9,6 @@
     "password": "270121",
     "records": [
         {
-            "user": "loveSpectral",
-            "link": "https://youtu.be/_ram7hd7flM",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "Kubus",
             "link": "https://youtu.be/rBGgbtctn7c",
             "percent": 100,
@@ -32,6 +26,12 @@
             "link": "https://www.youtube.com/watch?v=iDC2M4sUQrs",
             "percent": 100,
             "hz": 144
+        },
+         {
+            "user": "loveSpectral",
+            "link": "https://youtu.be/_ram7hd7flM",
+            "percent": 100,
+            "hz": 240
         },
         {
             "user": "Electro325",
