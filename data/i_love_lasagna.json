@@ -74,6 +74,13 @@
             "link": "https://youtu.be/_jSy5I8cOm4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Josephone",
+            "link": "https://youtu.be/CH6tGM03QOg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
