@@ -92,6 +92,12 @@
             "link": "https://www.youtube.com/watch?v=CV3euy10mv4",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "SkeletalVirus",
+            "link": "https://youtu.be/03sPFlmPNMY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
