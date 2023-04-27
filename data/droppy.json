@@ -304,6 +304,12 @@
             "link": "https://www.youtube.com/watch?v=QNV2qVb3CnE&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 144
+        },
+        {       
+            "user": "coolkid14",
+            "link": "https://www.youtube.com/watch?v=zrpSRv9FAkY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
