@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=vP0LEq287RU",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+            "user": "Trehoeje",
+            "link": "https://youtu.be/es0ZXTpRFF4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
     }
