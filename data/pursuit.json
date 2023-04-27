@@ -55,6 +55,13 @@
           "link": "https://youtu.be/Bs1XLdMhzUw",
           "percent": 100,
           "hz": 120
+          },
+        {
+          "user": "JoacoPe",
+          "link": "https://www.youtube.com/watch?app=desktop&v=lia8kUnPyz4&list=PLJnGTRomwPuhdoUKlGYHtCntrLrghL_Ys&index=13",
+          "percent": 100,
+          "hz": 60,
+          "mobile"; true
           }
       ]
 }
