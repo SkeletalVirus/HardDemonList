@@ -37,6 +37,19 @@
             "link": "https://youtu.be/VxzKkogzQ3w",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "JohnTBH",
+            "link": "https://youtu.be/qQMZ0ikMdVI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Bonezizdum",
+            "link": "https://youtu.be/5XSOXNXR-Ko?t=84",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
     }
