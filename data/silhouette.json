@@ -172,6 +172,12 @@
           "link": "https://www.youtube.com/watch?v=HBoL-xyahjo",
           "percent": 100,
           "hz": 360
+         },
+        {
+          "user": "TheZinkYT",
+          "link": "https://youtu.be/rhlmyiiY4sI",
+          "percent": 100,
+          "hz": 144
          }
       ]
 }
