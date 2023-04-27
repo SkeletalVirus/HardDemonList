@@ -152,6 +152,13 @@
            "link": "https://www.youtube.com/watch?v=MeIrxYGB3FM",
            "percent": 100,
            "hz": 240
+        },
+        {
+           "user": "CyanSea23",
+           "link": "https://www.youtube.com/watch?v=xKohfowO46c",
+           "percent": 100,
+           "hz": 60,
+           "mobile" : true
         }
       ]
 }
