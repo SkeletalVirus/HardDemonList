@@ -112,6 +112,12 @@
             "link": "https://www.youtube.com/watch?v=_Z3DLFU7H0M&feature=youtu.be",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/Bd1LpvFeyKg",
+            "percent": 100,
+            "hz": 150
         }
     ]
 }
