@@ -151,7 +151,8 @@
           "user": "Kubus",
           "link": "https://youtu.be/J19OwZ1IgTs",
           "percent": 100,
-          "hz": 120
+          "hz": 120,
+          "mobile": true
         },
         {
           "user": "MythicalTG",
