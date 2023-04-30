@@ -105,6 +105,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "TheZinkYT",
+            "link": "https://youtu.be/UO15xC_RKSQ",
+            "percent": 100,
+            "hz": 360
         }
     ]
     }
