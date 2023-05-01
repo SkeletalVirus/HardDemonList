@@ -116,6 +116,12 @@
           "link": "https://www.youtube.com/watch?v=p_FLH0PIeq0&ab_channel=Galaxy4567",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "helvetica",
+          "link": "https://youtu.be/-s26OcgQrSw",
+          "percent": 100,
+          "hz": 120
         }
       ]
 }
