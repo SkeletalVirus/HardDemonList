@@ -194,6 +194,12 @@
             "link": "https://youtu.be/C2pBh9_kTsg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "helvetica",
+            "link": "https://youtu.be/ns6LnID39UI",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
