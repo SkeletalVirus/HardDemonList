@@ -310,6 +310,12 @@
             "link": "https://www.youtube.com/watch?v=zrpSRv9FAkY",
             "percent": 100,
             "hz": 360
+        },
+        {       
+            "user": "RoboBear04",
+            "link": "https://youtu.be/jHk2hRzQhY0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
