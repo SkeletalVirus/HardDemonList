@@ -197,9 +197,15 @@
             "percent": 100,
             "hz": 360
          },
-        {
+         {
             "user": "Leckylecks",
             "link": "https://www.youtube.com/watch?v=fkOB9ZSTA5I",
+            "percent": 100,
+            "hz": 360
+         },
+        {
+            "user": "helvetica",
+            "link": "https://youtu.be/MMotavUpD8Q",
             "percent": 100,
             "hz": 360
          }
