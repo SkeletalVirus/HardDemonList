@@ -806,7 +806,8 @@
           "user": "DIUS3D",
           "link": "https://youtu.be/e99d4SKGEzs",
           "percent": 100,
-          "hz": 120
+          "hz": 120,
+          "mobile": true
         }
     ]
 }
