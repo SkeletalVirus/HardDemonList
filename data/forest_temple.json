@@ -172,7 +172,8 @@
           "user": "DIUS3D",
           "link": "https://youtu.be/ZUnk6nK8an4",
           "percent": 100,
-          "hz": 120
+          "hz": 120,
+          "mobile": true
         },
         {
           "user": "NewDark",
