@@ -85,7 +85,8 @@
             "user": "DIUS3D",
             "link": "https://youtu.be/9Vii5CLKbW0",
             "percent": 100,
-            "hz": 120
+            "hz": 120,
+            "mobile": true
         },
                             {
             "user": "helvetica",
