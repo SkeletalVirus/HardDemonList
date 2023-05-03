@@ -663,6 +663,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Patty",
+            "link": "https://youtu.be/YFj6UDnVjgU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
