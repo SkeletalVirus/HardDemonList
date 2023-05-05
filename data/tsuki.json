@@ -275,6 +275,12 @@
             "link": "https://www.youtube.com/watch?v=OmxF6elhw7I",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "JimmyVT",
+            "link": "https://youtu.be/4xR26NlwM1o",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
