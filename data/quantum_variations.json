@@ -4,7 +4,7 @@
     "author": "Darwin",
     "creators": [ "Darwin", "GDSpeed" ],
     "verifier": "MrSpaghetti",
-    "verification": "https://youtu.be/1Fhubqevo4E",
+    "verification": "https://www.youtube.com/watch?v=1Fhubqevo4E",
     "percentToQualify": 100,
     "password": "425069",
     "records": [        
@@ -234,6 +234,12 @@
         {
             "user": "helvetica",
             "link": "https://youtu.be/J5ODS7mefeY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leven",
+            "link": "https://www.youtube.com/watch?v=jLyX5-dIxSI",
             "percent": 100,
             "hz": 60
         }
