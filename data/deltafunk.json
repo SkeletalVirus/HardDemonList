@@ -4,7 +4,7 @@
     "author": "Allan",
     "creators": ["Allan, Havok, Miniman2098"],
     "verifier": "Allan",
-    "verification": "https://youtu.be/FGNnN1MUbko",
+    "verification": "https://www.youtube.com/watch?v=FGNnN1MUbko",
     "percentToQualify": 100,
     "password": "314159",
     "records": [
@@ -208,12 +208,19 @@
             "link": "https://youtu.be/MMotavUpD8Q",
             "percent": 100,
             "hz": 360
-         },
+        },
         {
             "user": "Cresak",
             "link": "https://www.youtube.com/watch?v=HG3nC21gvFQ",
             "percent": 100,
             "hz": 360
-         }
+        },
+        {
+            "user": "SmileBullet",
+            "link": "https://www.youtube.com/watch?v=IMiwceCF9Ao",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
     ]
 }
