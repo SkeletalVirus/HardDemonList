@@ -158,6 +158,13 @@
             "link": "https://youtu.be/_sFR6VRlWrA",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "RobR10",
+            "link": "https://youtu.be/k8tTxB_NxqA",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
       ]
 }
