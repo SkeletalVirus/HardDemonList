@@ -4,7 +4,7 @@
     "author": "Rob Buck",
     "creators": [],
     "verifier": "Rob Buck",
-    "verification": "https://youtu.be/HI1W6SGtwF4",
+    "verification": "https://www.youtube.com/watch?v=HI1W6SGtwF4",
     "percentToQualify": 100,
     "password": "No Copy",
     "records": [
@@ -91,6 +91,12 @@
             "link": "https://youtu.be/vTf-H6WfAIU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "AnnihilationGD",
+            "link": "https://www.youtube.com/watch?v=TDR40Rr_BPU",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
