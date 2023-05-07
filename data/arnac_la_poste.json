@@ -49,6 +49,13 @@
             "link": "https://youtu.be/Fixvo94JDzY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Seafarer",
+            "link": "https://media.discordapp.net/attachments/290248449968832514/1102210478354210887/IMG_5314.mov",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
