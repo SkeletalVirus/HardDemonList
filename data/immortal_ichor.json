@@ -4,7 +4,7 @@
     "author": "lllRyanlll",
     "creators": [],
     "verifier": "lllRyanlll",
-    "verification": "https://youtu.be/jIF4SnM7_Rc",
+    "verification": "https://www.youtube.com/watch?v=jIF4SnM7_Rc",
     "percentToQualify": 100,
     "password": "649827",
     "records": [
@@ -116,6 +116,12 @@
             "link": "https://www.youtube.com/watch?v=r5aS-IU3ipI",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=A3jADGAlIrk",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
