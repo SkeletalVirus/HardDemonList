@@ -4,7 +4,7 @@
     "author": "Vermillion",
     "creators": [],
     "verifier": "Vermillion",
-    "verification": "https://youtu.be/VZIKDMuSTQo",
+    "verification": "https://www.youtube.com/watch?v=VZIKDMuSTQo",
     "percentToQualify": 100,
     "password": "488291",
     "records": [
@@ -47,6 +47,12 @@
         {
           "user": "Robaleg9",
           "link": "https://www.youtube.com/watch?v=w3TtuCq0ln0",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Galaxy4567",
+          "link": "https://www.youtube.com/watch?v=7I3-1tSbqoM",
           "percent": 100,
           "hz": 144
         }
