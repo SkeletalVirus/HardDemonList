@@ -4,7 +4,7 @@
     "author": "Novaach",
     "creators": [],
     "verifier": "Novaach",
-    "verification": "https://youtu.be/fThSuZsBRYo",
+    "verification": "https://www.youtube.com/watch?v=fThSuZsBRYo",
     "percentToQualify": 100,
     "records": [
        {
@@ -260,7 +260,7 @@
             "link": "https://youtu.be/t2v23RXYZ0Q",
             "percent": 100,
             "hz": 120,
-             "mobile": true
+            "mobile": true
         },
         {       
             "user": "Leckylecks",
@@ -297,6 +297,13 @@
             "link": "https://youtu.be/-iA64fj1g8I",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Kubus",
+            "link": "https://www.youtube.com/watch?v=NGc5p8E3UUA",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
