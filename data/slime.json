@@ -4,7 +4,7 @@
     "author": "Sillow",
     "creators": [],
     "verifier": "Sillow",
-    "verification": "https://youtu.be/nbcM99KugQM",
+    "verification": "https://www.youtube.com/watch?v=nbcM99KugQM",
     "percentToQualify": 100,
     "password": "556488",
     "records": [
@@ -169,6 +169,12 @@
             "link": "https://www.youtube.com/watch?v=QqTns_Rykts",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=5UNlmLXmQKY",
+            "percent": 100,
+            "hz": 144
         }
       ]    
 }
