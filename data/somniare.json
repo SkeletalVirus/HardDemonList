@@ -225,12 +225,18 @@
           "link": "https://www.youtube.com/watch?v=rbOxVWNCGVU",
           "percent": 100,
           "hz": 240
-         },
+        },
         {
           "user": "IIIpeachesIII",
           "link": "https://youtu.be/vYiwhOm0CAE",
           "percent": 100,
           "hz": 60
-         }
+        },
+        {
+          "user": "Leckylecks",
+          "link": "https://youtu.be/nGHZLe4ixV8",
+          "percent": 100,
+          "hz": 360
+        }
      ]
 }
