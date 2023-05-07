@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=iv22O_Y2vDo",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Willow",
+            "link": "https://youtu.be/sqBI3pYyQqM",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
