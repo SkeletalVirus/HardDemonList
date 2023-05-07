@@ -9,16 +9,16 @@
     "password": "Free to Copy",
     "records": [
         {
-            "user": "Willow",
-            "link": "https://youtu.be/d5RLaHHhpSU",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "Trehoeje",
             "link": "https://youtu.be/xxHfI19WdnQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Willow",
+            "link": "https://youtu.be/d5RLaHHhpSU",
+            "percent": 100,
+            "hz": 240
         },
         {
             "user": "NUwUxuz",
@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=Hs-5ouEFLck",
             "percent": 100,
             "hz": 280
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/aKeLKm2FmBQ",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
