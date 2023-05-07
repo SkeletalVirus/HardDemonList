@@ -4,7 +4,7 @@
     "author": "Darwin",
     "creators": [],
     "verifier": "Darwin",
-    "verification": "https://youtu.be/HA_UZ5S_gmU",
+    "verification": "https://www.youtube.com/watch?v=HA_UZ5S_gmU",
     "percentToQualify": 100,
     "password": "004250",
     "records": [
@@ -104,6 +104,12 @@
           "link": "https://youtu.be/MuAuEEEeXu0",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "Galaxy4567",
+          "link": "https://www.youtube.com/watch?v=SoCZEAmiooY",
+          "percent": 100,
+          "hz": 144
         }
       ]
 }
