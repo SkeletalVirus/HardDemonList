@@ -31,7 +31,13 @@
             "link": "https://www.youtube.com/watch?v=PBHA7N6aFwE",
             "percent": 100,
             "hz": 144
-            }
+        },
+        {
+            "user": "coolkid14",
+            "link": "https://www.youtube.com/watch?v=A-EcAlBgbAQ",
+            "percent": 100,
+            "hz": 360
+        }
       ]
 }
           
