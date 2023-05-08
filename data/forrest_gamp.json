@@ -7,5 +7,18 @@
     "verification": "https://youtu.be/Wwv4H_lo8w8",
     "percentToQualify": 100,
     "password": "123456",
-    "records": []
+    "records": [
+        {
+            "user": "Leven",
+            "link": "https://youtu.be/wUeljTdQ7XQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "NewDark",
+            "link": "https://youtu.be/2-Q-E8gHKbc",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
