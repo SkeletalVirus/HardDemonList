@@ -287,6 +287,12 @@
           "link": "https://youtu.be/5uvJPLTDnK0",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "helvetica",
+          "link": "https://www.youtube.com/watch?v=eK1pBVRpJp8",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
