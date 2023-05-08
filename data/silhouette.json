@@ -196,6 +196,12 @@
           "link": "https://www.youtube.com/watch?v=nIl6vZOM3V0",
           "percent": 100,
           "hz": 360
+         },
+        {
+          "user": "Frunk",
+          "link": "https://www.youtube.com/watch?v=2R5qqVAE0gg",
+          "percent": 100,
+          "hz": 60
          }
       ]
 }
