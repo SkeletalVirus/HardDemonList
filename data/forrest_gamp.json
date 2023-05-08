@@ -19,6 +19,18 @@
             "link": "https://youtu.be/2-Q-E8gHKbc",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "loveSpectral",
+            "link": "https://www.youtube.com/watch?v=rSfxdfwz6KM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AlphaXIV",
+            "link": "https://youtu.be/BYAY078U1CE",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
