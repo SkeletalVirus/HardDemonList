@@ -1188,6 +1188,12 @@
           "link": "https://www.youtube.com/watch?v=9uH-lzOAb1I",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "Dimorphos",
+          "link": "https://youtu.be/miI2ohNjNDk",
+          "percent": 100,
+          "hz": 240
         }
     ]
 }
