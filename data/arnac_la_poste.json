@@ -56,6 +56,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-        }
+        },
+        {
+            "user": "Bladey",
+            "link": "https://youtu.be/ARHuVsr0dTc",
+            "percent": 100,
+            "hz": 120
+        },
       ]
 }
