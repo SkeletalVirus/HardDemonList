@@ -55,6 +55,13 @@
           "link": "https://youtu.be/HatGdgCCIV0",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "CyanSea23",
+          "link": "https://youtu.be/dkAfE1lguEk",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
