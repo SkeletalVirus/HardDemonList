@@ -159,6 +159,12 @@
             "link": "https://www.youtube.com/watch?v=E1bz-FegngA",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "MrMarksman",
+            "link": "https://youtu.be/bERuZ_ECCQY",
+            "percent": 100,
+            "hz": 240
         }
     ]
     }
