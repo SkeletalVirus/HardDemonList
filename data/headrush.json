@@ -80,6 +80,12 @@
             "link": "https://www.youtube.com/watch?v=fPh3r31Fbj8",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "SpookyGh0st",
+            "link": "https://youtu.be/mBRpVf-rVo4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
