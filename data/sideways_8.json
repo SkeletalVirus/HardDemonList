@@ -140,6 +140,12 @@
           "link": "https://www.youtube.com/watch?v=_I-L4d3xG_Q&ab_channel=BlKoolaid",
           "percent": 100,
           "hz": 144
+        },
+        {
+          "user": "Leckylecks",
+          "link": "https://youtu.be/SML3W4XQBPw",
+          "percent": 100,
+          "hz": 360
         }
       ]
 }
