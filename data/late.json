@@ -121,6 +121,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "helvetica",
+            "link": "https://www.youtube.com/watch?v=nVoSz9tMjxA",
+            "percent": 100,
+            "hz": 360
         }
     ]
     }
