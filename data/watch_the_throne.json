@@ -7,5 +7,18 @@
     "verification": "https://youtu.be/R3d52UjNBkI",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+     {
+          "user": "Electro325",
+          "link": "https://www.youtube.com/watch?v=IQtnxEFrejY",
+          "percent": 100,
+          "hz": 240
+        }, 
+        {
+          "user": "loveSpectral",
+          "link": "https://youtu.be/uYjIPedKK2A",
+          "percent": 100,
+          "hz": 240
+        }
+    ]
       }
