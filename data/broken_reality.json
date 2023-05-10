@@ -1,0 +1,17 @@
+{
+    "id": 79360104,
+    "name": "Broken Reality",
+    "author": "Tsuzuito",
+    "creators": ["Tsuzuito, ORte"],
+    "verifier": "> x <",
+    "verification": "https://www.youtube.com/watch?v=zRv3laO4DQw",
+    "percentToQualify": 100,
+    "records": [
+        {
+          "user": "Robaleg9",
+          "link": "https://www.youtube.com/watch?v=4WF4SKXn4W0",
+          "percent": 100,
+          "hz": 144
+        }
+      ]
+}
