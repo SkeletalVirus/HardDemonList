@@ -2,10 +2,11 @@
     "id": 19134395,
     "name": "Mechanical Torment",
     "author": "Aquatias",
-    "creators": ["Aquatias","Terron","HeroZombie80"],
+    "creators": ["Aquatias","Terron","herozombie80"],
     "verifier": "GDSpeed",
     "verification": "https://www.youtube.com/watch?v=wQrGGcqiVWA",
     "percentToQualify": 100,
+    "password": "258580",
     "records": [
         {
             "user": "Flood",
