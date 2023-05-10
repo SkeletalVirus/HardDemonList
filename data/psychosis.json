@@ -1200,6 +1200,12 @@
           "link": "https://www.youtube.com/watch?v=pRcKSJjtq0E",
           "percent": 100,
           "hz": 75
+        },
+        {
+          "user": "ChaeTDC",
+          "link": "https://www.youtube.com/watch?v=KuR-zSGueeM&ab_channel=ChaeTDC",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
