@@ -463,6 +463,12 @@
           "link": "https://www.youtube.com/watch?v=xaznsZ8gWyo&t=28s",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Zinyth",
+          "link": "https://youtu.be/LmFN_fQL5Es",
+          "percent": 100,
+          "hz": 60
         }
    ]
 }
