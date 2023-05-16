@@ -175,6 +175,12 @@
             "link": "https://www.youtube.com/watch?v=5UNlmLXmQKY",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "imbaz",
+            "link": "https://www.youtube.com/watch?v=1Swd8yZDry4",
+            "percent": 100,
+            "hz": 288
         }
       ]    
 }
