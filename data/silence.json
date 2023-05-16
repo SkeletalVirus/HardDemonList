@@ -206,6 +206,12 @@
           "link": "https://www.youtube.com/watch?v=ejNDrwv3Yto",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "helvetica",
+          "link": "https://www.youtube.com/watch?v=jnvE1naOzH0",
+          "percent": 100,
+          "hz": 360
         }
     ]
 }
