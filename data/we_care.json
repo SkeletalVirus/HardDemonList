@@ -123,6 +123,12 @@
             "link": "https://www.youtube.com/watch?v=fJ0mass6HI0&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "julibox",
+            "link": "https://www.youtube.com/watch?v=cxVH9WS_ZPk",
+            "percent": 100,
+            "hz": 150
         }
       ]
 }
