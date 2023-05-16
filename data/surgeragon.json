@@ -92,6 +92,12 @@
           "link": "https://www.youtube.com/watch?v=UETxYJbCKns&ab_channel=Galaxy4567",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "DenyZr",
+          "link": "https://youtu.be/SOCfWkOMc-U",
+          "percent": 100,
+          "hz": 240
         }
       ]
 }
