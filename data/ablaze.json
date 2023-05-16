@@ -7,5 +7,25 @@
     "verification": "https://www.youtube.com/watch?v=D-ERi8bpP9M",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": []
+    "records": [
+     {
+            "user": "Leven",
+            "link": "https://www.youtube.com/watch?v=lJLICMwWFQ4",
+            "percent": 100,
+            "hz": 60,
+     },
+     {
+            "user": "JoacoPe",
+            "link": "https://www.youtube.com/watch?v=qU8zpO-rGSA",
+            "percent": 100,
+            "hz": 120,
+     },
+{
+            "user": "loveSpectral",
+            "link": "https://www.youtube.com/watch?v=uWPrfqb3ERI",
+            "percent": 100,
+            "hz": 240,
+     }
+
+    ]
 }
