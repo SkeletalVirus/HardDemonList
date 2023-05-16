@@ -299,6 +299,12 @@
             "link": "https://www.youtube.com/watch?v=wDA_tI_w1po",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "imbaz",
+            "link": "https://www.youtube.com/watch?v=JtRqYRuHkeg",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
