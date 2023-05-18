@@ -109,6 +109,12 @@
             "link": "https://www.youtube.com/watch?v=bmERHjELwfc",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "TheGanGes",
+            "link": "https://youtu.be/k-kbOvSMGXo",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
