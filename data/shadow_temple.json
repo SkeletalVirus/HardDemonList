@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=BPVdgqO5lns",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=K72w7YCFNLI&ab_channel=arcanin",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
