@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=hUg4QDsGrac&t=19s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Rollermoster",
+            "link": "https://www.youtube.com/watch?v=a8UG_0OTFS8&t=5s",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
