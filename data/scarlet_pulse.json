@@ -518,6 +518,12 @@
           "link": "https://www.youtube.com/watch?v=No_-sGfZvGk",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Welon",
+          "link": "https://www.youtube.com/watch?v=fcD3LFusWCg",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
