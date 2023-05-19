@@ -73,6 +73,13 @@
           "link": "https://youtu.be/anNnwx8kVEo",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "RedRover",
+          "link": "https://youtu.be/AIbQ2W57uYY",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }
