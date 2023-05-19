@@ -62,11 +62,18 @@
           "link": "https://youtu.be/BQQfvrM9DHU",
           "percent": 100,
           "hz": 240
-        },{
+        },
+        {
           "user": "nTimaw",
           "link": "https://youtu.be/PydSI2FE7qo",
           "percent": 100,
           "hz": 300
+        },
+        {
+          "user": "SoftMuffin76",
+          "link": "https://www.youtube.com/watch?v=7gP9dCwgR1Y",
+          "percent": 100,
+          "hz": 144
         }
       ]
 }
