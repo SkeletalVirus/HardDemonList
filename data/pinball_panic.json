@@ -55,6 +55,13 @@
             "link": "https://www.youtube.com/watch?v=a8UG_0OTFS8&t=5s",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "HanoCrux",
+            "link": "https://www.youtube.com/watch?v=wtRXGOaUSzY",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
