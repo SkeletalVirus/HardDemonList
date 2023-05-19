@@ -214,12 +214,18 @@
           "link": "https://www.youtube.com/watch?v=a48SgOCUKvY",
           "percent": 100,
           "hz": 360
-         },
+        },
         {
           "user": "Razman",
           "link": "https://www.youtube.com/watch?v=I47vckI51Js",
           "percent": 100,
           "hz": 360
-         }
+        },
+        {
+          "user": "Welon",
+          "link": "https://www.youtube.com/watch?v=HqE3rNlPU8k",
+          "percent": 100,
+          "hz": 60
+        }
       ]
 }
