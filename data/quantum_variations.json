@@ -254,6 +254,12 @@
             "link": "https://www.youtube.com/watch?v=2UffKT74q-o",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "MrMarksman",
+            "link": "https://www.youtube.com/watch?v=8cTfAcK8twA",
+            "percent": 100,
+            "hz": 240
         }
    ]
 }
