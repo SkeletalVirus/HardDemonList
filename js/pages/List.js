@@ -102,7 +102,7 @@ export default {
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
-                        Switching fps mod run will invalidate your submission (even if it is to avoid a bug)
+                        Switching FPS in the middle of the completion will invalidate your submission (even if it is to avoid a bug)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
