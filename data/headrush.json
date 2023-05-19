@@ -4,7 +4,7 @@
     "author": "Toxic GD",
     "creators": [],
     "verifier": "MaxiS9",
-    "verification": "https://youtu.be/GkomNtboT70",
+    "verification": "https://www.youtube.com/watch?v=GkomNtboT70",
     "percentToQualify": 100,
     "password": "159357",
     "records": [
@@ -110,6 +110,12 @@
           "link": "https://youtu.be/PfEuhWehPmU",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "SoftMuffin76",
+          "link": "https://www.youtube.com/watch?v=7gP9dCwgR1Y",
+          "percent": 100,
+          "hz": 144
         }
     ]
 }
