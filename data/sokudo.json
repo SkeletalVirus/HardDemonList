@@ -103,6 +103,12 @@
             "link": "https://youtu.be/UjV_2GAQ1cc",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "imbaz",
+            "link": "https://www.youtube.com/watch?v=KMMzBJkbwcQ",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
