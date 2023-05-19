@@ -127,6 +127,13 @@
             "link": "https://youtu.be/rSBIcCSo8ZM",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "GDalsdels",
+            "link": "https://youtu.be/9rxFZre0gl0",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
