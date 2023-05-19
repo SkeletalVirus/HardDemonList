@@ -98,6 +98,13 @@
             "link": "https://youtu.be/03sPFlmPNMY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "peregrine997",
+            "link": "https://www.youtube.com/watch?v=ZzZsRYsANDI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
