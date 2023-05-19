@@ -153,6 +153,12 @@
            "percent": 100,
            "hz": 60,
            "mobile" : true
+        },
+        {
+           "user": "imbaz",
+           "link": "https://www.youtube.com/watch?v=LA57QWPC_q8&t=1s",
+           "percent": 100,
+           "hz": 288
         }
       ]
 }
