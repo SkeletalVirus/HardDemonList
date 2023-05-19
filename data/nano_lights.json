@@ -4,7 +4,7 @@
     "author": "NateFH",
     "creators": [],
     "verifier": "NateFH",
-    "verification": "https://youtu.be/Oa2h5EZ8dM0",
+    "verification": "https://www.youtube.com/watch?v=Oa2h5EZ8dM0",
     "percentToQualify": 100,
     "records": [
       {
@@ -12,13 +12,7 @@
           "link": "https://www.youtube.com/watch?v=EKtBo5xTHoE",
           "percent": 100,
           "hz": 60,
-        "mobile": true
-        },
-        {
-          "user": "NateFH",
-          "link": "https://www.youtube.com/watch?v=Oa2h5EZ8dM0&t=21s",
-          "percent": 100,
-          "hz": 144
+          "mobile": true
         },
         {
           "user": "Dissmo",
