@@ -91,6 +91,13 @@
             "link": "https://www.youtube.com/watch?v=3VefLgwmMpM&ab_channel=arcanin",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Kubus",
+            "link": "https://www.youtube.com/watch?v=nkTD-isahQo",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
       ]
 }
