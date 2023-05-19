@@ -127,6 +127,13 @@
             "link": "https://youtu.be/V1KFXp3z9pw",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "susybaka01",
+            "link": "https://youtu.be/RlMOwei4etM",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
