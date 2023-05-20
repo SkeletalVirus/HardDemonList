@@ -86,6 +86,12 @@
             "link": "https://www.youtube.com/watch?v=8Pe3OVwJGxs&ab_channel=EpXec%5BGD%5D",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "Royale",
+            "link": "https://youtu.be/-kU5tOUeV68",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
