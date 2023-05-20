@@ -105,6 +105,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "EpXec",
+            "link": "https://www.youtube.com/watch?v=s8V1pWmBBFo&ab_channel=EpXec%5BGD%5D",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
