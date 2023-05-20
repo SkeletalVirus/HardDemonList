@@ -181,6 +181,13 @@
             "link": "https://www.youtube.com/watch?v=RlvjgXgAjjA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Jenny",
+            "link": "https://www.youtube.com/watch?v=leJN66Iq0pw",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
