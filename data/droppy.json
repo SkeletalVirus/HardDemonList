@@ -347,6 +347,13 @@
             "link": "https://youtu.be/3VCDzcA2-g4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "JP",
+            "link": "https://www.youtube.com/watch?v=3D7cuEsrbsU",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
