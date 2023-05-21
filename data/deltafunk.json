@@ -245,6 +245,12 @@
             "link": "https://www.youtube.com/watch?v=6MQNHPjNkAA&t=1s&ab_channel=WindyB",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Bladey",
+            "link": "https://youtu.be/cKYWELOO-38",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
