@@ -92,7 +92,13 @@
             "link": "https://youtu.be/WtmvVSdWLZQ",
             "percent": 100,
             "hz": 120
-         }
+         },
+         {
+          "user": "yzae",
+          "link": "https://www.youtube.com/watch?v=kYbvwqdkeqI",
+          "percent": 100,
+          "hz": 288
+        }
     ]
 }
            
