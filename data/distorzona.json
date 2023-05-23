@@ -377,6 +377,12 @@
             "link": "https://www.youtube.com/watch?v=-tM7A-vJbYo",
             "percent": 100,
             "hz": 144
+        },
+        {
+          "user": "yzae",
+          "link": "https://youtu.be/bOurEijgqkI",
+          "percent": 100,
+          "hz": 288
         }
       ]
 }
