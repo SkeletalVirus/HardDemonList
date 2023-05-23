@@ -530,6 +530,12 @@
           "link": "https://www.youtube.com/watch?v=hbzoIlN_aQE",
           "percent": 100,
           "hz": 120
+        },
+        {
+          "user": "yzae",
+          "link": "https://youtu.be/OgQPg9oWH48?t=256",
+          "percent": 100,
+          "hz": 288
         }
     ]
 }
