@@ -128,6 +128,12 @@
             "link": "https://www.youtube.com/watch?v=266ZsrrqiP4",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Abeginner",
+            "link": "https://www.youtube.com/watch?v=PPOc7BIFsFI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
