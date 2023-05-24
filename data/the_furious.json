@@ -675,6 +675,12 @@
             "link": "https://www.youtube.com/watch?v=HonhP7glOl8&ab_channel=WindyBee",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Hysefisker",
+            "link": "https://youtu.be/tiAYSAQJaKU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
