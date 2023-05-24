@@ -383,6 +383,12 @@
           "link": "https://youtu.be/bOurEijgqkI",
           "percent": 100,
           "hz": 288
+        },
+        {
+            "user": "Megu",
+            "link": "https://www.youtube.com/watch?v=djRiSdugEPU",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
