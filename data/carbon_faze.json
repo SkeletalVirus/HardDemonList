@@ -93,18 +93,24 @@
           "percent": 100,
           "hz": 240
         },
-         {
+        {
             "user": "jordan853",
             "link": "https://www.youtube.com/watch?v=ymsOe6OiZIY",
             "percent": 100,
             "hz": 60
-         },
+        },
         {
             "user": "doritofan80",
             "link": "https://youtu.be/R6vUGuU4EDs",
             "percent": 100,
             "hz": 60,
             "mobile": true
-         }
+        },
+        {
+            "user": "SafeSpace",
+            "link": "https://www.youtube.com/watch?v=8nKXJvlcoWQ",
+            "percent": 100,
+            "hz": 120
+        }
       ]
 }
