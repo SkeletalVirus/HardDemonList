@@ -20,6 +20,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=DpBYR7rCZi0",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
