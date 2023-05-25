@@ -134,6 +134,13 @@
             "link": "https://youtu.be/xGCnw3hNxf4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Cyroxiscool",
+            "link": "https://www.youtube.com/watch?v=kmE40rE3roU",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
