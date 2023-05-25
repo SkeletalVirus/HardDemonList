@@ -141,6 +141,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "Wod",
+            "link": "https://www.youtube.com/watch?v=FCavLyK8bQQ",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
