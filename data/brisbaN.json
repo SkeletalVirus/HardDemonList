@@ -141,6 +141,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "YraX",
+            "link": "https://www.youtube.com/watch?v=kogZXbWf_js",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
