@@ -128,6 +128,12 @@
           "link": "https://www.youtube.com/watch?v=21Bwkxk2XzU&ab_channel=arcanin",
           "percent": 100,
           "hz": 144
+        },
+        {
+            "user": "ItzGray",
+            "link": "https://www.youtube.com/watch?v=DCDzCQqPaFE",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
