@@ -25,6 +25,13 @@
             "link": "https://www.youtube.com/watch?v=IPiaHlI_JcE",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Cyroxiscool",
+            "link": "https://www.youtube.com/watch?v=EsvFdXlLnOc",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
