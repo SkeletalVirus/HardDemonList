@@ -13,6 +13,13 @@
             "link": "https://www.youtube.com/watch?v=fgntpC5__Wg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "SmileBullet",
+            "link": "https://www.youtube.com/watch?v=pWW40Jw2YR0",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
