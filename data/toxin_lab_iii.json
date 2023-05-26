@@ -4,7 +4,7 @@
     "author": "Xaro",
     "creators": [],
     "verifier": "Mazl",
-    "verification": "https://youtu.be/kwa6bI3WXD4",
+    "verification": "https://www.youtube.com/watch?v=VHZ9jhvJ5FU",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
@@ -199,6 +199,12 @@
             "link": "https://www.youtube.com/watch?v=CwqQIKbSy9Y",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Krtar",
+            "link": "https://www.youtube.com/watch?v=soZNG5DUgq8",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
