@@ -1,9 +1,9 @@
 {
     "id": 57700744,
     "name": "Magnolia",
-    "author": "Tolstyh",
-    "creators": ["Tolstyh","EndLevel"],
-    "verifier": "Tolstyh",
+    "author": "tolstyh",
+    "creators": ["tolstyh","EndLevel"],
+    "verifier": "tolstyh",
     "verification": "https://www.youtube.com/watch?v=Wl5GTc4LXnY",
     "percentToQualify": 100,
     "password": "004202",
@@ -181,6 +181,12 @@
             "link": "https://youtu.be/xoY_49x6I78",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "imbaz",
+            "link": "https://www.youtube.com/watch?v=qqlIbGsRSl4",
+            "percent": 100,
+            "hz": 288
         }
       ]
 }
