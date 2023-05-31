@@ -199,6 +199,12 @@
             "link": "https://www.youtube.com/watch?v=CwqQIKbSy9Y",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Friskman",
+            "link": "https://www.youtube.com/watch?v=0U6q8eIQbCk",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
