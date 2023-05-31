@@ -542,6 +542,12 @@
             "link": "https://www.youtube.com/watch?v=qxuCMoa2Vs0",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "brattv",
+            "link": "https://youtu.be/VkJpnXWCVn0",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
