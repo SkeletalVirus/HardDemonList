@@ -128,6 +128,12 @@
             "link": "https://youtu.be/iX-GpsxGfns",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=zWMgvk_GEG4&ab_channel=suuji%2Farcanin",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
