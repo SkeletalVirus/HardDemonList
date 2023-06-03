@@ -61,6 +61,13 @@
             "link": "https://www.youtube.com/watch?v=75Lbo0vwq68&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 144
-         }
+         },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=uH-7_cpjwJU&ab_channel=suuji%2Farcanin",
+            "percent": 100,
+            "hz": 144
+        }
+
       ]
 }
