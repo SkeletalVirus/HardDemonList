@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=sQmh_Twt7ko",
             "percent": 100,
             "hz": 60
-        }
+        },
+          {
+            "user": "helvetica",
+            "link": "https://www.youtube.com/watch?v=y7wUVFtCbEM",
+            "percent": 100,
+            "hz": 300
+          }
       ]
 }
