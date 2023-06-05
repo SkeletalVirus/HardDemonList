@@ -54,6 +54,12 @@
           "link": "https://www.youtube.com/watch?v=CtA2l49mfgU",
           "percent": 100,
           "hz": 300
+        },
+         {
+          "user": "GDalsdels",
+          "link": "https://youtu.be/MvSWCmkkOSs",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
