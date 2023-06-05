@@ -92,6 +92,12 @@
             "link": "https://www.youtube.com/watch?v=tO9y8mv16eo&ab_channel=suuji%2Farcanin",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Leven",
+            "link": "https://www.youtube.com/watch?v=qzIidb7TxyM",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
