@@ -168,7 +168,8 @@
             "user": "Idkwhattobeeee",
             "link": "https://youtu.be/W3Xs7ppomDY",
             "percent": 100,
-            "hz": 90
+            "hz": 90,
+             "mobile": true
         }
       ] 
 }
