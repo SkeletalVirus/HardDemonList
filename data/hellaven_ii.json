@@ -8,7 +8,12 @@
     "percentToQualify": 100,
     "password": "158596",
     "records": [
-        
+        {
+            "user": "Budibru",
+            "link": "https://www.youtube.com/watch?v=o2n9sDywZpU",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
 
