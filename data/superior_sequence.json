@@ -261,7 +261,12 @@
             "link": "https://youtu.be/IMlsBKInx0E",
             "percent": 100,
             "hz": 240
+        },
+         {
+          "user": "Thelli",
+          "link": "https://youtu.be/Oy27XFiv1Rk",
+          "percent": 100,
+          "hz": 60
         }
-
      ]
 }
