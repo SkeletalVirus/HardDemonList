@@ -111,6 +111,12 @@
           "link": "https://youtu.be/64ZeD-mzPZQ",
           "percent": 100,
           "hz": 300
+        },
+        {
+          "user": "The Theory",
+          "link": "https://youtu.be/-MpRimBX5Ss",
+          "percent": 100,
+          "hz": 60
         }
       ]
 }
