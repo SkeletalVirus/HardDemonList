@@ -122,6 +122,12 @@
             "link": "https://www.youtube.com/watch?v=Y5GYW9-6Ctc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Frogs65",
+            "link": "https://youtu.be/un32VqY6x1I",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
