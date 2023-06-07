@@ -79,6 +79,18 @@
             "link": "https://www.youtube.com/watch?v=okBecUOzGrk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "helvetica",
+            "link": "https://www.youtube.com/watch?v=qGPbW5OxEpM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Electro325",
+            "link": "https://youtu.be/PTusi7BLjUI?t=323",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
