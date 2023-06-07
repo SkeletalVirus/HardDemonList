@@ -511,6 +511,12 @@
             "link": "https://www.youtube.com/watch?v=9WwZyLtva-A&ab_channel=suuji%2Farcanin",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Friskman",
+            "link": "https://youtu.be/Z4nVseahepU",
+            "percent": 100,
+            "hz": 60
         }
    ]
 }
