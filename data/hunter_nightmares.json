@@ -90,7 +90,8 @@
             "user": "JP",
             "link": "https://www.youtube.com/watch?v=PRslu9TY8TE",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+             "mobile": true
         }
       ]
 }
