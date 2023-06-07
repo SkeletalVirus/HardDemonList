@@ -6,5 +6,12 @@
     "verifier": "Woom",
     "verification": "https://www.youtube.com/watch?v=RV5ANXBWx84",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+     {
+            "user": "Fawxu",
+            "link": "https://youtu.be/_wznU0iU4cE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
