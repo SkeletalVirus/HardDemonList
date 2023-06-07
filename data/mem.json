@@ -39,6 +39,18 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "RoboBear04",
+            "link": "https://www.youtube.com/watch?v=IPiaHlI_JcE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "DenyZr",
+            "link": "https://youtu.be/_WQHA0oxfQo",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
