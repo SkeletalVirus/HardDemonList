@@ -179,6 +179,12 @@
             "link": "https://www.youtube.com/watch?v=Wmc9Ve_Kazs&ab_channel=suuji%2Farcanin",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "anmc01",
+            "link": "https://www.youtube.com/watch?v=SwIE7Bd1osY",
+            "percent": 100,
+            "hz": 75
         }
     ]
 }
