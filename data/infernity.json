@@ -208,17 +208,23 @@
             "percent": 100,
             "hz": 360
         },
-       {
+        {
           "user": "Galaxy4567",
           "link": "https://www.youtube.com/watch?v=IrpfYSu1RoM&ab_channel=Galaxy4567",
           "percent": 100,
           "hz": 144
-       },
+         },
          {
             "user": "S1awer",
             "link": "https://www.youtube.com/watch?v=pqa71RBP_Uo&ab_channel=S1awer",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "YungBelll",
+            "link": "https://www.youtube.com/watch?v=kElaqbNypUs",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
