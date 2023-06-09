@@ -75,21 +75,27 @@
         },
            {
           "user": "loveSpectral",
-          "link": "https://www.youtube.com/watch?v=J7-nw1SeArI&list=PLSZLUa5mnMJn625MipcFmCAhoNFwAJQPl&index=39",
+          "link": "https://www.youtube.com/watch?v=J7-nw1SeArI",
           "percent": 100,
           "hz": 240
         },
         {
-          "user": "Electro325",
-          "link": "https://youtu.be/idGGw8rQMEo",
-          "percent": 100,
-          "hz": 360
+            "user": "Electro325",
+            "link": "https://youtu.be/idGGw8rQMEo",
+            "percent": 100,
+            "hz": 360
         },
         {
-          "user": "Leven",
-          "link": "https://youtu.be/l77TOPPxXTg",
-          "percent": 100,
-          "hz": 60
+            "user": "Leven",
+            "link": "https://youtu.be/l77TOPPxXTg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://www.youtube.com/watch?v=zKzkX612lXI",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
