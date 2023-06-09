@@ -134,6 +134,12 @@
             "link": "https://www.youtube.com/watch?v=zWMgvk_GEG4&ab_channel=suuji%2Farcanin",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "SafeSpace",
+            "link": "https://www.youtube.com/watch?v=uFNtWL2v4_o",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
