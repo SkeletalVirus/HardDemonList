@@ -2,7 +2,7 @@
     "id": 52238488,
     "name": "Quantum Variations",
     "author": "Darwin",
-    "creators": [ "Darwin", "GDSpeed" ],
+    "creators": ["Darwin, GDSpeed"],
     "verifier": "MrSpaghetti",
     "verification": "https://www.youtube.com/watch?v=1Fhubqevo4E",
     "percentToQualify": 100,
@@ -260,6 +260,12 @@
             "link": "https://www.youtube.com/watch?v=8cTfAcK8twA",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Sasory",
+            "link": "https://www.youtube.com/watch?v=5HMMF9SmZ2c",
+            "percent": 100,
+            "hz": 360
         }
    ]
 }
