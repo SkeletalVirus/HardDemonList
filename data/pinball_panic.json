@@ -155,17 +155,23 @@
             "hz": 240
         },
         {
-          "user": "Thelli",
-          "link": "https://youtu.be/KS54_c7WCAA",
-          "percent": 100,
-          "hz": 60
+            "user": "Thelli",
+            "link": "https://youtu.be/KS54_c7WCAA",
+            "percent": 100,
+            "hz": 60
         },
         {
-          "user": "Kubus",
-          "link": "https://youtu.be/gUHbwZiV2ZU",
-          "percent": 100,
-          "hz": 120,
-          "mobile":  true
+            "user": "Kubus",
+            "link": "https://youtu.be/gUHbwZiV2ZU",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+        },
+        {
+            "user": "Electro325",
+            "link": "https://www.youtube.com/watch?v=oWP1RgEqZEE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
