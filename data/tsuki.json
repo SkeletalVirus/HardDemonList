@@ -317,6 +317,12 @@
             "link": "https://www.youtube.com/watch?v=3FuKuj7y74U",
             "percent": 100,
             "hz": 60
+        }, 
+        {
+            "user": "Aksalajmus",
+            "link": "https://youtu.be/xWFEd8OrXYA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
