@@ -130,6 +130,12 @@
             "link": "https://youtu.be/7tUHlqLuHs4",
             "percent": 100,
             "hz": 150
+        },
+        {
+            "user": "Landet",
+            "link": "https://www.youtube.com/watch?v=TF6Lh_wWcmA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
