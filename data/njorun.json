@@ -364,6 +364,12 @@
             "link": "https://www.youtube.com/watch?v=eGvhWiGJPBE",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "dindaxd",
+            "link": "https://www.youtube.com/watch?v=poTicilZpVQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
