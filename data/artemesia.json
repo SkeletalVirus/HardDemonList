@@ -86,18 +86,24 @@
             "percent": 100,
             "hz": 60
         },
-          {
+        {
             "user": "helvetica",
             "link": "https://www.youtube.com/watch?v=y7wUVFtCbEM",
             "percent": 100,
             "hz": 300
-          },
-         {
+        },
+        {
             "user": "Kubus",
             "link": "https://youtu.be/eNOaCLJamtE",
             "percent": 100,
             "hz": 120,
-             "mobile": true
+            "mobile": true
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://www.youtube.com/watch?v=v10_IBGNmyo",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
