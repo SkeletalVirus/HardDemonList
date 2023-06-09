@@ -155,10 +155,16 @@
            "mobile" : true
         },
         {
-           "user": "imbaz",
-           "link": "https://www.youtube.com/watch?v=LA57QWPC_q8&t=1s",
-           "percent": 100,
-           "hz": 288
+            "user": "imbaz",
+            "link": "https://www.youtube.com/watch?v=LA57QWPC_q8",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=up3o6ZXduXk",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
