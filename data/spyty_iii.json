@@ -1,9 +1,9 @@
 {
     "id": 87326104,
     "name": "SPYTY III",
-    "author": "D3vinGD",
+    "author": "d3vinGD",
     "creators": [],
-    "verifier": "D3vinGD",
+    "verifier": "d3vinGD",
     "verification": "https://youtu.be/PrSfFiIkJLE",
     "percentToQualify": 100,
     "password": "Free to Copy",
@@ -45,16 +45,22 @@
           "hz": 240
         },
         {
-          "user": "Robaleg9",
-          "link": "https://www.youtube.com/watch?v=9xR-wU-DVu8",
-          "percent": 100,
-          "hz": 120
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=9xR-wU-DVu8",
+            "percent": 100,
+            "hz": 120
         },
         {
-          "user": "Galaxy4567",
-          "link": "https://www.youtube.com/watch?v=o691YKyp_uE&ab_channel=Galaxy4567",
-          "percent": 100,
-          "hz": 144
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=o691YKyp_uE&ab_channel=Galaxy4567",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=Vv2TbhpibZA",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
