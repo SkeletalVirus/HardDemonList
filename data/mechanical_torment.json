@@ -86,11 +86,17 @@
             "percent": 100,
             "hz": 360
         },
-         {
+        {
             "user": "JoacoPe",
             "link": "https://youtu.be/pTLgBxHmsKg",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=Hz0jLt802gI",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
