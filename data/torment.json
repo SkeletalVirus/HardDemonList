@@ -57,16 +57,22 @@
           "hz": 144
         },
         {
-          "user": "nTimaw",
-          "link": "https://youtu.be/l1LdOmOUc2I",
-          "percent": 100,
-          "hz": 300
+            "user": "nTimaw",
+            "link": "https://youtu.be/l1LdOmOUc2I",
+            "percent": 100,
+            "hz": 300
         },
         {
-          "user": "NewDark",
-          "link": "https://youtu.be/w4UF6EMY6Pw",
-          "percent": 100,
-          "hz": 60
+            "user": "NewDark",
+            "link": "https://youtu.be/w4UF6EMY6Pw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "arcanin",
+            "link": "https://www.youtube.com/watch?v=h8HmRtcPj7A",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
