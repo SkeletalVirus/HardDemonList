@@ -322,6 +322,13 @@
             "link": "https://youtu.be/1Mb4Lf3QZhw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "peregrine997",
+            "link": "https://www.youtube.com/watch?v=SA5aGj61Muk",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
