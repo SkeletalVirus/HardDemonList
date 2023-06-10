@@ -21,18 +21,23 @@
     },
     {
         "role": "trial",
+        "name": "Bobbyp02",
+        "link": "https://www.youtube.com/channel/UCZQWL17sRXpZ5jYTW_HEZng"
+    },
+    {
+        "role": "trial",
         "name": "RoboBear04",
         "link": "https://www.youtube.com/channel/UC5j8pK5dZZGYYRmJenPsKtA"
     },
     {
         "role": "trial",
-        "name": "Bobbyp02",
-        "link": "https://www.youtube.com/channel/UCZQWL17sRXpZ5jYTW_HEZng"
+        "name": "SoftMuffin76",
+        "link": "https://www.youtube.com/@SoftMuffin76"
     },
     {
         "role": "helper",
-        "name": "Vasen-Vasen",
-        "link": "https://www.youtube.com/channel/UCJVvPofEG04LteDyj8QxLOQ"
+        "name": "loveSpectral",
+        "link": "https://www.youtube.com/@loveSpectral/featured"
     },
     {
         "role": "helper",
@@ -41,23 +46,13 @@
     },
     {
         "role": "helper",
-        "name": "LoveSpectral",
-        "link": "https://www.youtube.com/@loveSpectral/featured"
-    },
-    {
-        "role": "helper",
-        "name": "SoftMuffin76",
-        "link": "https://www.youtube.com/@SoftMuffin76"
+        "name": "Robaleg9",
+        "link": "https://www.youtube.com/@robaleg9792/videos"
     },
     {
         "role": "helper",
         "name": "Trehoeje",
         "link": "https://www.youtube.com/@trehoeje3785/featured"
-    },
-    {
-        "role": "helper",
-        "name": "Robaleg9",
-        "link": "https://www.youtube.com/@robaleg9792/videos"
     },
     {
         "role": "dev",
