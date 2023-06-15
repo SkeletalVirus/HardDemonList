@@ -243,6 +243,12 @@
           "percent": 100,
           "hz": 120,
           "mobile": true
+        },
+        {
+          "user": "Pedralex",
+          "link": "https://youtu.be/84I4oC7mso0",
+          "percent": 100,
+          "hz": 360
         }
     ]
 }
