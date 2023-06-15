@@ -236,6 +236,13 @@
           "link": "https://youtu.be/Zw7pmvhJf9g",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "BananBee Gd",
+          "link": "https://youtu.be/aLSm_aRuTRE",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
         }
     ]
 }
