@@ -1,9 +1,9 @@
 {
     "id": 59139787,
     "name": "Amethyst Valley",
-    "author": "Fufafac",
+    "author": "fufafac",
     "creators": [],
-    "verifier": "Fufafac",
+    "verifier": "fufafac",
     "verification": "https://www.youtube.com/watch?v=5O7Sk8mlGog",
     "percentToQualify": 100,
     "password": "100120",
@@ -64,7 +64,7 @@
           "hz": 120
         },
         {
-          "user": "loveSpectral",
+          "user": "spectryl",
           "link": "https://youtu.be/N4fT54XvoLc",
           "percent": 100,
           "hz": 240
