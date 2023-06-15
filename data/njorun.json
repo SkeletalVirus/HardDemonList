@@ -370,6 +370,12 @@
             "link": "https://www.youtube.com/watch?v=poTicilZpVQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Qisth",
+            "link": "https://youtu.be/grdQLpKlAS0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
