@@ -8,5 +8,17 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Abeginner",
+            "link": "https://www.youtube.com/watch?v=4KjML7cOmNg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://www.youtube.com/watch?v=zrShQYsEhzw",
+            "percent": 100,
+            "hz": 240
+        }
       ]
 }
