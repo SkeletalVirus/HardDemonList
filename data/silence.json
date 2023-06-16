@@ -245,10 +245,16 @@
           "mobile": true
         },
         {
-          "user": "Pedralex",
-          "link": "https://youtu.be/84I4oC7mso0",
-          "percent": 100,
-          "hz": 360
+            "user": "Pedralex",
+            "link": "https://youtu.be/84I4oC7mso0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "https://www.youtube.com/watch?v=TTszglIKTuI",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
