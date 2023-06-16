@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=AifH2cd29F0",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Razman",
+            "link": "https://www.youtube.com/watch?v=vzyfXwRzeGI",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
