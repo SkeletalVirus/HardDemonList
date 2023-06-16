@@ -75,17 +75,24 @@
           "hz": 360
         },
         {
-          "user": "RedRover",
-          "link": "https://youtu.be/AIbQ2W57uYY",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
+            "user": "RedRover",
+            "link": "https://youtu.be/AIbQ2W57uYY",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         },
         {
-          "user": "helvetica",
-          "link": "https://www.youtube.com/watch?v=lW8ihJ6ctG0",
-          "percent": 100,
-          "hz": 120
+            "user": "helvetica",
+            "link": "https://www.youtube.com/watch?v=lW8ihJ6ctG0",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Globron",
+            "link": "https://www.youtube.com/watch?v=-jA9BcgeVW0",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
