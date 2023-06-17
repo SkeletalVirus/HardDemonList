@@ -213,6 +213,13 @@
             "link": "https://www.youtube.com/watch?v=hkxcyDimXkE&ab_channel=arcanin",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Idkwhattobeeee",
+            "link": "https://youtu.be/0NvMWD1hnZs",
+            "percent": 100,
+            "hz": 90,
+            "mobile" : true
         }
     ]
 }
