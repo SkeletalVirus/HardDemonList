@@ -72,6 +72,12 @@
             "link": "https://www.youtube.com/watch?v=PvGePmfKlfk",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "lovelydelta",
+            "link": "https://youtu.be/YNkFRM0joF4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
