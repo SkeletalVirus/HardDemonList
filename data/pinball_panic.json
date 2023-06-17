@@ -185,18 +185,19 @@
             "percent": 100,
             "hz": 360
         },
-        {
-            "user": "Pedralex",
-            "link": "https://youtu.be/M793XddoS-o",
-            "percent": 100,
-            "hz": 360
-        },
+        
         {
             "user": "Idkwhattobeeee",
             "link": "https://youtu.be/0NvMWD1hnZs",
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "Qog",
+            "link": "https://youtu.be/wxhiWJd5uRs?list=PLu19KywdCLA8o7iOSanYCCH7Nt0GM3kQn&t=2",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
