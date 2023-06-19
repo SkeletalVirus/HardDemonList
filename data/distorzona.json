@@ -438,6 +438,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "Rex",
+            "link": "https://www.youtube.com/watch?v=XuxkLGw3nY0",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
