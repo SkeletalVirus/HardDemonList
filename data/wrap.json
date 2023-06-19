@@ -72,6 +72,12 @@
             "link": "https://www.youtube.com/watch?v=PvGePmfKlfk",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "DankDrew",
+            "link": "https://www.youtube.com/live/rcco_7ii1NU?feature=share&t=1280",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
