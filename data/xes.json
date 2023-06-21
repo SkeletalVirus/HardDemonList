@@ -255,6 +255,12 @@
             "link": "https://www.youtube.com/watch?v=VKsI9Kn5a5k",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "AlphaXIV",
+            "link": "https://youtu.be/8a7dLrPwLBA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
