@@ -140,6 +140,13 @@
             "link": "https://www.youtube.com/watch?v=qdMDyTbeFnM&ab_channel=suuji%2Farcanin",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "zFlauty",
+            "link": "https://www.youtube.com/watch?v=Ldn2tgbfqDI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
