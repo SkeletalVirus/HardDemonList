@@ -217,6 +217,13 @@
             "link": "https://www.youtube.com/watch?v=LIEA1KhhlTc",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "zFlauty",
+            "link": "https://www.youtube.com/watch?v=kGucUFcv-yU",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
