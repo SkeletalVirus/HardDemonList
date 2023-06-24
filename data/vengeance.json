@@ -188,6 +188,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Belgrado",
+            "link": "https://www.youtube.com/watch?v=6G8lt6088LE",
+            "percent": 100,
+            "hz": 100
         }
     ]
 }
