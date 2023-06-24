@@ -8,23 +8,30 @@
     "percentToQualify": 100,
     "password": "909865",
     "records": [
-                {
-          "user": "Fawxu",
-          "link": "https://youtu.be/L-YNyyuhmu8",
-          "percent": 100,
-          "hz": 240
-                },
-            {
-          "user": "JoseRicoTacoNachoQuesadillaMandilaJones",
-          "link": "https://youtu.be/DVNOz8cRN_g",
-          "percent": 100,
-          "hz": 144
-            },
-             {
-          "user": "IgongDae",
-          "link": "https://youtu.be/wVYnI7vBVWk",
-          "percent": 100,
-          "hz": 360
-             }
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/L-YNyyuhmu8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoseRicoTacoNachoQuesadillaMandilaJones",
+            "link": "https://youtu.be/DVNOz8cRN_g",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/wVYnI7vBVWk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Nicoolat",
+            "link": "https://www.youtube.com/watch?v=p3Pf3qh4MI4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
     ]
 }
