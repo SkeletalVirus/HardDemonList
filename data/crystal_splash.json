@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "191020",
     "records": [
+        {
+            "user": "Patty",
+            "link": "https://www.youtube.com/watch?v=R-EAPDoZ9_w",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
