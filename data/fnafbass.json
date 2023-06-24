@@ -274,11 +274,17 @@
             "percent": 100,
             "hz": 360
         },
-         {
-          "user": "IgongDae",
-          "link": "https://youtu.be/SxEHVK6WXv0",
-          "percent": 100,
-          "hz": 300
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/SxEHVK6WXv0",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Thelli",
+            "link": "https://www.youtube.com/watch?v=lgp1NFB88ag",
+            "percent": 100,
+            "hz": 60
         }
      ]
   }
