@@ -2,7 +2,7 @@
     "id": 69472216,
     "name": "Eternal Flame",
     "author": "James",
-    "creators": ["James"],
+    "creators": [],
     "verifier": "KNOEPPEL",
     "verification": "https://www.youtube.com/watch?v=tLCv38lyJaM",
     "percentToQualify": 100,
@@ -182,6 +182,12 @@
             "link": "https://youtu.be/Obs17x3ZywE",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "dindaxd",
+            "link": "https://www.youtube.com/watch?v=FC5ZeTPaX98",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
