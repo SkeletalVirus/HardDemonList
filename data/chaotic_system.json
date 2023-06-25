@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "password": "251369",
     "records": [
-  {
+        {
           "user": "HexagonGD",
           "link": "https://www.youtube.com/watch?v=fsY_0GqyVyI",
           "percent": 100,
@@ -118,6 +118,12 @@
             "link": "https://www.youtube.com/watch?v=VWuu66HfIp8",
             "percent": 100,
             "hz": 300
-        }
+        },
+        {
+          "user": "JoacoPe",
+          "link": "https://youtu.be/R0Xqpr9KsFM",
+          "percent": 100,
+          "hz": 120
+      }
 ]
 }
