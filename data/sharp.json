@@ -273,6 +273,12 @@
             "link": "https://www.youtube.com/watch?v=z3fO4IoBSWY",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "WellNot",
+            "link": "https://www.youtube.com/watch?v=2rOBZ0BestU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
