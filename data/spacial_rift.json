@@ -123,6 +123,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Pedralex",
+            "link": "https://www.youtube.com/watch?v=RODMvs-DUi8",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
