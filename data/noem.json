@@ -141,6 +141,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Patty",
+            "link": "https://www.youtube.com/watch?v=O5Z5ieWDkcI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
