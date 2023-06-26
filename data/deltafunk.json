@@ -281,6 +281,12 @@
             "link": "https://youtu.be/SmOOHF4n0NI",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "greg",
+            "link": "https://www.youtube.com/watch?v=ptAeStu5Iww",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
