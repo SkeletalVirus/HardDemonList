@@ -69,16 +69,22 @@
           "hz": 144
         },
         {
-          "user": "RedRampage9776",
-          "link": "https://www.youtube.com/watch?v=j_Uf-lj9kWc",
-          "percent": 100,
-          "hz": 144
+            "user": "RedRampage9776",
+            "link": "https://www.youtube.com/watch?v=j_Uf-lj9kWc",
+            "percent": 100,
+            "hz": 144
         },
         {
-        "user": "Leven",
-        "link": "https://youtu.be/Wm3Kdv-ptY0",
-        "percent": 100,
-        "hz": 60
+            "user": "Leven",
+            "link": "https://youtu.be/Wm3Kdv-ptY0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=sWQQHdZ6Sqo",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
