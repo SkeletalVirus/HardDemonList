@@ -1,7 +1,7 @@
 {
     "id": 35575829,
     "name": "K A N G",
-    "author": "Kang131",
+    "author": "kang131",
     "creators": [],
     "verifier": "AeonAir",
     "verification": "https://youtu.be/JvxO3jAmRO8",
@@ -142,6 +142,13 @@
             "link": "https://youtu.be/0Lsgdqdv1IQ?t=1237",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "peregrine997",
+            "link": "https://www.youtube.com/watch?v=F_rGWHoqqJo",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
