@@ -93,10 +93,16 @@
             "hz": 288
         },
         {
-          "user": "JoacoPe",
-          "link": "https://youtu.be/xje39xdOAYE",
-          "percent": 100,
-          "hz": 120
-      }
+            "user": "JoacoPe",
+            "link": "https://youtu.be/xje39xdOAYE",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Leven",
+            "link": "https://www.youtube.com/watch?v=u93quccwj9U",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
