@@ -229,9 +229,15 @@
         },
         {
             "user": "dindaxd",
-            "link": "https://www.youtube.com/watch?v=VrWvtYN3SSc&t=1s",
+            "link": "https://www.youtube.com/watch?v=VrWvtYN3SSc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "AlphaXIV",
+            "link": "https://www.youtube.com/watch?v=aN7QnILZDes",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
