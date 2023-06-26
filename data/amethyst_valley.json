@@ -76,16 +76,22 @@
           "hz": 240
         },
         {
-          "user": "Leckylecks",
-          "link": "https://youtu.be/ayCGpnqHxFA",
-          "percent": 100,
-          "hz": 360
+            "user": "Leckylecks",
+            "link": "https://youtu.be/ayCGpnqHxFA",
+            "percent": 100,
+            "hz": 360
         },
         {
-          "user": "JoacoPe",
-          "link": "https://youtu.be/ayCGpnqHxFA",
-          "percent": 100,
-          "hz": 120
+            "user": "JoacoPe",
+            "link": "https://youtu.be/ayCGpnqHxFA",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Electro325",
+            "link": "https://www.youtube.com/watch?v=FJUiMA05Uqw",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
