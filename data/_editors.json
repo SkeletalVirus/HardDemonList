@@ -26,13 +26,23 @@
     },
     {
         "role": "trial",
-        "name": "RoboBear04",
-        "link": "https://www.youtube.com/@robobear04gd94"
-    },
-    {
-        "role": "trial",
         "name": "SoftMuffin76",
         "link": "https://www.youtube.com/@SoftMuffin76"
+    },
+    {
+        "role": "helper",
+        "name": "Kubus",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "Padahk",
+        "link": "link goes here"
+    },
+    {
+        "role": "helper",
+        "name": "Robaleg9",
+        "link": "https://www.youtube.com/@robaleg9792"
     },
     {
         "role": "helper",
@@ -46,8 +56,8 @@
     },
     {
         "role": "helper",
-        "name": "Robaleg9",
-        "link": "https://www.youtube.com/@robaleg9792"
+        "name": "Wod",
+        "link": "link goes here"
     },
     {
         "role": "dev",
