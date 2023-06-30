@@ -13,7 +13,12 @@
             "link": "https://www.youtube.com/watch?v=ERAOpZWgcJg",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Patty",
+            "link": "https://youtu.be/dKwgaHJGuAw",
+            "percent": 100,
+            "hz": 240
         }
-
     ]
 }
