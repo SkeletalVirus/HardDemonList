@@ -383,6 +383,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "ItsBig",
+            "link": "https://www.youtube.com/watch?v=lF1iyAIh6FI",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
