@@ -304,6 +304,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Moley768",
+            "link": "https://www.youtube.com/watch?v=fkDxdh5sZpk",
+            "percent": 100,
+            "hz": 360
         }
      ]
   }
