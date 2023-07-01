@@ -718,6 +718,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://www.youtube.com/watch?v=NeyakrbY5Aw",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
