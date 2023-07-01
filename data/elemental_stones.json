@@ -188,6 +188,12 @@
             "link": "https://www.youtube.com/watch?v=gZdTN8_Nzxs",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Thelli",
+            "link": "https://youtu.be/5dIsM0J8tO0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
