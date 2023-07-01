@@ -329,6 +329,13 @@
             "link": "https://www.youtube.com/watch?v=h-5X-AI5UXM",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Natrist",
+            "link": "https://youtu.be/3ahdcG0ej1M",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
