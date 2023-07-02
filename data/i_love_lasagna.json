@@ -190,6 +190,13 @@
             "link": "https://www.youtube.com/watch?v=HFgwAJ7_VeE",
             "percent": 100,
             "hz": 240
+        },
+        {
+          "user": "Bluesharkw",
+          "link": "https://youtu.be/hz2PHnr31pk",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }
