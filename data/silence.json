@@ -261,6 +261,13 @@
             "link": "https://www.youtube.com/watch?v=IoT0FQg6kek",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "InsaneParnisha",
+            "link": "https://youtu.be/sJ0QabPT60M",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

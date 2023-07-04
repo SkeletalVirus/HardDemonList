@@ -55,6 +55,18 @@
             "link": "https://youtu.be/_rbHjdXj-kw",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "Hydrogenation",
+            "link": "https://www.youtube.com/watch?v=RzdTzMZQEQk",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/e3ucHQMNS-o",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

@@ -91,6 +91,13 @@
             "link": "https://youtu.be/0z2oI04smUg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "InsaneParnisha",
+            "link": "https://www.youtube.com/watch?v=vrKsvoxEdkY&t=707s",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
