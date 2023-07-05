@@ -44,11 +44,17 @@
         "percent": 100,
         "hz": 360
       },
-        {
+      {
         "user": "nTimaw",
         "link": "https://www.youtube.com/watch?v=WfqKzN-g-N4",
         "percent": 100,
         "hz": 300
+      },
+      {
+        "user": "SafeSpace",
+        "link": "https://www.youtube.com/watch?v=Cp_x9E_-i8E",
+        "percent": 100,
+        "hz": 120
       }
       ]
 }
