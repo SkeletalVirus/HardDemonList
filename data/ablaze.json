@@ -79,6 +79,12 @@
           "link": "https://www.youtube.com/watch?v=QlMwjUpZ-0w",
           "percent": 100,
           "hz": 240
+       },
+        {
+          "user": "Scy0",
+          "link": "https://youtu.be/ZgNYV-tvo08",
+          "percent": 100,
+          "hz": 60
        }
     ]
 }
