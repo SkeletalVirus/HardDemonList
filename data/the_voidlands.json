@@ -1,4 +1,4 @@
-{
+ {
     "id": 60629479,
     "name": "The Voidlands",
     "author": "dolphe",
@@ -75,6 +75,12 @@
             "link": "https://youtu.be/0Lsgdqdv1IQ?t=2637",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://www.youtube.com/watch?v=lhLct2Bk_yY",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
