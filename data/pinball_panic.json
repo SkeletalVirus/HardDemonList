@@ -210,6 +210,12 @@
             "link": "https://www.youtube.com/watch?v=nI1VKsHt9sI",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "yzae",
+            "link": "https://www.youtube.com/watch?v=BIGiPr7lV1U",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
