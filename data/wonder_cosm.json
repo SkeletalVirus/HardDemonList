@@ -103,6 +103,12 @@
             "link": "https://www.youtube.com/watch?v=RX5LT13lW1w&ab_channel=suuji%2Farcanin",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "yzae",
+            "link": "https://www.youtube.com/watch?v=soAQ2uNMB2s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
