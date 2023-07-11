@@ -98,6 +98,12 @@
           "link": "https://www.youtube.com/watch?v=V3nyagWK44w",
           "percent": 100,
           "hz": 360
+      },
+        {
+          "user": "Ready Red Panda",
+          "link": "https://www.youtube.com/watch?v=s3CRVnioT5Y",
+          "percent": 100,
+          "hz": 240
       }
     ]
 }
