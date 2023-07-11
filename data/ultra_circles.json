@@ -60,7 +60,12 @@
             "link": "https://youtu.be/kkKgQEYG_kU",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Somewildseal",
+            "link": "https://www.youtube.com/watch?v=CD1PIWA7_ss",
+            "percent": 100,
+            "hz": 60
         }
-        
     ]
 }
