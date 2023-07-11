@@ -536,6 +536,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "DoGGy",
+            "link": "https://www.youtube.com/watch?v=i9eX_d44EIw",
+            "percent": 100,
+            "hz": 144
         }
    ]
 }
