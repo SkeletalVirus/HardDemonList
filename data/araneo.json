@@ -529,6 +529,13 @@
             "link": "https://youtu.be/XiFS9onG9mQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "sussiestimpostor",
+            "link": "https://www.youtube.com/watch?v=MiVrRhEnuas",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
    ]
 }
