@@ -7,6 +7,60 @@
     "verification": "https://youtu.be/Hp9hJLYB4ws",
     "percentToQualify": 100,
     "records": [
-
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=HBSCNdLZQYw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Thelli",
+            "link": "https://www.youtube.com/watch?v=3obav0nqNro",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "SafeSpace",
+            "link": "https://youtu.be/Cp_x9E_-i8E?t=441",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Mishaza",
+            "link": "https://www.youtube.com/watch?v=P0DrelNoS9U",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Trehoeje",
+            "link": "https://www.youtube.com/watch?v=EYDohSLilpk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://www.youtube.com/watch?v=EYDohSLilpk",
+            "percent": 100,
+            "hz": 150
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://www.youtube.com/watch?v=MueNyxSvybg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=bJIeor1eqiA&ab_channel=Galaxy4567",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/kkKgQEYG_kU",
+            "percent": 100,
+            "hz": 60
+        }
+        
     ]
 }
