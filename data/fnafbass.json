@@ -316,6 +316,19 @@
             "link": "https://www.youtube.com/watch?v=-NrfRrmwlxU&ab_channel=qKitti",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "lovelydelta",
+            "link": "https://youtu.be/IIC0glUV0ac",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "SmileBullet",
+            "link": "https://youtu.be/p8lzJIcjrtI",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
      ]
   }
