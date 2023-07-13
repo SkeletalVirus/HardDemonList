@@ -285,6 +285,13 @@
             "link": "https://www.youtube.com/watch?v=HgocnlCmOlw",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Bonezizdum",
+            "link": "https://www.youtube.com/watch?v=s0Tlol30Tmw",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
