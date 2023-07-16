@@ -325,6 +325,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Razman",
+            "link": "https://www.youtube.com/watch?v=yGhvcccClvs",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
