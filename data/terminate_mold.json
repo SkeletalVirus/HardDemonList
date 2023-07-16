@@ -133,6 +133,13 @@
             "link": "https://youtu.be/klu2AKQ525o",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Kubus",
+            "link": "https://www.youtube.com/watch?v=SJevlCN2-Hs",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
    ]
 }
