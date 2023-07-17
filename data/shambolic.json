@@ -122,6 +122,13 @@
           "link": "https://www.youtube.com/watch?v=FyVpRHL9QMU",
           "percent": 100,
           "hz": 360
+       },
+        {
+          "user": "FlameShooter",
+          "link": "https://www.youtube.com/watch?v=3eEIdIT5qPA",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
        }
     ]
 }
