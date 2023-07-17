@@ -69,6 +69,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "KapVax",
+            "link": "https://youtu.be/yNc8hhqqU8I",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
