@@ -389,6 +389,12 @@
             "link": "https://www.youtube.com/watch?v=lUox4TjMzo8",
             "percent": 100,
             "hz": 144
-        }
+        },
+        {
+          "user": "guitarhero2189",
+          "link": "https://www.twitch.tv/videos/1864024792",
+          "percent": 100,
+          "hz": 330
+      }
     ]
 }
