@@ -91,6 +91,12 @@
             "link": "https://www.youtube.com/watch?v=d_lhLQBar2o",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/8WbwAtSeTJ4",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

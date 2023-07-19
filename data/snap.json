@@ -153,6 +153,12 @@
             "link": "https://youtu.be/lHTnpAATBH0",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+          "user": "Truebolt",
+          "link": "https://youtu.be/fhT97JMOuWw",
+          "percent": 100,
+          "hz": 60
+      }
       ]
 }
