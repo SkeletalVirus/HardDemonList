@@ -139,6 +139,13 @@
             "link": "https://youtu.be/DEbxlo6-_to",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://youtu.be/1lViwWMtTuw",
+            "percent": 100,
+            "hz": 60,
+            "mobile": "true"
         }
     ]
 }
