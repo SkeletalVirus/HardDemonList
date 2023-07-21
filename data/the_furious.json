@@ -718,6 +718,12 @@
             "link": "https://www.youtube.com/watch?v=NeyakrbY5Aw",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "vkrz",
+            "link": "https://youtu.be/FsAWnZFWn9E",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
