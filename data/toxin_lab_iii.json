@@ -231,6 +231,12 @@
           "link": "https://www.twitch.tv/videos/1838377678",
           "percent": 100,
           "hz": 330
+      },
+        {
+          "user": "Leven",
+          "link": "https://youtu.be/i_OtmtfJlOc",
+          "percent": 100,
+          "hz": 60
       }
       ]
 }
