@@ -171,6 +171,13 @@
             "link": "https://youtu.be/z-EqvkxiPlU",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=ivUuKLd6tCg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
