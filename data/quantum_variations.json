@@ -260,6 +260,12 @@
             "link": "https://www.youtube.com/watch?v=5HMMF9SmZ2c",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Stallia",
+            "link": "https://www.youtube.com/watch?v=_Ffze2qsoYk",
+            "percent": 100,
+            "hz": 240
         }
    ]
 }
