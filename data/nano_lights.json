@@ -177,6 +177,12 @@
             "link": "https://www.youtube.com/watch?v=Cy8cEY7FvMU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "DatFatRat",
+            "link": "https://www.youtube.com/watch?app=desktop&v=rzBFNP7hVag",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
