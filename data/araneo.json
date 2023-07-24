@@ -549,6 +549,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "Stallia",
+            "link": "https://www.youtube.com/watch?v=VrfbC-Q1aPs",
+            "percent": 100,
+            "hz": 240
         }
    ]
 }
