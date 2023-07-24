@@ -711,6 +711,12 @@
           "link": "https://www.twitch.tv/videos/1872973116",
           "percent": 100,
           "hz": 330
+      },
+        {
+          "user": "DatFatRat",
+          "link": "https://youtu.be/lmpTpxE5Vto",
+          "percent": 100,
+          "hz": 240
       }
     ]
 }
