@@ -360,6 +360,12 @@
           "link": "https://www.youtube.com/watch?v=YcyzPXIAAYI",
           "percent": 100,
           "hz": 240
+      },
+      {
+          "user": "Leven",
+          "link": "https://www.youtube.com/watch?v=9BLPUTxK60k",
+          "percent": 100,
+          "hz": 60
       }
     ]
 }
