@@ -718,11 +718,17 @@
           "percent": 100,
           "hz": 240
       },
-        {
+      {
           "user": "Stallia",
           "link": "https://www.youtube.com/watch?v=VjSoujkoKJs",
           "percent": 100,
           "hz": 240
+      },
+      {
+            "user": "JuicyOrange",
+            "link": "https://www.youtube.com/watch?v=vwH4-AmdGRo",
+            "percent": 100,
+            "hz": 240
       }
     ]
 }
