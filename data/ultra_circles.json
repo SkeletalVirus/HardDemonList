@@ -90,6 +90,12 @@
             "link": "https://www.youtube.com/watch?v=b-LRm4Z1rw8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "JuicyOrange",
+            "link": "https://www.youtube.com/watch?v=vau0axCW18E",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
