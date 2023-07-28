@@ -731,6 +731,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+            "user": "SmackinTheKraken",
+            "link": "https://www.youtube.com/watch?v=13lssAYe0tg",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
