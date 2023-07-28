@@ -186,6 +186,12 @@
             "link": "https://www.youtube.com/watch?v=fypkTFsoGh0",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "SmackinTheKraken",
+            "link": "https://youtu.be/BtO1lOHJ2No",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
