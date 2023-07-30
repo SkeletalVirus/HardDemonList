@@ -42,7 +42,8 @@
           "user": "Nicoolat",
           "link": "https://youtu.be/HipvTgAbfeE",
           "percent": 100,
-          "hz": 120
+          "hz": 120,
+          "mobile": true
         },
         {
           "user": "JoseRicoTacoNachoQuesadillaMandilaJones",
