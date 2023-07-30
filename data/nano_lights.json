@@ -183,6 +183,12 @@
             "link": "https://www.youtube.com/watch?app=desktop&v=rzBFNP7hVag",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ItsLejoGD",
+            "link": "https://www.youtube.com/watch?v=VHiLBimC1CU",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
