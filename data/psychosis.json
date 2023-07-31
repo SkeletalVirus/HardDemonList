@@ -1333,6 +1333,12 @@
           "link": "https://www.youtube.com/watch?v=EdDh_m7qf04",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "KillerWasKilled",
+          "link": "https://www.youtube.com/watch?v=n5JCP8FpzE8",
+          "percent": 100,
+          "hz": 60
         }
     ]
 }
