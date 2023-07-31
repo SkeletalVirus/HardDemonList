@@ -62,18 +62,24 @@
         "percent": 100,
         "hz": 360
       },
-        {
+      {
         "user": "SmileBullet",
         "link": "https://www.youtube.com/watch?v=Y8eMWRblAYQ",
         "percent": 100,
         "hz": 60,
         "mobile": true
       },
-        {
+      {
         "user": "EpicMushroom",
         "link": "https://www.youtube.com/watch?v=ji5raGGY1LY",
         "percent": 100,
         "hz": 150
+      },
+      {
+        "user": "Galaxy4567",
+        "link": "https://www.youtube.com/watch?v=vnPpvEPxMQg&ab_channel=Galaxy4567",
+        "percent": 100,
+        "hz": 144
       }
      ]
 }
