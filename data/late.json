@@ -163,6 +163,13 @@
             "link": "https://youtu.be/NZFgCHUC9PU",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "TheKhalilKind",
+            "link": "https://youtu.be/huxWmaZG5YU",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
     }
