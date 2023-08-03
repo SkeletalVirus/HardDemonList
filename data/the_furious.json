@@ -743,6 +743,12 @@
             "link": "https://www.youtube.com/watch?v=4KhNK5ZZf24",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Daxylitz",
+            "link": "https://youtu.be/AnrRYjuqqdY",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
