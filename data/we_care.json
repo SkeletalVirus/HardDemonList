@@ -173,6 +173,13 @@
             "link": "https://www.youtube.com/watch?v=V61gbi6us1A",
             "percent": 100,
             "hz": 321
+        },
+        {
+            "user": "ViquinicViper",
+            "link": "https://youtu.be/e0yynfKrzSg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
