@@ -373,6 +373,12 @@
             "link": "https://www.twitch.tv/videos/1879717706",
             "percent": 100,
             "hz": 330
+        },
+        {
+            "user": "Daxylitz",
+            "link": "https://youtu.be/aqKsLpoeeS8",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
