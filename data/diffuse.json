@@ -729,6 +729,12 @@
             "link": "https://www.youtube.com/watch?v=vwH4-AmdGRo",
             "percent": 100,
             "hz": 240
+      },
+        {
+            "user": "nico27",
+            "link": "https://www.youtube.com/watch?v=6vdb_qN5D_o&t=83s",
+            "percent": 100,
+            "hz": 120
       }
     ]
 }
