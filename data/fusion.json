@@ -117,6 +117,13 @@
             "link": "https://www.youtube.com/watch?v=TXbFIWd0PoQ",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "DaveMedal482",
+            "link": "https://m.youtube.com/watch?v=mwwYnsLCpS8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
