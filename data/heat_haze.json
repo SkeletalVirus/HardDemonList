@@ -74,11 +74,18 @@
             "percent": 100,
             "hz": 120
         },
-     {
+        {
             "user": "spectryl",
             "link": "https://youtu.be/Ai6LFu6AtBM",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "TheKhalilKind",
+            "link": "https://youtu.be/Ai6LFu6AtBM",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
