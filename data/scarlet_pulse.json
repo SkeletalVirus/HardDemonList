@@ -573,6 +573,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "fin",
+            "link": "https://cdn.discordapp.com/attachments/890691828150583400/1136695803176562868/Geometry_Dash_2023.08.03_-_12.22.24.05.DVR_Trim.mp4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
