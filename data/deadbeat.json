@@ -21,16 +21,10 @@
           "hz": 144
         },
         {
-          "user": "NixHGD",
-          "link": "https://www.youtube.com/watch?v=ej2oc0bolaE",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-					"user": "Fawxu",
-					"link": "https://youtu.be/YsC43bUiof0",
-					"percent": 100,
-					"hz": 240
+			"user": "Fawxu",
+			"link": "https://youtu.be/YsC43bUiof0",
+			"percent": 100,
+			"hz": 240
         },
         {
           "user": "nTimaw",
