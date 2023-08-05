@@ -38,10 +38,10 @@
           "hz": 144
         },
         {
-					"user": "nyseoul",
-					"link": "https://youtu.be/gshHuNm0DkY",
-					"percent": 100,
-					"hz": 60
+			"user": "nyseoul",
+			"link": "https://youtu.be/gshHuNm0DkY",
+			"percent": 100,
+			"hz": 60
         },
         {
           "user": "Omnin",
@@ -54,12 +54,6 @@
           "link": "https://youtu.be/NIU-tVY_O5Y",
           "percent": 100,
           "hz": 225
-        },
-        {
-          "user": "bass35",
-          "link": "https://www.youtube.com/watch?v=VpYgxwUw5T4",
-          "percent": 100,
-          "hz": 144
         },
         {
           "user": "Wolvyy",
