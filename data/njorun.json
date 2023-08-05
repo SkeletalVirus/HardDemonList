@@ -52,16 +52,10 @@
           "hz": 360
         },
         {
-					"user": "Frogs65",
-					"link": "https://youtu.be/4bG8cECxhgg",
-					"percent": 100,
-					"hz": 60
-        },
-        {
-          "user": "NixHGD",
-          "link": "https://youtu.be/QcOkGTd5_q4",
-          "percent": 100,
-          "hz": 240
+			"user": "Frogs65",
+			"link": "https://youtu.be/4bG8cECxhgg",
+			"percent": 100,
+			"hz": 60
         },
         {
           "user": "Landet",
