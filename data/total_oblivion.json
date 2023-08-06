@@ -148,6 +148,13 @@
             "link": "https://www.youtube.com/watch?v=JaCquR6Lf0c",
             "percent": 100,
             "hz": 150
+        },
+        {
+            "user": "TheKihalilKind",
+            "link": "https://youtu.be/158Idq2Nu7M",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
      ]
 }
