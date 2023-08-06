@@ -233,6 +233,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "KKXGD",
+            "link": "https://www.youtube.com/watch?v=lvOnleUR360",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
