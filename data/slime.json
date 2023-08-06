@@ -218,6 +218,13 @@
           "link": "https://www.twitch.tv/videos/1849693449",
           "percent": 100,
           "hz": 330
-      }
+        },
+        {
+          "user": "TheKhalilKind",
+          "link": "https://youtu.be/omt5DiYx7NE",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        }
       ]    
 }
