@@ -287,6 +287,13 @@
             "link": "https://youtu.be/kRwc_cDPHds",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "timmyy",
+            "link": "https://youtu.be/Z7QbisLp1v8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
