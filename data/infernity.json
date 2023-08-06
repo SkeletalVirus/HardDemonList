@@ -261,6 +261,13 @@
             "link": "https://www.youtube.com/watch?v=aJFci_DDc6I&list=PLOxumpkTXfFx-fmP5sFJyrBpVueQQGlEK&index=4&ab_channel=ArthurTrim-Wilson",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "TheKhalilKind",
+            "link": "https://youtu.be/GrR9pxGstx8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
