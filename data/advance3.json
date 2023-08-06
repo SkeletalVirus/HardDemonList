@@ -225,6 +225,12 @@
             "link": "https://www.youtube.com/watch?v=7v7rmc68cpM",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "SirDiablo",
+            "link": "https://youtu.be/1VxEI-HSdzs?t=251",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
