@@ -141,6 +141,12 @@
             "link": "https://www.youtube.com/watch?v=O5Z5ieWDkcI",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "ItsLejoGD",
+            "link": "https://youtu.be/Xc-IMelLapU",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
