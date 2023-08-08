@@ -8,5 +8,23 @@
     "percentToQualify": 100,
     "password": "072222",
     "records": [
+         {
+            "user": "nTimaw",
+            "link": "https://youtu.be/cRF78YWpjFY",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "L1GHTNING",
+            "link": "https://youtu.be/k6VmKlX-dNU",
+            "percent": 100,
+            "hz": 144
+        },
+          {
+            "user": "Leckylecks",
+            "link": "https://www.youtube.com/watch?v=JzBq16CuFuo",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
