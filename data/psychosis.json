@@ -1308,6 +1308,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "Reno",
+          "link": "https://www.youtube.com/watch?v=n5JCP8FpzE8",
+          "percent": 100,
+          "hz": 75
         }
     ]
 }

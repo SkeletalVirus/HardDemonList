@@ -189,6 +189,12 @@
             "link": "https://www.youtube.com/watch?v=VHiLBimC1CU",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+          "user": "EpXec",
+          "link": "https://youtu.be/PNh6S_CH8CA",
+          "percent": 100,
+          "hz": 165
+      }
       ]
 }

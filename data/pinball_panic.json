@@ -234,6 +234,12 @@
             "link": "https://www.youtube.com/watch?v=4J8ylT-hHaE",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ItzGray",
+            "link": "https://youtu.be/D29RMv9lJZA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
