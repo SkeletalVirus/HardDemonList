@@ -748,6 +748,12 @@
             "link": "https://www.youtube.com/watch?v=xReDUesbkBk",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Reno",
+            "link": "https://www.youtube.com/watch?v=Udxa-3tMP8Q",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
