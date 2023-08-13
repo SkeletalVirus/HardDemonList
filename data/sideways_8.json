@@ -176,6 +176,12 @@
             "link": "https://www.youtube.com/watch?v=_jNnq5OKgio",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ElGatoNinja",
+            "link": "https://youtu.be/jkhifIdBZ-I",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
