@@ -231,6 +231,12 @@
             "link": "https://youtu.be/1VxEI-HSdzs?t=251",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Rocipher",
+            "link": "https://www.youtube.com/watch?v=s0xwpPlMQOM&list=PL0SxygKD6YPaWr9CyNzWQZzVknZu9wMcK&index=9",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
