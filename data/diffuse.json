@@ -760,6 +760,12 @@
             "link": "https://www.youtube.com/watch?v=IkbkgIsbi1s",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Rocipher",
+            "link": "https://www.youtube.com/watch?v=DE2YpsT7nCk&list=PL0SxygKD6YPaWr9CyNzWQZzVknZu9wMcK&index=10",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
