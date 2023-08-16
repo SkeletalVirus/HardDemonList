@@ -390,6 +390,13 @@
             "link": "https://youtu.be/Z4sNCEuMW_c?t=709",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "elmatigeims",
+            "link": "https://youtu.be/ZkyvHJsRiyQ",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
