@@ -246,6 +246,12 @@
             "link": "https://www.youtube.com/watch?v=hOxgBYx8fs8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ZachGMD",
+            "link": "https://youtu.be/Bri8x9xh2X8",
+            "percent": 100,
+            "hz": 300
         }
       ]
 }
