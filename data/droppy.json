@@ -397,6 +397,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Rocipher",
+            "link": "https://www.youtube.com/watch?v=Us98f0o0mpA&list=PL0SxygKD6YPaWr9CyNzWQZzVknZu9wMcK&index=19",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
