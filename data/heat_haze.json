@@ -86,6 +86,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Sloudy",
+            "link": "https://youtu.be/Sqm6GgF7-2c",
+            "percent": 100,
+            "hz": 288
         }
       ]
 }
