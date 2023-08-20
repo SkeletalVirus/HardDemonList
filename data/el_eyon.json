@@ -97,6 +97,13 @@
             "link": "https://www.youtube.com/watch?v=RFKc19-ERCU&ab_channel=suuji%2Farcanin",
             "percent": 100,
             "hz": 144
+        },
+          {
+            "user": "TheKhalilKind",
+            "link": "https://youtu.be/J1vaLyN4TKg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
