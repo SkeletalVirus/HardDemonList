@@ -237,6 +237,13 @@
             "link": "https://www.youtube.com/watch?v=s0xwpPlMQOM&list=PL0SxygKD6YPaWr9CyNzWQZzVknZu9wMcK&index=9",
             "percent": 100,
             "hz": 60
+        },
+           {
+            "user": "TheKhalilKind",
+            "link": "https://www.youtube.com/watch?v=BK_IdKUAAp4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
