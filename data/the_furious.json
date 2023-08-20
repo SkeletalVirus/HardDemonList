@@ -756,6 +756,18 @@
             "link": "https://youtu.be/rqJPaoEejYw",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "TheSilentHam",
+            "link": "https://www.youtube.com/watch?v=YF_FWtos5c4",
+            "percent": 100,
+            "hz": 144
+        },
+         {
+            "user": "Djhilbs",
+            "link": "https://youtu.be/va4hJ8S9mGA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
