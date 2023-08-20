@@ -67,6 +67,18 @@
             "link": "https://youtu.be/xN0nOdem4g4",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "Zandezz",
+            "link": "https://www.youtube.com/watch?v=aBY41PeNQ34",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "DenyZr",
+            "link": "https://youtu.be/FzdKOzhS1rE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
