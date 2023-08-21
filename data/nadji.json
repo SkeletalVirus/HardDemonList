@@ -183,6 +183,19 @@
           "link": "https://www.youtube.com/watch?v=KqIw1bkY6RI",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Tornado",
+          "link": "https://www.youtube.com/watch?v=ZtF_lLtrglc",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "TheKhalilKind",
+          "link": "https://youtu.be/1D4Q-k7XmXk",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }
