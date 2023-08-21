@@ -391,6 +391,19 @@
             "link": "https://youtu.be/TGD65RKHJk4",
             "percent": 100,
             "hz": 144
+        },
+         {
+            "user": "TheKhalilKind",
+            "link": "https://youtu.be/-V9MiofWoI4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+         {
+            "user": "sumnolia",
+            "link": "https://www.youtube.com/watch?v=K1hVjKk2AX0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
