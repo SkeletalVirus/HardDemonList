@@ -205,6 +205,19 @@
             "link": "https://youtu.be/lhwqLAD--fE",
             "percent": 100,
             "hz": 240
-         }
+         },
+         {
+            "user": "yzae",
+            "link": "https://youtu.be/51YQ2XEWLgs",
+            "percent": 100,
+            "hz": 360
+         },
+         {
+            "user": "Kubus",
+            "link": "https://youtu.be/MwaGVlLwm04",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+        }
       ]
 }
