@@ -130,6 +130,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "yzae",
+            "link": "https://youtu.be/kx5JArfyisE",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }
