@@ -203,6 +203,19 @@
           "link": "https://www.youtube.com/watch?v=aDIH6sgXfXk",
           "percent": 100,
           "hz": 240
+      },
+      {
+            "user": "TheKhalilKind",
+            "link": "https://youtu.be/ovM71x09TNA",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+       },
+       {
+          "user": "LeNoobVolant",
+          "link": "https://youtu.be/1kgqdhegCBw",
+          "percent": 100,
+          "hz": 60
       }
     ]
 }
