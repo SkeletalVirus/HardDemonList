@@ -151,6 +151,12 @@
             "link": "https://www.youtube.com/watch?v=FSokeyNFVTg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "TheSilentHam",
+            "link": "https://youtu.be/BaIfeCD5VPw",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
