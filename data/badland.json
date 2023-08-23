@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/uL9113qkeqs?si=yr3AdaxoMe9EMuFN",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
