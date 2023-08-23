@@ -241,6 +241,12 @@
             "link": "https://www.youtube.com/watch?v=hH4Fp4dHvYs",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "yzae",
+            "link": "https://youtu.be/tkSnVyFc92Y",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
