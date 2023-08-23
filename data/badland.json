@@ -74,6 +74,19 @@
             "link": "https://youtu.be/M9IfhjR0Fjc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "DenyZr",
+            "link": "https://youtu.be/odHvGvewC_M",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Fantendo",
+            "link": "https://m.youtube.com/watch?v=1dH2yQbgmvA&list=PLJnGTRomwPuhdoUKlGYHtCntrLrghL_Ys&index=17&t=2s&pp=gAQBiAQB",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
