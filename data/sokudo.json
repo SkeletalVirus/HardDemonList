@@ -145,6 +145,13 @@
             "link": "https://youtu.be/PtYseNE1EPg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "rodrigtz26",
+            "link": "https://youtu.be/K9aiT-1I96k",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
