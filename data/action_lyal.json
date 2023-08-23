@@ -140,6 +140,12 @@
             "link": "https://www.youtube.com/watch?v=tNLz_aviyYY",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "KKXGD",
+            "link": "https://youtu.be/JZTCBVxMuKs",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
