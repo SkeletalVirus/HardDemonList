@@ -575,6 +575,13 @@
             "link": "https://www.youtube.com/watch?v=T3hxZ_GaFxM&list=PL0SxygKD6YPaWr9CyNzWQZzVknZu9wMcK&index=23",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "AerialShard",
+            "link": "https://youtu.be/FwXEe2gJHX8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
    ]
 }
