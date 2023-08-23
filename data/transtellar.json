@@ -79,6 +79,13 @@
             "link": "https://youtu.be/BKEAOblKaOk",
             "percent": 100,
             "hz": 150
+        },
+        {
+            "user": "Fantendo",
+            "link": "https://m.youtube.com/watch?v=BV8D7Kjvia4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
      ]
 }
