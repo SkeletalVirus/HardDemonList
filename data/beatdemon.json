@@ -219,11 +219,17 @@
             "percent": 100,
             "hz": 288
         },
-          {
+        {
             "user": "Truebolt",
             "link": "https://youtu.be/Gpft2rwgwks",
             "percent": 100,
             "hz": 60
+        },
+        {
+          "user": "aTTempT",
+          "link": "https://youtu.be/QLcr1E6L0RU?si=05neq8RWHunHNiKJ",
+          "percent": 100,
+          "hz": 144
         }
       ]
 }
