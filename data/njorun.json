@@ -400,6 +400,13 @@
           "link": "https://www.youtube.com/watch?v=eGvhWiGJPBE&list=PL0SxygKD6YPaWr9CyNzWQZzVknZu9wMcK&index=21",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "AerialShard",
+          "link": "https://youtu.be/8lfVaSrJlxQ",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }
