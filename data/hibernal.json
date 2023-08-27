@@ -178,6 +178,13 @@
             "link": "https://youtu.be/59YwmKLl7hs",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "GDalsdels",
+            "link": "https://youtu.be/SLH94JBHOdE?si=i5D9SpIVlVgR4KRn",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

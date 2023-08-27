@@ -361,6 +361,19 @@
             "link": "https://youtu.be/ow3NPn36hbo",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "xNiue",
+            "link": "https://youtu.be/09DwKliSdVY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Aquatic51",
+            "link": "https://youtu.be/TGdAlfhRUUI?si=1kxCfyfZZyWS14Ed",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]    
 }

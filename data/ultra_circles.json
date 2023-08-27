@@ -102,6 +102,12 @@
             "link": "https://youtu.be/VVBA0cMTS8A",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Normal",
+            "link": "https://youtu.be/tPwyzFgU57s",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
