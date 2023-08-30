@@ -774,6 +774,13 @@
             "link": "https://youtu.be/MrhCxTbldfQ?si=gBNtItuhXVMpAwmf&t=717",
             "percent": 100,
             "hz": 75
-        }
+        },
+        {
+          "user": "SweetDreams",
+          "link": "https://youtu.be/-9iiIZliVN4?si=tQdZ1zr8doZxRaZ2",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+      }
     ]
 }
