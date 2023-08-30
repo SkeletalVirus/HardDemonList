@@ -138,7 +138,8 @@
           "user": "HanoCrux",
           "link": "https://www.youtube.com/watch?v=scCW67ZhYA0",
           "percent": 100,
-          "hz": 120
+          "hz": 120,
+          "mobile": true
          },
         {
           "user": "Leckylecks",
