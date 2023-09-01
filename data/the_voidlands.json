@@ -87,6 +87,13 @@
             "link": "https://www.youtube.com/watch?v=euJi9lTYmo8",
             "percent": 100,
             "hz": 150
+        },
+        {
+            "user": "Shyne",
+            "link": "https://www.youtube.com/watch?v=LBd1_JTwwJk",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
