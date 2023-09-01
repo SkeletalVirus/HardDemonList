@@ -402,11 +402,17 @@
           "hz": 60,
           "mobile": true
         },
-         {
+        {
             "user": "KX",
             "link": "https://youtu.be/HpHCAYr57YA?si=g82PBd30-EkLy-mM&t=859",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "tomm",
+            "link": "https://www.youtube.com/watch?v=rgbFbqbOOMI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
