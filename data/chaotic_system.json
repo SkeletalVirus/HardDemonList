@@ -119,11 +119,17 @@
           "percent": 100,
           "hz": 120
       },
-        {
+      {
           "user": "Leckylecks",
           "link": "https://www.youtube.com/watch?v=T3o3wIbIlQM",
           "percent": 100,
           "hz": 360
+      },
+      {
+          "user": "Leven",
+          "link": "https://youtu.be/iA2XUx3g0_w",
+          "percent": 100,
+          "hz": 75
       }
 ]
 }
