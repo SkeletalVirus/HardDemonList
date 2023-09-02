@@ -251,6 +251,13 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "Fantendo",
+          "link": "https://m.youtube.com/watch?v=nIwfxwnjSno",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }

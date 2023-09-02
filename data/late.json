@@ -178,6 +178,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "DevLovChez",
+            "link": "https://www.youtube.com/watch?v=Q2t3g4R4opo?t=455",
+            "percent": 100,
+            "hz": 100
         }
     ]
     }
