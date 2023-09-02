@@ -781,6 +781,26 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+      },
+      {
+          "user": "Fantendo",
+          "link": "https://m.youtube.com/watch?v=SyL82rPEk7A",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+      },
+      {
+            "user": "GD Chara",
+            "link": "https://youtu.be/zC3CxTvMgxg?si=RfVhB8OH4gN4RMSe",
+            "percent": 100,
+            "hz": 144
+      },
+      {
+          "user": "Aquatic51",
+          "link": "https://youtu.be/lH1uQKyjbnE?si=ETbkcKjQ-FgvEM0h",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
       }
     ]
 }
