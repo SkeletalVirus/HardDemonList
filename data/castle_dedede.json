@@ -90,6 +90,13 @@
             "link": "https://youtu.be/ZZB2pBpoK-M?t=367",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Aquatic51",
+            "link": "https://www.youtube.com/watch?v=0L58QG0Aseg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
