@@ -576,6 +576,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+          "user": "powersplit",
+          "link": "https://youtu.be/72v1iJj9t5o",
+          "percent": 100,
+          "hz": 240
         }
    ]
 }
