@@ -300,6 +300,13 @@
           "link": "https://youtu.be/wzHcNyIapjs?si=9lPhUo3JlH38tNC8&t=360",
           "percent": 100,
           "hz": 240
+        },
+        {
+            "user": "Aquatic51",
+            "link": "https://youtu.be/nbgS6B3bdQo?si=IB55udE6ERTZRoNw",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
      ]
 }
