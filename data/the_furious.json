@@ -801,6 +801,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+      },
+      {
+        "user": "RedMun",
+        "link": "https://www.youtube.com/watch?v=UEnZ7tXt_so",
+        "percent": 100,
+        "hz": 360
       }
     ]
 }

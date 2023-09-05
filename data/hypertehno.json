@@ -8,6 +8,35 @@
     "percentToQualify": 100,
     "password": 625445,
     "records": [
-
+        {
+            "user": "Kubus",
+            "link": "https://youtu.be/aOlC8ziqCAo?si=E88dhO4X2L4oiNAh",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "SafeSpace",
+            "link": "https://m.youtube.com/watch?v=XJtXBTDTZUs",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/hoFDHh6Q43M",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "https://youtu.be/epXZY_c5wtQ",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/exSDbIhARoI?si=lkwrekk0qVqNaSma",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
