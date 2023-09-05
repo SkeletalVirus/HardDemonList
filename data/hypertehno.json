@@ -12,7 +12,8 @@
             "user": "Kubus",
             "link": "https://youtu.be/aOlC8ziqCAo?si=E88dhO4X2L4oiNAh",
             "percent": 100,
-            "hz": 120
+            "hz": 120,
+            "mobile": true
         },
         {
             "user": "SafeSpace",
