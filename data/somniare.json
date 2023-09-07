@@ -307,6 +307,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+         {
+            "user": "FixYourGameplay",
+            "link": "https://youtu.be/LTu5wPmgcRc",
+            "percent": 100,
+            "hz": 60
         }
      ]
 }
