@@ -135,6 +135,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-        }
+        },
+        {
+          "user": "NewDark",
+          "link": "https://youtu.be/u5bInnZBV5k?si=cWMFv9wN3fdPkL33",
+          "percent": 100,
+          "hz": 144
+      }
       ]
 }

@@ -93,6 +93,13 @@
             "link": "https://youtu.be/JH5m1-5yq8k?si=j4ava0RS2WMa7GU0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Spider X-5820",
+            "link": "https://youtu.be/JZRMZivFTuY?si=C1T7TQ8WgYcu_lPv",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
