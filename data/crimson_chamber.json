@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=Isgoo_ms-r0",
             "percent": 100,
             "hz": 60
+        },
+         {
+            "user": "Fantendo",
+            "link": "https://m.youtube.com/watch?v=M6jiwIg2zoo",
+            "percent": 100,
+            "hz": 60
         }
       ]
 }
