@@ -1344,6 +1344,12 @@
             "link": "https://youtu.be/fbYeWiN6A3w?si=se1XgCjQ18-RgMf3",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+          "user": "Bunnsoup",
+          "link": "https://www.youtube.com/watch?v=k42aTQB-Kug",
+          "percent": 100,
+          "hz": 60
+      }
     ]
 }

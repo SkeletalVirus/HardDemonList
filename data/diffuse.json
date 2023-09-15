@@ -772,6 +772,12 @@
             "link": "https://youtu.be/KQBv4EmlVSc",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+          "user": "Bunnsoup",
+          "link": "https://youtu.be/y47QnMmLsTM",
+          "percent": 100,
+          "hz": 60
+      }
     ]
 }

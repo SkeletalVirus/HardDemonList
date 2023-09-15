@@ -306,6 +306,12 @@
             "link": "https://www.youtube.com/watch?v=nd_bs5R9mrs",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "FixYourGameplay",
+            "link": "https://youtu.be/g5cjrsVFX2U",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
