@@ -284,7 +284,8 @@
           "user": "Fantendo",
           "link": "https://m.youtube.com/watch?v=q9b-zQRETzM",
           "percent": 100,
-          "hz": 60
+          "hz": 60,
+          "mobile": true
         }
    ]
 }
