@@ -161,6 +161,12 @@
             "link": "https://www.twitch.tv/videos/1897764014",
             "percent": 100,
             "hz": 330
+        },
+        {
+            "user": "qKitti",
+            "link": "https://youtu.be/Ot9wgxxl_5A?si=ZEilUoChrqqhzfZm",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

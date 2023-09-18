@@ -136,25 +136,31 @@
             "percent": 100,
             "hz": 360
         },
-         {
+        {
             "user": "TheKhalilKind",
             "link": "https://youtu.be/8JocNaTuObE",
             "percent": 100,
             "hz": 60,
             "mobile": true
         },
-          {
+        {
             "user": "yzae",
             "link": "https://youtu.be/DvC5ThGYSKY",
             "percent": 100,
             "hz": 360
         },
-         {
+        {
           "user": "Kubus",
           "link": "https://youtu.be/0AXOaZmcp3I",
           "percent": 100,
           "hz": 120,
           "mobile": true
+        },
+        {
+          "user": "Megu",
+          "link": "https://youtu.be/U5raZT36QpQ",
+          "percent": 100,
+          "hz": 360
         }
     ]
 }
