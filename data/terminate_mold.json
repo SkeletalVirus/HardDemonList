@@ -226,6 +226,18 @@
           "link": "https://www.youtube.com/watch?v=lCI0tOeYsiM",
           "percent": 100,
           "hz": 240
-      }
+        },
+        {
+            "user": "Megu",
+            "link": "https://youtu.be/PC1fzq4iNxo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+          "user": "dindaxd",
+          "link": "https://youtu.be/GvzM-HTOVFM?si=ycAWxu98fr7jGBxA&t=17",
+          "percent": 100,
+          "hz": 240
+        }
    ]
 }
