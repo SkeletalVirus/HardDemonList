@@ -79,6 +79,14 @@
             "link": "https://youtu.be/1cjuPEc82gQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Kubus",
+            "link": "https://youtu.be/lWGetWQBsSk",
+            "percent": 100,
+            "hz": 120,
+            "mobile":true
         }
+
     ]
 }
