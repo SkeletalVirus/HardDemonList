@@ -784,6 +784,12 @@
           "link": "https://www.youtube.com/watch?v=L2bqZAW8VuE",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "reegump",
+          "link": "https://youtu.be/Rj1jn_MztP0?si=RhMfqpX5Ue1ZXayM",
+          "percent": 100,
+          "hz": 240
         }
     ]
 }

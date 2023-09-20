@@ -428,6 +428,12 @@
             "link": "https://youtu.be/pVa7R6MoWV4",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "KYZMANOID",
+            "link": "https://www.youtube.com/watch?v=QVYfSgIamBU",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
