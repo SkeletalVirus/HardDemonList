@@ -211,5 +211,9 @@
           "percent": 100,
           "hz": 60
       }
+          {
+          "user": "Stallia",
+          "percent": 100,
+      },
     ]
 }
