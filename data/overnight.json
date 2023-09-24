@@ -173,6 +173,24 @@
             "link": "https://youtu.be/S4lfKlhQGWw",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Seb",
+            "link": "https://youtu.be/3Fe8Mvstl4w?si=d8WO8PC_YdgiBpXc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Phenya",
+            "link": "https://youtu.be/ZJA0aws__l4?list=PLLCmK-FiNYBsDBuiX2MLUgOOjmu_oFLj5",
+            "percent": 100,
+            "hz": 200
+        },
+        {
+            "user": "Logarithm",
+            "link": "https://www.youtube.com/watch?v=dGvbzQoRJjw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

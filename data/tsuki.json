@@ -353,6 +353,13 @@
             "link": "https://youtu.be/THVe6uVHKzU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Maziro",
+            "link": "https://youtu.be/Ffv5ZKY5X8c?si=WTWtjNY05JDx6P4k",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

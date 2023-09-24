@@ -147,12 +147,19 @@
           "percent": 100,
           "hz": 360
         },
-         {
+        {
             "user": "TheKhalilKind",
             "link": "https://youtu.be/F7JaOB8DAYM",
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+          "user": "Subperfect",
+          "link": "https://youtu.be/3rV5tfD8MhM?feature=shared",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }

@@ -238,6 +238,19 @@
           "link": "https://youtu.be/GvzM-HTOVFM?si=ycAWxu98fr7jGBxA&t=17",
           "percent": 100,
           "hz": 240
+        },
+        {
+            "user": "Seb",
+            "link": "https://youtu.be/Fh9NZKqnv3Q?si=-4uTlC65cfYHiRXB",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Subperfect",
+            "link": "https://youtu.be/5V1xIQfKJ4I?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
    ]
 }
