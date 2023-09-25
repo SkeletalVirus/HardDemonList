@@ -231,7 +231,7 @@
           "link": "https://youtu.be/i_OtmtfJlOc",
           "percent": 100,
           "hz": 60
-      },
+        },
         {
             "user": "Blkoolaid",
             "link": "https://youtu.be/Bc9hRXDzcG8",
@@ -243,12 +243,19 @@
           "link": "https://youtu.be/C02d7CECrHg&t=1028",
           "percent": 100,
           "hz": 360
-      },
+        },
         {
             "user": "Kubus",
             "link": "https://youtu.be/e3LzlwHSuhM",
             "percent": 100,
             "hz": 120,
+            "mobile": true
+        },
+        {
+            "user": "Subperfect",
+            "link": "https://youtu.be/2GbjXJqox_4?si=bPj75iW2MguohAaU",
+            "percent": 100,
+            "hz": 60,
             "mobile": true
         }
       ]
