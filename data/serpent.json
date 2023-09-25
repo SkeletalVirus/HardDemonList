@@ -24,13 +24,19 @@
             "user": "Electro325",
             "link": "https://youtu.be/545y8nL4ybk?si=wvlzPN0XeOqAKvwK",
             "percent": 100,
-            "hz": 120
+            "hz": 360
         },
         {
             "user": "nTimaw",
             "link": "https://youtu.be/txyHN8xuobM?si=btXl2c1w29P76tAB",
             "percent": 100,
             "hz": 225
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/vx10lSKOMZA?si=VIWGYtfJhkjIYAvL",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
