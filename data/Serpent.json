@@ -1,0 +1,18 @@
+{
+    "id": 34874590,
+    "name": "Serpent",
+    "author": "gergedan",
+    "creators": [],
+    "verifier": "gergedan",
+    "verification": "https://www.youtube.com/watch?v=R9njIIa8MmM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Kubus",
+            "link": "https://youtu.be/IwfrcDo2jxA?si=rgB8_VGwKDeZzmvt",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+        }
+    ]
+}
