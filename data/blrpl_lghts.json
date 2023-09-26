@@ -361,6 +361,12 @@
           "link": "https://www.youtube.com/watch?v=-HJGtp-SNKA",
           "percent": 100,
           "hz": 60
-      }
+      },
+      {
+        "user": "Capt. Molo",
+        "link": "https://www.youtube.com/watch?v=kBGUwKTg3N8",
+        "percent": 100,
+        "hz": 240
+    }
     ]
 }

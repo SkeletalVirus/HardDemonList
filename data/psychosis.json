@@ -1357,6 +1357,19 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-        }
+        },
+        {
+          "user": "Seb",
+          "link": "https://www.youtube.com/watch?v=uV8esHkffHQ",
+          "percent": 100,
+          "hz": 144
+      },
+      {
+        "user": "Alishka",
+        "link": "https://youtu.be/sfVjW80dK1I?si=1Ht1c37lqbh5CzgJ",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
+    }
     ]
 }

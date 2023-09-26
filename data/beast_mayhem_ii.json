@@ -97,6 +97,12 @@
             "link": "https://youtu.be/kBCHS_jrA38",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Sumnolia",
+            "link": "https://www.youtube.com/watch?v=aIhudCjUev8",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

@@ -473,6 +473,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+            "user": "dindaxd",
+            "link": "https://www.youtube.com/watch?v=vqQFaq4JjPs&t=2s",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }

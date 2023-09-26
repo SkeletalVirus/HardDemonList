@@ -67,6 +67,31 @@
             "link": "https://youtu.be/5B5mXrRSv90?si=StVIvDO6_az1W8pq",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "TheGanGes",
+            "link": "https://youtu.be/BHNh3vYu1fw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "spectryl",
+            "link": "https://youtu.be/FPUtGsznbI4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Seb",
+            "link": "https://www.youtube.com/watch?v=QJOMMgf5lFU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Mazrio",
+            "link": "https://www.youtube.com/watch?v=zstsWQVU4GM&t=29s",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

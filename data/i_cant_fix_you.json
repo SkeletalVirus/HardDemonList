@@ -400,6 +400,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-        }
+        },
+        {
+          "user": "Sloudy",
+          "link": "https://www.youtube.com/watch?v=0b2O206Ruts",
+          "percent": 100,
+          "hz": 240
+      }
     ]
 }
