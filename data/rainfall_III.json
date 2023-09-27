@@ -195,6 +195,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-        }
+        },
+        {
+          "user": "guitarhero2189",
+          "link": "https://www.twitch.tv/videos/1935599802",
+          "percent": 100,
+          "hz": 330
+      }
       ] 
 }
