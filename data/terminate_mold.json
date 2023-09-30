@@ -251,6 +251,19 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Idkwhattobeeee",
+            "link": "https://youtu.be/rVY4WbJjEnU?si=NY2GFsDRpT_iv8Hh",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
+        },
+        {
+            "user": "Capt. Molo",
+            "link": "https://www.youtube.com/watch?v=L0rh_UGVjgM",
+            "percent": 100,
+            "hz": 240
         }
    ]
 }

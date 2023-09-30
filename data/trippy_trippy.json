@@ -92,6 +92,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "MarutiGD",
+            "link": "https://youtu.be/LsO3SzicQxQ",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

@@ -479,6 +479,13 @@
             "link": "https://www.youtube.com/watch?v=vqQFaq4JjPs&t=2s",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "JAYTHEGOAT",
+            "link": "https://youtu.be/0rd1FYAg_3o?si=9wR068MDvB4c5s4Y",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }

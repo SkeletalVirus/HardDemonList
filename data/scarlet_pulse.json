@@ -630,6 +630,18 @@
             "link": "https://www.youtube.com/watch?v=i2TkugHLlvc&t=514s",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Seb",
+            "link": "https://youtu.be/BivWDlefwPY?si=lmHFewznJL-QbtfE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Capt. Molo",
+            "link": "https://www.youtube.com/watch?v=A8JjwaNazhM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -167,6 +167,13 @@
           "link": "https://youtu.be/Z4o5TaOaGew",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Jayzu",
+          "link": "https://m.youtube.com/watch?v=dSiQ-RUkdL8",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
      ]
 }

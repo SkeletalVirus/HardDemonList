@@ -93,11 +93,18 @@
           "hz": 60,
           "mobile": true
         },
-         {
+        {
             "user": "yzae",
             "link": "https://youtu.be/q0x_YB4d4FE",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+          "user": "Subperfect",
+          "link": "https://youtu.be/gi4sUMuu4A0?feature=shared",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+      }
       ]
 }
