@@ -86,6 +86,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Kubus",
+            "link": "https://youtu.be/moyI11wUo64",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
      ]
 }
