@@ -1,0 +1,17 @@
+{
+    "id": 74651415,
+    "name": "Dark Tides",
+    "author": "rKath",
+    "creators": [],
+    "verifier": "Caustix",
+    "verification": "https://youtu.be/ClhpCI2MkW8?si=5akRXtv7ZuqEPwsM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SafeSpace",
+            "link": "https://youtu.be/BJxi76K_3w8",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
