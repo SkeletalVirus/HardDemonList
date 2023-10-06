@@ -362,17 +362,24 @@
           "percent": 100,
           "hz": 60
       },
-      {
+       {
         "user": "Capt. Molo",
         "link": "https://www.youtube.com/watch?v=kBGUwKTg3N8",
         "percent": 100,
         "hz": 240
-    },
-    {
+      },
+      {
       "user": "bongus",
       "link": "https://youtu.be/N2U30XTQjH8",
       "percent": 100,
       "hz": 360
-  }
+      },
+        {
+          "user": "Subperfect",
+          "link": "https://youtu.be/tq4ip5FBYQE?feature=shared",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        }
     ]
 }
