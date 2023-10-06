@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-                 {
+        {
             "user": "Robaleg9",
             "link": "https://www.youtube.com/watch?v=ERAOpZWgcJg",
             "percent": 100,
@@ -159,6 +159,13 @@
             "link": "https://youtu.be/IAq1Hn8GFW4",
             "percent": 100,
             "hz": 360
+        },
+        {
+          "user": "Subperfect",
+          "link": "https://youtu.be/6oGRpwM0nBs?feature=shared",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }
