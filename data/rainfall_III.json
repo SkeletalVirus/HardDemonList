@@ -201,6 +201,13 @@
           "link": "https://www.twitch.tv/videos/1935599802",
           "percent": 100,
           "hz": 330
-      }
+        },
+        {
+          "user": "Subperfect",
+          "link": "https://youtu.be/TX62gFGTh0c?feature=shared",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        }
       ] 
 }
