@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "password": "130203",
     "records": [
-              {       
+         {       
           "user": "Fawxu",
           "link": "https://youtu.be/azX4zxl8qXU",
           "percent": 100,
@@ -486,6 +486,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+          "user": "Subperfect",
+          "link": "https://youtu.be/yC2oBwECnfc?feature=shared",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
