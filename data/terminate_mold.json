@@ -264,6 +264,12 @@
             "link": "https://www.youtube.com/watch?v=L0rh_UGVjgM",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "powersplit",
+            "link": "https://youtu.be/ylNQAteiysw",
+            "percent": 100,
+            "hz": 240
         }
    ]
 }
