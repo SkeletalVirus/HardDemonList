@@ -244,6 +244,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+      },
+      {
+        "user": "Seb",
+        "link": "https://youtu.be/rev_gT8S0ao?si=dQPXCcf8ZowQtWwJ",
+        "percent": 100,
+        "hz": 144
       }
       ]    
 }

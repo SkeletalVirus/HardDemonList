@@ -270,6 +270,19 @@
             "link": "https://youtu.be/ylNQAteiysw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "DasherRobert",
+            "link": "https://youtu.be/b7B66Oac1qU?si=3zbJmvOyGNERGtmy",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "nico27",
+            "link": "https://youtu.be/PNzfMziwUds",
+            "percent": 100,
+            "hz": 120
         }
    ]
 }

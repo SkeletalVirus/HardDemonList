@@ -210,6 +210,13 @@
             "link": "https://youtu.be/TQvYegUb7nM",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+          "user": "Shyne",
+          "link": "https://youtu.be/J92vMR8_EFU?si=0nFuO-z3kJ2uz21C",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+      }
       ]
 }
