@@ -207,6 +207,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-        }
+        },
+        {
+          "user": "robl",
+          "link": "https://youtu.be/9vkkdIUVU9c?si=l3EOUsw0qqU4Soci",
+          "percent": 100,
+          "hz": 360
+      }
       ]
 }
