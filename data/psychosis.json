@@ -1382,6 +1382,19 @@
       "link": "https://m.youtube.com/watch?v=woZKopR22jo",
       "percent": 100,
       "hz": 60
-    }
+    },
+    {
+      "user": "K3NNYY0",
+      "link": "https://youtu.be/KJLhzsCYpzc?si=kWFzWnkPZ7ZzevQv",
+      "percent": 100,
+      "hz": 360
+  },
+  {
+    "user": "Gabbotronix",
+    "link": "https://youtu.be/MhhT0fD0eC4?si=qLKnATv6ByqauXQx",
+    "percent": 100,
+    "hz": 60,
+    "mobile": true
+}
     ]
 }

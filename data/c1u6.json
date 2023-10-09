@@ -68,6 +68,12 @@
             "percent": 100,
             "hz": 60,
             "mobile":true
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/I1jVAr4ysxw?si=DJscyjKLexswCuL4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

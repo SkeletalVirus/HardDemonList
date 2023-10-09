@@ -326,6 +326,19 @@
           "link": "https://www.youtube.com/watch?v=PCZHon45zWc&t=2s",
           "percent": 100,
           "hz": 240
-      }
+      },
+      {
+        "user": "Fantendo",
+        "link": "https://youtu.be/CJmn2wbuuUQ?si=yw4p5ABgO2t_FbfQ",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
+    },
+    {
+      "user": "ChaeTDC",
+      "link": "https://youtu.be/wH_Ygx6sLVI?si=UnlbMadRXgAS58mq",
+      "percent": 100,
+      "hz": 60
+  }
      ]
 }

@@ -80,6 +80,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+            "user": "dindaxd",
+            "link": "https://youtu.be/WBXeHYlp3lA?si=6-18DE910X5EEJJ-",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

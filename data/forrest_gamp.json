@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=x1bbWlfKpnk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Jollow",
+            "link": "https://youtu.be/h21ryATTt2s?si=Q7aXBvIRre6nIwEr",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
