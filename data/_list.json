@@ -2,7 +2,6 @@
     "terminate_mold",
     "spacial_rift",
     "no_concept",
-    "pinball_panic",
     "silence",
     "tsuki",
     "azure_paralyzer",
@@ -202,5 +201,6 @@
     "fortitude",
     "terror_factory",
     "vengeance",
-    "deltafunk"
+    "deltafunk",
+   "pinball_panic"
 ]
