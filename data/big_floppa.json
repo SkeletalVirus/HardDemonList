@@ -322,6 +322,13 @@
             "link": "https://www.youtube.com/watch?v=kdcY-TYo5dg",
             "percent": 100,
             "hz": 240
+        },
+        {
+          "user": "timmy",
+          "link": "https://youtu.be/ayMx-HkO-nM?si=dwqsorw9W6vIhxbw",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }
