@@ -283,6 +283,24 @@
             "link": "https://youtu.be/PNzfMziwUds",
             "percent": 100,
             "hz": 120
+        },
+        {
+          "user": "Welon",
+          "link": "https://youtu.be/y92w4bCTG_4",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "thexxuser",
+          "link": "https://youtu.be/pQZVj5JSMPo",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "ItsLejoGD",
+          "link": "https://www.youtube.com/watch?v=FSaevXIgCmk",
+          "percent": 100,
+          "hz": 60
         }
    ]
 }
