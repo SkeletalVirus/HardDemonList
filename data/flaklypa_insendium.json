@@ -166,6 +166,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-        }    
+        },
+        {
+            "user": "GDLenny",
+            "link": "https://youtu.be/qOhlvSWQWK4?si=_Rgq9Da9_0qPvhKP",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
