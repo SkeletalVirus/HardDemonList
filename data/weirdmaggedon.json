@@ -146,6 +146,13 @@
             "link": "https://youtu.be/IyEbzkYu6bM",
             "percent": 100,
             "hz": 300
-        }
+        },
+        {
+          "user": "nix",
+          "link": "https://youtu.be/ukmN4G4zviA?si=ajV3YmTfgNr7PnNU",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+      }
       ]
 }

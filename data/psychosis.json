@@ -1395,6 +1395,24 @@
     "percent": 100,
     "hz": 60,
     "mobile": true
+},
+{
+  "user": "C0olness",
+  "link": "https://www.youtube.com/watch?v=BWK_V_U047I",
+  "percent": 100,
+  "hz": 144
+},
+{
+  "user": "opayc",
+  "link": "https://www.youtube.com/watch?v=BWK_V_U047I",
+  "percent": 100,
+  "hz": 120
+},
+{
+  "user": "Zxnyi",
+  "link": "https://youtu.be/qz2t1Ybbi7M?si=UZTh_qotRoGttiNg",
+  "percent": 100,
+  "hz": 144
 }
     ]
 }

@@ -99,6 +99,12 @@
             "percent": 100,
             "hz": 60,
             "mobile":true
+        },
+        {
+            "user": "AcropolisBoy",
+            "link": "https://www.youtube.com/watch?v=V-D2Z_9KvC4",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }

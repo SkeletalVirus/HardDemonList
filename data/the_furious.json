@@ -845,6 +845,13 @@
       "link": "https://youtu.be/KzxAGTV0l6o?si=2Q76m2r1mjvF9V_N",
       "percent": 100,
       "hz": 144
-  }
+    },
+    {
+      "user": "SpeedBreaker",
+      "link": "https://www.youtube.com/watch?v=rloydtB_qy4&list=PLip2vJQGJt84nhodFPSuONem03jSRME-S&index=1",
+      "percent": 100,
+      "hz": 60,
+      "mobile": true
+    }
     ]
 }

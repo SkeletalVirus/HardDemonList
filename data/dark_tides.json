@@ -74,6 +74,26 @@
             "link": "https://youtu.be/nWvPz5FOcGs?si=lWrRfYQ022xhjqeU",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Bonezizdum",
+            "link": "https://youtu.be/eQV5JY2EdC4?si=L8G1FoGM7yKq-2jn",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Zandezz",
+            "link": "https://youtu.be/LvFC9HTTAkA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "miserygaming",
+            "link": "https://youtu.be/SJrkIeVE9DE?si=6BGrq8wursdd3V24",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

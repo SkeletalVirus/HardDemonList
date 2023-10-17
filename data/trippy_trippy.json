@@ -112,6 +112,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "BillieJoeGD",
+            "link": "https://www.youtube.com/watch?v=HbWUGtww3eU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
