@@ -59,7 +59,7 @@
           "user": "Fantendo",
           "link": "https://m.youtube.com/watch?v=9FLyiyKd77U&list=PLJnGTRomwPujCaa34CYVxryhpnj0K7bIC&index=2&pp=gAQBiAQB",
           "percent": 100,
-          "hz": 60
+          "hz": 60,
           "mobile": true
         },
         {
@@ -84,7 +84,7 @@
           "user": "ttrr329",
           "link": "https://youtu.be/Cxf9UHIZmLA?si=0dBmpsUv_NneLqbh",
           "percent": 100,
-          "hz": 120
+          "hz": 120,
           "mobile": true
         }
     ]
