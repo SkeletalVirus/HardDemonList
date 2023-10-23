@@ -220,6 +220,12 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
-    }
+    },
+    {
+      "user": "insosil",
+      "link": "https://youtu.be/MKnWim1yX0Y?si=nFlbo40Qk7mlYURp",
+      "percent": 100,
+      "hz": 240
+  }
       ]
 }
