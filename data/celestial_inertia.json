@@ -86,7 +86,12 @@
             "percent": 100,
             "hz": 120,
             "mobile":true
+        },
+        {
+            "user": "spectryl",
+            "link": "https://youtu.be/AJ_blB5meAg",
+            "percent": 100,
+            "hz": 240
         }
-
     ]
 }
