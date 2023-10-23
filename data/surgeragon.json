@@ -112,6 +112,19 @@
           "link": "https://youtu.be/2RY-Wy0GW30",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Subperfect",
+          "link": "https://youtu.be/Lle588yulvs?feature=shared",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        },
+        {
+          "user": "CarnaNOC",
+          "link": "https://www.youtube.com/watch?v=_-Emswndv_w&ab_channel=Golden_Boy",
+          "percent": 100,
+          "hz": 200
         }
       ]
 }
