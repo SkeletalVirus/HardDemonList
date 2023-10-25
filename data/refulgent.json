@@ -93,6 +93,19 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-      }
+        },
+        {
+          "user": "HanoCrux",
+          "link": "https://youtu.be/tarX_3Q6418?si=jkmktIvST-hRaN5l",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
+        },
+        {
+          "user": "KKXGD",
+          "link": "https://youtu.be/Q4_lXSMzcKs",
+          "percent": 100,
+          "hz": 240
+        }
     ]
 }

@@ -133,6 +133,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Agentdarius",
+            "link": "https://youtu.be/XIvQHkXGJSY",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
