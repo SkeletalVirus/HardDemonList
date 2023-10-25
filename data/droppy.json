@@ -434,6 +434,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "LarsingDash",
+            "link": "https://youtu.be/UaZNO73FChs",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
