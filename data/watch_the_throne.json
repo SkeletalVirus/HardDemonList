@@ -142,6 +142,13 @@
           "link": "https://www.youtube.com/watch?v=WGm0K_inF-8&ab_channel=deadbush",
           "percent": 100,
           "hz": 144
-      }
+        },
+        {
+          "user": "Subperfect",
+          "link": "https://youtu.be/CsvXBxwMz-k?feature=shared",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        }
     ]
 }

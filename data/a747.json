@@ -111,6 +111,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "KKXGD",
+            "link": "https://youtu.be/D8ZAU93l6vM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
