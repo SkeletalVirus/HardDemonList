@@ -112,6 +112,31 @@
           "link": "https://youtu.be/H3xPu6dfHlE?si=AcBTuYzOTsWWAh_p",
           "percent": 100,
           "hz": 360
+        },
+        {
+          "user": "AcropolisBoy",
+          "link": "https://youtu.be/etMpJAg57oI",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "SirDiablo",
+          "link": "https://youtu.be/SqXKTL2y1_k",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "Halagan",
+          "link": "https://youtu.be/63epy-z7LgQ?si=uzwk14vWqm0GMNUv",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        },
+        {
+          "user": "nvc1",
+          "link": "https://www.youtube.com/watch?v=0D_gfWoNjjo",
+          "percent": 100,
+          "hz": 290
         }
     ]
 }
