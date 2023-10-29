@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/pwTHAy37Y3U?si=YwdXQMUiX2OwJor3",
     "percentToQualify": 100,
     "password": "Free to Copy",
-    "records": []
+    "records": [
         {
             "user": "Leckylecks",
             "link": "https://youtu.be/wbFsS5OjTUs?si=OdqrEZ5i7yWS-XtS",
@@ -68,4 +68,5 @@
             "percent": 100,
             "hz": 321
         }
+    ]
 }
