@@ -2,15 +2,7 @@
     "id": 74651415,
     "name": "Dark Tides",
     "author": "rKath",
-    "creators": [
-    "PDKGD",
-    "QuayTayMC",
-    "Yurism",
-    "Naris29",
-    "Kz06",
-    "rKath",
-    "Giang2004"
-],
+    "creators": ["PDKGD", "QuayTayMC", "Yurism", "Naris29", "Kz06", "rKath", "Giang2004"],
     "verifier": "Caustix",
     "verification": "https://youtu.be/ClhpCI2MkW8?si=5akRXtv7ZuqEPwsM",
     "percentToQualify": 100,
@@ -108,6 +100,18 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Juako",
+            "link": "https://www.youtube.com/watch?v=8HFaIWwtn6w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "KKXGD",
+            "link": "https://youtu.be/IKcoD2nG-2I",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
