@@ -341,6 +341,12 @@
             "hz": 240
         },
         {
+          "user": "Rocipher",
+          "link": "https://www.youtube.com/watch?v=eGvhWiGJPBE&list=PL0SxygKD6YPaWr9CyNzWQZzVknZu9wMcK&index=21",
+          "percent": 100,
+          "hz": 60
+        },
+        {
             "user": "Qisth",
             "link": "https://youtu.be/grdQLpKlAS0",
             "percent": 100,
@@ -380,12 +386,6 @@
         {
           "user": "ItsLejoGD",
           "link": "https://www.youtube.com/watch?v=4OFqjvCHwGU",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "Rocipher",
-          "link": "https://www.youtube.com/watch?v=eGvhWiGJPBE&list=PL0SxygKD6YPaWr9CyNzWQZzVknZu9wMcK&index=21",
           "percent": 100,
           "hz": 60
         },
