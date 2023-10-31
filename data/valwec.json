@@ -162,6 +162,12 @@
             "percent": 100,
             "hz": 120,
             "mobile":true
-        }
+        },
+        {
+         "user": "ItsLejoGD",
+         "link": "https://www.youtube.com/watch?v=-cIk5_o4Sa4",
+         "percent": 100,
+         "hz": 60
+     }
     ]
 }

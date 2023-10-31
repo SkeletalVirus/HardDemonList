@@ -217,6 +217,12 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
-     }
+     },
+     {
+      "user": "SafeSpace",
+      "link": "https://m.youtube.com/watch?v=Q3vnheY-bLs&t=8m3s",
+      "percent": 100,
+      "hz": 120
+      }
     ]
 }
