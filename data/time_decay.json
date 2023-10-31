@@ -183,6 +183,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-        }
+        },
+        {
+          "user": "KX",
+          "link": "https://youtu.be/1N-xPQGv0HQ",
+          "percent": 100,
+          "Hz": 75
+      }
     ]
 }
