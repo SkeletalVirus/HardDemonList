@@ -183,6 +183,18 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-          }
-        ]
+          },
+          {
+            "user": "Leven",
+            "link": "https://youtu.be/gtf7rCR1VSk?si=mxbNIxA_sE2AaNtW",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "vasenotchalleng",
+            "link": "https://youtu.be/GoTwr0hoTFI",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
 }

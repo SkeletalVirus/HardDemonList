@@ -165,6 +165,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },      
+        {
+            "user": "EzequielThecausin",
+            "link": "https://youtu.be/ZOZWZtHVCgM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
