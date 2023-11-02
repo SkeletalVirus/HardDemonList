@@ -223,6 +223,12 @@
       "link": "https://m.youtube.com/watch?v=Q3vnheY-bLs&t=8m3s",
       "percent": 100,
       "hz": 120
-      }
+      },
+      {
+        "user": "not cyclic",
+        "link": "https://youtu.be/AdDF-BIoN2w",
+        "percent": 100,
+        "Hz": 240
+    }
     ]
 }
