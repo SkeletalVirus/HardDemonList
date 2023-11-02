@@ -6,5 +6,12 @@
     "verifier": "MaxiS9",
     "verification": "https://youtu.be/umw5cB72VY4?si=CbrkFivw_KDluJua",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/PCMlsDsaFVU?si=qEVxuBvN_vBJKT43",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
 }
