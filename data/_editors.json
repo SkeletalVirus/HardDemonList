@@ -19,15 +19,25 @@
         "name": "B6oy1004",
         "link": "https://www.youtube.com/@b6oy1004"
     },
+     {
+        "role": "admin",
+        "name": "SoftMuffin76",
+        "link": "https://www.youtube.com/@SoftMuffin76"
+    },
     {
         "role": "trial",
         "name": "Bobbyp02",
         "link": "https://www.youtube.com/@gdbobbyp0236"
     },
-    {
+     {
         "role": "trial",
-        "name": "SoftMuffin76",
-        "link": "https://www.youtube.com/@SoftMuffin76"
+        "name": "SEDTHEPRODIGY",
+        "link": "https://www.youtube.com/@sedtheprodigy8643"
+    },
+        {
+        "role": "trial",
+        "name": "spectryl",
+        "link": "https://www.youtube.com/@loveSpectral"
     },
     {
         "role": "helper",
@@ -38,16 +48,6 @@
         "role": "helper",
         "name": "Robaleg9",
         "link": "https://www.youtube.com/@robaleg9792"
-    },
-    {
-        "role": "helper",
-        "name": "SEDTHEPRODIGY",
-        "link": "https://www.youtube.com/@sedtheprodigy8643"
-    },
-    {
-        "role": "helper",
-        "name": "spectryl",
-        "link": "https://www.youtube.com/@loveSpectral"
     },
     {
         "role": "helper",
