@@ -56,6 +56,30 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/ngQTlwXVitQ?si=EPZYZVwCowr9LTEN",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nico27",
+            "link": "https://youtu.be/SX5V-VGi6oc",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Abeginner",
+            "link": "https://youtu.be/u0OxHdX3mpY?si=saMdOQ5vB4R-2dsL",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AcropolisBoy",
+            "link": "https://youtu.be/uLkSrYoid8E",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

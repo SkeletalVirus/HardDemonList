@@ -80,6 +80,12 @@
             "link": "https://www.youtube.com/watch?v=W0ihblAOvV0",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Royale",
+            "link": "https://youtu.be/q8eYS6vFIAc",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
