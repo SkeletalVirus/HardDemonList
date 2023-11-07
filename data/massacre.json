@@ -103,6 +103,19 @@
           "link": "https://youtu.be/BNqKzvwWlhs",
           "percent": 100,
           "hz": 240
-         }
+        },
+        {
+          "user": "Leven",
+          "link": "https://youtu.be/mSHelOHEbPg",
+          "percent": 100,
+          "hz": 75
+        },
+        {
+          "user": "SmileBullet",
+          "link": "https://youtu.be/q-s1unALnuY?si=4qqDQQhj1BCldXMz",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        }
     ]
 }
